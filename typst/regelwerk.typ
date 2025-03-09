@@ -55,6 +55,14 @@
 // section 2
 #import "team/spielerinnen.typ" as spielerinnen_text: title as spielerinnen_title
 #import "team/zusammensetzung.typ" as zusammensetzung_text: title as zusammensetzung_title
+// section 3
+#import "spielablauf/spielzug.typ" as spielzug_text: title as spielzug_title
+#import "spielablauf/aufstellung.typ" as aufstellung_text: title as aufstellung_title
+#import "spielablauf/einleiten.typ" as einleiten_text: title as einleiten_title
+#import "spielablauf/fruehstart.typ" as fruehstart_text: title as fruehstart_title
+#import "spielablauf/punkten.typ" as punkten_text: title as punkten_title
+#import "spielablauf/spiel_nach_steinen.typ" as spiel_nach_steinen_text: title as spiel_nach_steinen_title
+#import "spielablauf/spiel_nach_saetzen.typ" as spiel_nach_saetzen_text: title as spiel_nach_saetzen_title
 
 
 #impressum_text
@@ -96,5 +104,21 @@
 #spielerinnen_text
 == #zusammensetzung_title
 #zusammensetzung_text
+= Spielablauf
+== #spielzug_title
+#spielzug_text
+== #aufstellung_title
+#aufstellung_text
+== #einleiten_title
+#einleiten_text
+=== #fruehstart_title
+#fruehstart_text
+== #punkten_title
+#punkten_text
+== #spiel_nach_steinen_title
+#spiel_nach_steinen_text
+== #spiel_nach_saetzen_title
+#spiel_nach_saetzen_text
+
 
 #text(size: 30pt, fill: red)[TODO: Rest des Regelwerks übernehmen]
