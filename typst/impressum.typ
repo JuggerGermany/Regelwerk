@@ -1,9 +1,7 @@
 CC 2023 Jugger Deutschland \
 #link("regelwerk@djsv.de")
 
-#enum(
-  enum.item(11)[bearbeitete Ausgabe 2023. Hrsg. von: Jugger Community.\ Bearbeitet von: Pit Albert, Manuel Kubat, Felix Lang.],
-)
+#enum(enum.item(11)[bearbeitete Ausgabe 2023. Hrsg. von: Jugger Community.\ Bearbeitet von: Pit Albert, Manuel Kubat, Felix Lang.])
 
 + Ausgabe 2007. Hrsg. von: Drachenblut-Forum \ Bearbeitet von: Ruben Wickenhäuser, Jakob Senst
 + Ausgabe 2010. Hrsg. von: Jugger-Community. \ Bearbeitet von: Ruben Wickenhäuser
@@ -21,4 +19,25 @@ Aaron Wilde – Jugger Consulting \
 Bearbeitung des Satzes (11. Ausgabe 2023):
 Ruben Wickenhäuser
 #align(left)[#image("images/by-nc-nd.png", width: 3cm)]
+#pagebreak()
+
+#heading(numbering: none, outlined: false)[Anmerkung]
+Das Regelwerk bietet die von der aktiven Jugger-Gemeinschaft
+abgestimmte, bundesweite Grundlage für Jugger in Deutschland und
+reguliert den Spielablauf, das Spielfeld, die Spielmaterialen und das
+Schiedsrichter*innenverhalten. Es beinhaltet ausschließlich die von der
+Jugger-Gemeinschaft in Deutschland beschlossenen Inhalte. Die Arbeit
+der Regelhütenden wird von der deutschen Jugger-Gemeinschaft durch
+Wahl bestätigt.\
+
+Hauptinformationsseiten des Sports Jugger:
+
+jugger.org\
+jugger.de
+
+Die aktuelle Fassung des Regelwerks findet sich unter:
+jugger.org/downloads
+Bei nachfolgendem Regelwerk wird eine genderneutrale Schreibweise mit
+Gendersternchen \* verwendet, um dem Umstand der geschlechtlichen
+Diversität Rechnung zu tragen.
 #pagebreak()
