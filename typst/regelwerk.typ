@@ -33,6 +33,9 @@
 
 #columns(2, outline(title: "Inhalt"))
 
+// introductory explanations
+#import "./introduction.typ" as introduction_text
+
 // main content
 #import "./spielfeld_sportgeraete/spielfeld.typ" as spielfeld_text: title as spielfeld_title
 #import "./spielfeld_sportgeraete/jugg.typ" as jugg_text: title as jugg_title
@@ -49,6 +52,8 @@
 #import "./spielfeld_sportgeraete/pompfen/kette.typ" as kette_text: title as kette_title
 #import "spielfeld_sportgeraete/kleidung.typ" as kleidung_text: title as kleidung_title
 
+#introduction_text
+#pagebreak()
 = Spielfeld und Sportgeräte
 == #spielfeld_title
 #spielfeld_text
