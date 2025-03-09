@@ -31,7 +31,8 @@
   in-outline.update(false)
 }
 
-#columns(2, outline(title: "Inhalt"))
+// impressum
+#import "./impressum.typ" as impressum_text
 
 // introductory explanations
 #import "./introduction.typ" as introduction_text
@@ -52,6 +53,8 @@
 #import "./spielfeld_sportgeraete/pompfen/kette.typ" as kette_text: title as kette_title
 #import "spielfeld_sportgeraete/kleidung.typ" as kleidung_text: title as kleidung_title
 
+#impressum_text
+#columns(2, outline(title: "Inhalt"))
 #introduction_text
 #pagebreak()
 = Spielfeld und Sportgeräte
