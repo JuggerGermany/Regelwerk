@@ -2,6 +2,7 @@
 #set heading(numbering: "1.1.1.1")
 
 #text(size: 30pt)[Dies ist das Regelwerk]
+#show "_": sym.space.nobreak.narrow
 
 #import "./spielfeld_sportgeraete/spielfeld.typ" as spielfeld_text: title as spielfeld_title
 #import "./spielfeld_sportgeraete/jugg.typ" as jugg_text: title as jugg_title
