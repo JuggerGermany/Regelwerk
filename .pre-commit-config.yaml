@@ -1,0 +1,16 @@
+ repos:
+  - repo: local
+    hooks:
+      - id: typstyle
+        name: typstyle
+        description: Format files with typstyle
+        entry: typstyle
+        language: rust
+        types: [file]
+        additional_dependencies: ["cli:typstyle:0.13.0"]
+        files: \.typ$
+        args: [-i]
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+    -   id: trailing-whitespace
