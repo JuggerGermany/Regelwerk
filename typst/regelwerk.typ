@@ -1,4 +1,5 @@
 #set heading(numbering: "1.1.1.1")
+#set text(lang: "de")
 
 #show "_": sym.space.nobreak.narrow
 
