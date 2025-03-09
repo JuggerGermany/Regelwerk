@@ -1,3 +1,5 @@
+#import "/typst/edit_utils.typ": todo
+
 #set heading(numbering: "1.1.1.1")
 #show heading: set text(font: "montserrat", fill: rgb("#4F4F51"))
 #show heading: upper
@@ -91,7 +93,7 @@
 #import "/typst/spielhelferinnen/malrichterinnen.typ" as malrichterinnen_text: title as malrichterinnen_title
 #import "/typst/spielhelferinnen/punktezaehlerin.typ" as punktezaehlerin_text: title as punktezaehlerin_title
 
-#text(size: 30pt, fill: red)[TODO: Titelblatt]
+#todo[Titelblatt]
 
 #impressum_text
 #columns(2, outline(title: "Inhalt"))
@@ -203,4 +205,4 @@
 === #punktezaehlerin_title
 #punktezaehlerin_text
 
-#text(size: 30pt, fill: red)[TODO: letzte Seite]
+#todo[Letzte Seite]

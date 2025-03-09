@@ -1,3 +1,5 @@
+#import "/typst/edit_utils.typ": todo
+
 #let title = "Kette"
 
 Die maximale Länge und die maximale Reichweite der Kette (Handschlaufe
@@ -7,4 +9,4 @@ Handschlaufe durchgehend gepolstert. Die Polsterung darf nicht verrutschen. Am h
 befindet sich die Handschlaufe. Zum regelgerechten Führen muss sich die Handschlaufe an der Hand
 oder am Arm des*der Kettenspieler*in befinden. Mit der Kette kann nicht gepinnt werden.
 
-#text(size: 20pt, fill: red)[Bild einfügen]
+#todo(color: blue)[Bild einfügen]

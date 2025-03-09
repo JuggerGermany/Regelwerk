@@ -1,3 +1,5 @@
+#import "/typst/edit_utils.typ": todo
+
 #let title = "Q-Tip"
 
 Die maximale Länge des Q-Tips beträgt #strong[200_cm]. Die maximale Reichweite des Q-Tips beträgt #strong[140_cm].
@@ -7,4 +9,4 @@ Die Grifffläche befindet sich zwischen den beiden Schlagflächen in der Mitte d
 maximal #strong[80_cm] lang. Zum regelgerechten Führen müssen sich zwei Hände an der Grifffläche
 befinden. Mit dem Q-Tip darf gestochen werden.
 
-#text(size: 20pt, fill: red)[Bild einfügen]
+#todo(color: blue)[Bild einfügen]

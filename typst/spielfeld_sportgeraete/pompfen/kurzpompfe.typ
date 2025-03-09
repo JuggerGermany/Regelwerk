@@ -1,3 +1,5 @@
+#import "/typst/edit_utils.typ": todo
+
 #let title = "Kurzpompfe"
 
 Die maximale Länge und die maximale Reichweite der Kurzpompfe beträgt #strong[85_cm]. Die
@@ -7,4 +9,4 @@ Grifffläche befindet sich am hinteren Ende der Pompfe. Die Kurzpompfe darf in K
 Schild oder einer zweiten Kurzpompfe gespielt werden. Zum regelgerechten Führen muss sich eine Hand
 an der Grifffläche befinden. Mit der Kurzpompfe darf gestochen werden.
 
-#text(size: 20pt, fill: red)[Bild einfügen]
+#todo(color: blue)[Bild einfügen]

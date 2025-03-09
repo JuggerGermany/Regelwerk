@@ -1,3 +1,5 @@
+#import "/typst/edit_utils.typ": todo
+
 #let title = "Trefferzone"
 
 Die Trefferzone ist der Bereich am Körper der Feldspieler*innen, an dem sie
@@ -9,5 +11,4 @@ solange sie die Pompfe mit einem beliebigen Teil der Hand berühren, nicht
 zur Trefferzone; die Handgelenke gehören zur Trefferzone.
 
 
-#text(size: 30pt, fill: red)[TODO: Bild einfügen]
-
+#todo(color: blue)[Bild einfügen]

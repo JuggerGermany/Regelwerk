@@ -1,3 +1,5 @@
+#import "/typst/edit_utils.typ": todo
+
 #let title = "Gültige und ungültige Treffer"
 
 Aktive Nahpompfer*innen treffen gültig, indem sie mit der Schlagfläche
@@ -17,4 +19,4 @@ Ein Treffer ist ungültig, wenn:
 - die Pompfe von einer Kette umwickelt ist und eine*n andere*n Feldspieler*in als den*die Kettenspieler*in trifft.
 - der Kettenball an eine Trefferzone schwingt oder die Kette eine geschlossene Form um eine Trefferzone bildet, nachdem die Kette um eine Pompfe die geschlossene Form gebildet hat. Die Kette gilt dann als gefangen.
 
-#text(size: 30pt, fill: red)[TODO: Bild einfügen]
+#todo(color: blue)[Bild einfügen]

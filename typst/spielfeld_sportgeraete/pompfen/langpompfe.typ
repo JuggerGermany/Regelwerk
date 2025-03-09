@@ -1,3 +1,5 @@
+#import "/typst/edit_utils.typ": todo
+
 #let title = "Langpompfe"
 
 Die maximale Länge und die maximale Reichweite der Langpompfe beträgt #strong[140_cm]. Die
@@ -6,4 +8,4 @@ Stechspitze ausgestattet. Die minimale Länge der Schlagfläche mit Spitze betr�
 Die Grifffläche befindet sich am hinteren Ende der Pompfe. Zum regelgerechten Führen müssen sich
 zwei Hände an der Grifffläche befinden. Mit der Langpompfe darf gestochen werden.
 
-#text(size: 20pt, fill: red)[Bild einfügen]
+#todo(color: blue)[Bild einfügen]
