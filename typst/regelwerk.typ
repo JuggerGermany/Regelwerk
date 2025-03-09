@@ -91,6 +91,13 @@
 #import "regeln/inaktive_feldspielerinnen/abknien.typ" as abknien_text: title as abknien_title
 #import "regeln/inaktive_feldspielerinnen/strafzeit.typ" as strafzeit_text: title as strafzeit_title
 #import "regeln/inaktive_feldspielerinnen/aufstehen.typ" as aufstehen_text: title as aufstehen_title
+// section 5
+#import "spielhelferinnen/spielhelferinnen.typ" as spielhelferinnen_text: title as spielhelferinnen_title
+#import "spielhelferinnen/schiedsrichterinnen.typ" as schiedsrichterinnen_text: title as schiedsrichterinnen_title
+#import "spielhelferinnen/hauptschiedsrichterin.typ" as hauptschiedsrichterin_text: title as hauptschiedsrichterin_title
+#import "spielhelferinnen/nebenschiedsrichterin.typ" as nebenschiedsrichterin_text: title as nebenschiedsrichterin_title
+#import "spielhelferinnen/malrichterinnen.typ" as malrichterinnen_text: title as malrichterinnen_title
+#import "spielhelferinnen/punktezaehlerin.typ" as punktezaehlerin_text: title as punktezaehlerin_title
 
 #text(size: 30pt, fill: red)[TODO: Titelblatt]
 
@@ -185,5 +192,18 @@
 #strafzeit_text
 === #aufstehen_title
 #aufstehen_text
+= Spielhelfer*innen
+== #spielhelferinnen_title
+#spielhelferinnen_text
+== #schiedsrichterinnen_title
+#schiedsrichterinnen_text
+=== #hauptschiedsrichterin_title
+#hauptschiedsrichterin_text
+=== #nebenschiedsrichterin_title
+#nebenschiedsrichterin_text
+=== #malrichterinnen_title
+#malrichterinnen_text
+=== #punktezaehlerin_title
+#punktezaehlerin_text
 
-#text(size: 30pt, fill: red)[TODO: Rest des Regelwerks übernehmen]
+#text(size: 30pt, fill: red)[TODO: letzte Seite]
