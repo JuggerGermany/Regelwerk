@@ -1,11 +1,13 @@
 #set heading(numbering: "1.1.1.1")
-#set text(lang: "de")
+#show heading: set text(font: "montserrat", fill: rgb("#4F4F51"))
+#show heading: upper
+
+#set text(lang: "de", font: "vollkorn", fill: rgb("#4F4F51"))
 
 #show "_": sym.space.nobreak.narrow
 
 // outline
 #let in-outline = state("in-outline", false)
-
 #set page(
   numbering: (..n) => context {
     if in-outline.get() {
@@ -15,7 +17,6 @@
     }
   },
 )
-
 #show outline.entry: it => link(it.element.location(), it.indented(it.prefix(), it.inner()))
 #show outline.entry.where(level: 1): it => {
   set text(13pt)
