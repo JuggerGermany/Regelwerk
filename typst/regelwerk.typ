@@ -16,10 +16,7 @@
   },
 )
 
-#show outline.entry: it => link(
-  it.element.location(),
-  it.indented(it.prefix(), it.inner()),
-)
+#show outline.entry: it => link(it.element.location(), it.indented(it.prefix(), it.inner()))
 #show outline.entry.where(level: 1): it => {
   set text(13pt)
   v(12pt, weak: true)
@@ -33,71 +30,65 @@
 }
 
 // impressum
-#import "./impressum.typ" as impressum_text
+#import "/typst/impressum.typ" as impressum_text
 
 // introductory explanations
-#import "./introduction.typ" as introduction_text
+#import "/typst/introduction.typ" as introduction_text
 
 // main content
-#import "./spielfeld_sportgeraete/spielfeld.typ" as spielfeld_text: title as spielfeld_title
-#import "./spielfeld_sportgeraete/jugg.typ" as jugg_text: title as jugg_title
-#import "./spielfeld_sportgeraete/mal.typ" as mal_text: title as mal_title
-#import "./spielfeld_sportgeraete/pompfen.typ" as pompfen_text: title as pompfen_title
-#import "./spielfeld_sportgeraete/pompfen/griffflaeche.typ" as griffflaeche_text: title as griffflaeche_title
-#import "./spielfeld_sportgeraete/pompfen/schlagflaeche.typ" as schlagflaeche_text: title as schlagflaeche_title
-#import "./spielfeld_sportgeraete/pompfen/stechspitze.typ" as stechspitze_text: title as stechspitze_title
-#import "./spielfeld_sportgeraete/pompfen/schild.typ" as schild_text: title as schild_title
-#import "./spielfeld_sportgeraete/pompfen/kurzpompfe.typ" as kurzpompfe_text: title as kurzpompfe_title
-#import "./spielfeld_sportgeraete/pompfen/langpompfe.typ" as langpompfe_text: title as langpompfe_title
-#import "./spielfeld_sportgeraete/pompfen/qtip.typ" as qtip_text: title as qtip_title
-#import "./spielfeld_sportgeraete/pompfen/stab.typ" as stab_text: title as stab_title
-#import "./spielfeld_sportgeraete/pompfen/kette.typ" as kette_text: title as kette_title
-#import "spielfeld_sportgeraete/kleidung.typ" as kleidung_text: title as kleidung_title
+#import "/typst/spielfeld_sportgeraete/spielfeld.typ" as spielfeld_text: title as spielfeld_title
+#import "/typst/spielfeld_sportgeraete/jugg.typ" as jugg_text: title as jugg_title
+#import "/typst/spielfeld_sportgeraete/mal.typ" as mal_text: title as mal_title
+#import "/typst/spielfeld_sportgeraete/pompfen.typ" as pompfen_text: title as pompfen_title
+#import "/typst/spielfeld_sportgeraete/pompfen/griffflaeche.typ" as griffflaeche_text: title as griffflaeche_title
+#import "/typst/spielfeld_sportgeraete/pompfen/schlagflaeche.typ" as schlagflaeche_text: title as schlagflaeche_title
+#import "/typst/spielfeld_sportgeraete/pompfen/stechspitze.typ" as stechspitze_text: title as stechspitze_title
+#import "/typst/spielfeld_sportgeraete/pompfen/schild.typ" as schild_text: title as schild_title
+#import "/typst/spielfeld_sportgeraete/pompfen/kurzpompfe.typ" as kurzpompfe_text: title as kurzpompfe_title
+
+#import "/typst/spielfeld_sportgeraete/pompfen/langpompfe.typ" as langpompfe_text: title as langpompfe_title
+
+#import "/typst/spielfeld_sportgeraete/pompfen/qtip.typ" as qtip_text: title as qtip_title
+#import "/typst/spielfeld_sportgeraete/pompfen/stab.typ" as stab_text: title as stab_title
+#import "/typst/spielfeld_sportgeraete/pompfen/kette.typ" as kette_text: title as kette_title
+#import "/typst/spielfeld_sportgeraete/kleidung.typ" as kleidung_text: title as kleidung_title
 // section 2
-#import "team/spielerinnen.typ" as spielerinnen_text: title as spielerinnen_title
-#import "team/zusammensetzung.typ" as zusammensetzung_text: title as zusammensetzung_title
+#import "/typst/team/spielerinnen.typ" as spielerinnen_text: title as spielerinnen_title
+#import "/typst/team/zusammensetzung.typ" as zusammensetzung_text: title as zusammensetzung_title
 // section 3
-#import "spielablauf/spielzug.typ" as spielzug_text: title as spielzug_title
-#import "spielablauf/aufstellung.typ" as aufstellung_text: title as aufstellung_title
-#import "spielablauf/einleiten.typ" as einleiten_text: title as einleiten_title
-#import "spielablauf/fruehstart.typ" as fruehstart_text: title as fruehstart_title
-#import "spielablauf/punkten.typ" as punkten_text: title as punkten_title
-#import "spielablauf/spiel_nach_steinen.typ" as spiel_nach_steinen_text: title as spiel_nach_steinen_title
-#import "spielablauf/spiel_nach_saetzen.typ" as spiel_nach_saetzen_text: title as spiel_nach_saetzen_title
+#import "/typst/spielablauf/spielzug.typ" as spielzug_text: title as spielzug_title
+#import "/typst/spielablauf/aufstellung.typ" as aufstellung_text: title as aufstellung_title
+#import "/typst/spielablauf/einleiten.typ" as einleiten_text: title as einleiten_title
+#import "/typst/spielablauf/fruehstart.typ" as fruehstart_text: title as fruehstart_title
+#import "/typst/spielablauf/punkten.typ" as punkten_text: title as punkten_title
+#import "/typst/spielablauf/spiel_nach_steinen.typ" as spiel_nach_steinen_text: title as spiel_nach_steinen_title
+#import "/typst/spielablauf/spiel_nach_saetzen.typ" as spiel_nach_saetzen_text: title as spiel_nach_saetzen_title
 // section 4
-#import "regeln/sicherheit.typ" as sicherheit_text: title as sicherheit_title
-#import "regeln/aktive_feldspielerinnen.typ" as aktive_feldspielerinnen_text: title as aktive_feldspielerinnen_title
-#import "regeln/aus.typ" as aus_text: title as aus_title
-#import "regeln/aktive_pompferinnen/aktive_pomferinnen.typ" as aktive_pomferinnen_text: (
-  title as aktive_pomferinnen_title,
-)
-#import "regeln/aktive_pompferinnen/sicherer_umgang.typ" as sicherer_umgang_text: title as sicherer_umgang_title
-#import "regeln/aktive_pompferinnen/beschaedigte_pompfe.typ" as beschaedigte_pompfe_text: (
-  title as beschaedigte_pompfe_title,
-)
-#import "regeln/aktive_pompferinnen/pompfe_fuehren.typ" as pompfe_fuehren_text: title as pompfe_fuehren_title
-#import "regeln/aktive_pompferinnen/trefferzone.typ" as trefferzone_text: title as trefferzone_title
-#import "regeln/aktive_pompferinnen/gueltig_ungueltig_treffen.typ" as gueltig_ungueltig_treffen_text: (
-  title as gueltig_ungueltig_treffen_title,
-)
-#import "regeln/aktive_pompferinnen/doppeltreffer.typ" as doppeltreffer_text: title as doppeltreffer_title
-#import "regeln/aktive_pompferinnen/ansagen.typ" as ansagen_text: title as ansagen_title
-#import "regeln/aktive_pompferinnen/pinnen.typ" as pinnen_text: title as pinnen_title
-#import "regeln/aktive_pompferinnen/jugg_spielen.typ" as jugg_spielen_text: title as jugg_spielen_title
-#import "regeln/aktive_lauferinnen.typ" as aktive_lauferinnen_text: title as aktive_lauferinnen_title
-#import "regeln/inaktive_feldspielerinnen/inaktive_feldspielerinnen.typ" as inaktive_feldspielerinnen_text: (
-  title as inaktive_feldspielerinnen_title,
-)
-#import "regeln/inaktive_feldspielerinnen/abknien.typ" as abknien_text: title as abknien_title
-#import "regeln/inaktive_feldspielerinnen/strafzeit.typ" as strafzeit_text: title as strafzeit_title
-#import "regeln/inaktive_feldspielerinnen/aufstehen.typ" as aufstehen_text: title as aufstehen_title
+#import "/typst/regeln/sicherheit.typ" as sicherheit_text: title as sicherheit_title
+#import "/typst/regeln/aktive_feldspielerinnen.typ" as aktive_feldspielerinnen_text: title as aktive_feldspielerinnen_title
+#import "/typst/regeln/aus.typ" as aus_text: title as aus_title
+#import "/typst/regeln/aktive_pompferinnen/aktive_pomferinnen.typ" as aktive_pomferinnen_text: title as aktive_pomferinnen_title
+#import "/typst/regeln/aktive_pompferinnen/sicherer_umgang.typ" as sicherer_umgang_text: title as sicherer_umgang_title
+#import "/typst/regeln/aktive_pompferinnen/beschaedigte_pompfe.typ" as beschaedigte_pompfe_text: title as beschaedigte_pompfe_title
+#import "/typst/regeln/aktive_pompferinnen/pompfe_fuehren.typ" as pompfe_fuehren_text: title as pompfe_fuehren_title
+#import "/typst/regeln/aktive_pompferinnen/trefferzone.typ" as trefferzone_text: title as trefferzone_title
+#import "/typst/regeln/aktive_pompferinnen/gueltig_ungueltig_treffen.typ" as gueltig_ungueltig_treffen_text: title as gueltig_ungueltig_treffen_title
+#import "/typst/regeln/aktive_pompferinnen/doppeltreffer.typ" as doppeltreffer_text: title as doppeltreffer_title
+#import "/typst/regeln/aktive_pompferinnen/ansagen.typ" as ansagen_text: title as ansagen_title
+#import "/typst/regeln/aktive_pompferinnen/pinnen.typ" as pinnen_text: title as pinnen_title
+#import "/typst/regeln/aktive_pompferinnen/jugg_spielen.typ" as jugg_spielen_text: title as jugg_spielen_title
+#import "/typst/regeln/aktive_lauferinnen.typ" as aktive_lauferinnen_text: title as aktive_lauferinnen_title
+#import "/typst/regeln/inaktive_feldspielerinnen/inaktive_feldspielerinnen.typ" as inaktive_feldspielerinnen_text: title as inaktive_feldspielerinnen_title
+#import "/typst/regeln/inaktive_feldspielerinnen/abknien.typ" as abknien_text: title as abknien_title
+#import "/typst/regeln/inaktive_feldspielerinnen/strafzeit.typ" as strafzeit_text: title as strafzeit_title
+#import "/typst/regeln/inaktive_feldspielerinnen/aufstehen.typ" as aufstehen_text: title as aufstehen_title
 // section 5
-#import "spielhelferinnen/spielhelferinnen.typ" as spielhelferinnen_text: title as spielhelferinnen_title
-#import "spielhelferinnen/schiedsrichterinnen.typ" as schiedsrichterinnen_text: title as schiedsrichterinnen_title
-#import "spielhelferinnen/hauptschiedsrichterin.typ" as hauptschiedsrichterin_text: title as hauptschiedsrichterin_title
-#import "spielhelferinnen/nebenschiedsrichterin.typ" as nebenschiedsrichterin_text: title as nebenschiedsrichterin_title
-#import "spielhelferinnen/malrichterinnen.typ" as malrichterinnen_text: title as malrichterinnen_title
-#import "spielhelferinnen/punktezaehlerin.typ" as punktezaehlerin_text: title as punktezaehlerin_title
+#import "/typst/spielhelferinnen/spielhelferinnen.typ" as spielhelferinnen_text: title as spielhelferinnen_title
+#import "/typst/spielhelferinnen/schiedsrichterinnen.typ" as schiedsrichterinnen_text: title as schiedsrichterinnen_title
+#import "/typst/spielhelferinnen/hauptschiedsrichterin.typ" as hauptschiedsrichterin_text: title as hauptschiedsrichterin_title
+#import "/typst/spielhelferinnen/nebenschiedsrichterin.typ" as nebenschiedsrichterin_text: title as nebenschiedsrichterin_title
+#import "/typst/spielhelferinnen/malrichterinnen.typ" as malrichterinnen_text: title as malrichterinnen_title
+#import "/typst/spielhelferinnen/punktezaehlerin.typ" as punktezaehlerin_text: title as punktezaehlerin_title
 
 #text(size: 30pt, fill: red)[TODO: Titelblatt]
 
@@ -105,6 +96,7 @@
 #columns(2, outline(title: "Inhalt"))
 #introduction_text
 #pagebreak()
+
 = Spielfeld und Sportgeräte
 == #spielfeld_title
 #spielfeld_text
@@ -135,11 +127,13 @@
 #kette_text
 == #kleidung_title
 #kleidung_text
+
 = Team
 == #spielerinnen_title
 #spielerinnen_text
 == #zusammensetzung_title
 #zusammensetzung_text
+
 = Spielablauf
 == #spielzug_title
 #spielzug_text
@@ -155,6 +149,7 @@
 #spiel_nach_steinen_text
 == #spiel_nach_saetzen_title
 #spiel_nach_saetzen_text
+
 = Regeln
 == #sicherheit_title
 #sicherheit_text
@@ -192,6 +187,7 @@
 #strafzeit_text
 === #aufstehen_title
 #aufstehen_text
+
 = Spielhelfer*innen
 == #spielhelferinnen_title
 #spielhelferinnen_text

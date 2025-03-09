@@ -1,0 +1,5 @@
+{
+	"tinymist.formatterMode": "typstyle",
+	"editor.defaultFormatter": "myriad-dreamin.tinymist",
+	"tinymist.formatterPrintWidth": 160
+}
