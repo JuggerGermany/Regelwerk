@@ -1,0 +1,13 @@
+#let title = "Stab"
+
+Die maximale Länge des Stabs beträgt #strong[180 cm]. Die maximale Reichweite des Stabs beträgt #strong[110 cm].
+Die Schlagfläche ist das vordere, gepolsterte Ende. Die minimale Länge der Schlagfläche beträgt #strong[90 cm].
+Die Schlagfläche des Stabs ist mit einer Stechspitze ausgestattet. Der Stab hat zwei Griffflächen am
+hinteren Teil der Pompfe, die durch eine Schaumstoffmanschette getrennt sind. Die vordere
+Grifffläche geht von der Schlagfläche bis zur Manschette. Die Manschette begrenzt klar erkennbar die
+maximale Reichweite des Stabes und ist rundum mindestens #strong[1 cm] dicker als die vordere
+Grifffläche. Die hintere Grifffläche geht von der Manschette bis zum Knauf. Zum regelgerechten
+Führen muss sich die eine Hand an der vorderen und die andere Hand an der hinteren Grifffläche
+befinden. Mit dem Stab darf nicht gestochen werden.
+
+#text(size: 20pt, fill: red)[Bild einfügen]
