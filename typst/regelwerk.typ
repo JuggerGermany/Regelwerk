@@ -3,8 +3,16 @@
 #set heading(numbering: "1.1.1.1")
 #show heading: set text(font: "montserrat", fill: rgb("#4F4F51"))
 #show heading: upper
+#show heading.where(level: 1, outlined: true): it => {
+  [
+    #colbreak()
+    #text(size: 100pt, font: "georgia", weight: "bold")[#counter(heading).display(it.numbering)] \
+    #text(size: 50pt, weight: "thin")[#upper[#it.body]]
+    #colbreak()
+  ]
+}
 
-#set text(lang: "de", font: "vollkorn", fill: rgb("#4F4F51"))
+#set text(lang: "de", size: 13pt, font: "vollkorn", fill: rgb("#4F4F51"))
 
 #show "_": sym.space.nobreak.narrow
 
@@ -96,7 +104,12 @@
 #todo[Titelblatt]
 
 #impressum_text
-#columns(2, outline(title: "Inhalt"))
+
+#align(center)[
+  #text(size: 40pt, font: "montserrat", weight: "thin")[#upper[Inhalt]]
+]
+#columns(2, outline(title: none))
+
 #introduction_text
 #pagebreak()
 
