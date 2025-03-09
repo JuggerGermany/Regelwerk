@@ -1,3 +1,5 @@
+#import "/typst/edit_utils.typ": todo
+
 #let title = "Spielfeld"
 
 Die Form des Spielfeldes entspricht einem länglichen Achteck. Die Gesamtlänge beträgt #strong[40_m].
@@ -8,3 +10,5 @@ sowohl die Grund- als auch die Seitenlinien, gehören zum Aus. Der #emph[Mittelp
 ist markiert. Auf diesen Punkt wird vor jedem Spielzug der #emph[Jugg] gelegt. Die #emph[Male] befinden
 sich auf beiden Spielfeldhälften, ausgehend von der Mitte der jeweiligen Grundlinie #strong[2_m] in
 Richtung Mittelpunkt.
+
+#todo(color: blue)[Bild einfügen]
