@@ -1,7 +1,6 @@
 #set page(numbering: "-1-")
 #set heading(numbering: "1.1.1.1")
 
-#text(size: 30pt)[Dies ist das Regelwerk]
 #show "_": sym.space.nobreak.narrow
 
 #import "./spielfeld_sportgeraete/spielfeld.typ" as spielfeld_text: title as spielfeld_title
