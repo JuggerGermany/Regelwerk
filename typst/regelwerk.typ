@@ -1,8 +1,39 @@
-#set page(numbering: "-1-")
 #set heading(numbering: "1.1.1.1")
 
 #show "_": sym.space.nobreak.narrow
 
+// outline
+#let in-outline = state("in-outline", false)
+
+#set page(
+  numbering: (..n) => context {
+    if in-outline.get() {
+      numbering("1", ..n)
+    } else {
+      numbering("- 1 / 1 -", ..n)
+    }
+  },
+)
+
+#show outline.entry: it => link(
+  it.element.location(),
+  it.indented(it.prefix(), it.inner()),
+)
+#show outline.entry.where(level: 1): it => {
+  set text(13pt)
+  v(12pt, weak: true)
+  it = it.indented(it.prefix(), it.body())
+  strong(it)
+}
+#show outline: it => {
+  in-outline.update(true)
+  it
+  in-outline.update(false)
+}
+
+#columns(2, outline(title: "Inhalt"))
+
+// main content
 #import "./spielfeld_sportgeraete/spielfeld.typ" as spielfeld_text: title as spielfeld_title
 #import "./spielfeld_sportgeraete/jugg.typ" as jugg_text: title as jugg_title
 #import "./spielfeld_sportgeraete/mal.typ" as mal_text: title as mal_title
