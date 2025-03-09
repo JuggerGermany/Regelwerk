@@ -1,24 +1,13 @@
 #import "/typst/edit_utils.typ": todo
 
-#set heading(numbering: "1.1.1.1")
-#show heading: set text(font: "montserrat", fill: rgb("#4F4F51"))
-#show heading: upper
-#show heading.where(level: 1, outlined: true): it => {
-  [
-    #colbreak()
-    #text(size: 100pt, font: "georgia", weight: "bold")[#counter(heading).display(it.numbering)] \
-    #text(size: 50pt, weight: "thin")[#upper[#it.body]]
-    #colbreak()
-  ]
-}
-
-#set text(lang: "de", size: 13pt, font: "vollkorn", fill: rgb("#4F4F51"))
-
-#show "_": sym.space.nobreak.narrow
-
-// outline
 #let in-outline = state("in-outline", false)
+#let outside-pos = state("outside-pos", right)
+#let dark-background = rgb("#78909C")
+#let mid-background = rgb("#CFD8DC")
+#let light-background = rgb("#ECEFF1")
+
 #set page(
+  margin: (inside: 3cm, outside: 2cm, top: 4cm),
   numbering: (..n) => context {
     if in-outline.get() {
       numbering("1", ..n)
@@ -26,7 +15,82 @@
       numbering("- 1 / 1 -", ..n)
     }
   },
+  background: (
+    context {
+      let nb = counter(heading).get().at(0)
+      if calc.odd(counter(page).get().at(0)) {
+        outside-pos.update(left)
+      } else {
+        outside-pos.update(right)
+      }
+      place(
+        top + outside-pos.get(),
+        dx: 0cm,
+        dy: 0cm,
+        rect(width: 1.5cm, height: 18cm, fill: light-background),
+      )
+      for dy in (5.6cm, 8.6cm, 11.6cm) {
+        place(
+          top + outside-pos.get(),
+          dx: 0cm,
+          dy: dy,
+          rect(width: 1.5cm, height: 1.5cm, fill: mid-background),
+        )
+      }
+      if nb > 0 {
+        place(
+          top + outside-pos.get(),
+          dx: 0cm,
+          dy: 4.1cm + 1.5cm * nb,
+          rect(width: 1.5cm, height: 1.5cm, fill: dark-background),
+        )
+      }
+    }
+  ),
 )
+
+
+#set heading(numbering: "1.1.1.1")
+#show heading: set text(font: "montserrat", fill: rgb("#4F4F51"))
+#show heading: upper
+#show heading.where(level: 1, outlined: true): it => context {
+  [
+    #let color = state("color", rgb("#78909C"))
+    #let nb = counter(heading).get().at(0)
+    #if calc.even(nb) {
+      color.update(rgb("#CFD8DC"))
+    } else {
+      color.update(rgb("#ECEFF1"))
+    }
+    #pagebreak(to: "even")
+    #v(-1.5cm + nb * 1.3cm)
+    #place(
+      top + left,
+      dx: -2cm,
+      dy: 0.1cm + 1.5cm * nb,
+      rect(width: 3.5cm + 0.23cm * nb, height: 1.5cm, fill: dark-background),
+    )
+    #place(
+      top + left,
+      dx: -2cm,
+      dy: 0.1cm + 1.5cm * (nb - 1),
+      rect(width: 1.5cm, height: 1.5cm, fill: color.get()),
+    )
+    #text(size: 150pt, font: "georgia", weight: "bold")[#counter(heading).display(it.numbering)] \
+
+    #text(size: 50pt, weight: "thin")[#upper[#it.body]]
+    #colbreak()
+  ]
+}
+
+
+#set text(lang: "de", size: 13pt, font: "vollkorn", fill: rgb("#4F4F51"))
+
+#show "_": sym.space.nobreak.narrow
+
+// outline
+
+
 #show outline.entry: it => link(it.element.location(), it.indented(it.prefix(), it.inner()))
 #show outline.entry.where(level: 1): it => {
   set text(13pt)
@@ -112,6 +176,7 @@
 
 #introduction_text
 #pagebreak()
+
 
 = Spielfeld und Sportgeräte
 == #spielfeld_title
