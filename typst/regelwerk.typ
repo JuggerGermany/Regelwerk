@@ -16,6 +16,7 @@
 #import "./spielfeld_sportgeraete/pompfen/qtip.typ" as qtip_text: title as qtip_title
 #import "./spielfeld_sportgeraete/pompfen/stab.typ" as stab_text: title as stab_title
 #import "./spielfeld_sportgeraete/pompfen/kette.typ" as kette_text: title as kette_title
+#import "spielfeld_sportgeraete/kleidung.typ" as kleidung_text: title as kleidung_title
 
 = Spielfeld und Sportgeräte
 == #spielfeld_title
@@ -45,5 +46,7 @@
 #stab_text
 ==== #kette_title
 #kette_text
+== #kleidung_title
+#kleidung_text
 
 #text(size: 30pt, fill: red)[TODO: Rest des Regelwerks übernehmen]
