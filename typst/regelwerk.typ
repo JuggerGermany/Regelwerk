@@ -52,6 +52,10 @@
 #import "./spielfeld_sportgeraete/pompfen/stab.typ" as stab_text: title as stab_title
 #import "./spielfeld_sportgeraete/pompfen/kette.typ" as kette_text: title as kette_title
 #import "spielfeld_sportgeraete/kleidung.typ" as kleidung_text: title as kleidung_title
+// section 2
+#import "team/spielerinnen.typ" as spielerinnen_text: title as spielerinnen_title
+#import "team/zusammensetzung.typ" as zusammensetzung_text: title as zusammensetzung_title
+
 
 #impressum_text
 #columns(2, outline(title: "Inhalt"))
@@ -87,5 +91,10 @@
 #kette_text
 == #kleidung_title
 #kleidung_text
+= Team
+== #spielerinnen_title
+#spielerinnen_text
+== #zusammensetzung_title
+#zusammensetzung_text
 
 #text(size: 30pt, fill: red)[TODO: Rest des Regelwerks übernehmen]
