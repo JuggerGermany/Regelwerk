@@ -144,7 +144,6 @@
 #import "/typst/spielablauf/abbruch.typ" as abbruch_text: title as abbruch_title
 // section 4
 #import "/typst/regeln/sicherheit.typ" as sicherheit_text: title as sicherheit_title
-#import "/typst/regeln/aktive_feldspielerinnen.typ" as aktive_feldspielerinnen_text: title as aktive_feldspielerinnen_title
 #import "/typst/regeln/feldspielerinnen.typ" as feldspielerinnen_text: title as feldspielerinnen_title
 #import "/typst/regeln/aus.typ" as aus_text: title as aus_title
 #import "/typst/regeln/aktive_pomferinnen.typ" as aktive_pomferinnen_text: title as aktive_pomferinnen_title
