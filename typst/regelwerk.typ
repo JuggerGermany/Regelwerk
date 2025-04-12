@@ -148,9 +148,11 @@
 #import "/typst/regeln/beschaedigte_pompfe.typ" as beschaedigte_pompfe_text: title as beschaedigte_pompfe_title
 #import "/typst/regeln/pompfe_fuehren.typ" as pompfe_fuehren_text: title as pompfe_fuehren_title
 #import "/typst/regeln/trefferzone.typ" as trefferzone_text: title as trefferzone_title
-#import "/typst/regeln/gueltig_ungueltig_treffen.typ" as gueltig_ungueltig_treffen_text: title as gueltig_ungueltig_treffen_title
+#import "/typst/regeln/gueltig_ausgefuehrte_treffer.typ" as gueltig_ausgefuehrte_treffer_text: title as gueltig_ausgefuehrte_treffer_title
+#import "/typst/regeln/gueltig_platzierte_treffer.typ" as gueltig_platzierte_treffer_text: title as gueltig_platzierte_treffer_title
 #import "/typst/regeln/doppeltreffer.typ" as doppeltreffer_text: title as doppeltreffer_title
 #import "/typst/regeln/ansagen.typ" as ansagen_text: title as ansagen_title
+#import "/typst/regeln/treffer.typ" as treffer_text: title as treffer_title
 #import "/typst/regeln/pinnen.typ" as pinnen_text: title as pinnen_title
 #import "/typst/regeln/jugg_platzieren.typ" as jugg_platzieren_text: title as jugg_platzieren_title
 #import "/typst/regeln/aktive_lauferinnen.typ" as aktive_lauferinnen_text: title as aktive_lauferinnen_title
@@ -252,15 +254,14 @@
 #inaktive_feldspielerinnen_text
 == #aus_title
 #aus_text
-// === #aktive_feldspielerinnen_title
-// #aktive_feldspielerinnen_text
-== Treffer
-=== #pompfe_fuehren_title
-#pompfe_fuehren_text
+== #treffer_title
+#treffer_text
+=== #gueltig_ausgefuehrte_treffer_title
+#gueltig_ausgefuehrte_treffer_text
+=== #gueltig_platzierte_treffer_title
+#gueltig_platzierte_treffer_text
 === #trefferzone_title
 #trefferzone_text
-=== #gueltig_ungueltig_treffen_title
-#gueltig_ungueltig_treffen_text
 === #doppeltreffer_title
 #doppeltreffer_text
 === #ansagen_title
