@@ -135,31 +135,33 @@
 #import "/typst/team/zusammensetzung.typ" as zusammensetzung_text: title as zusammensetzung_title
 // section 3
 #import "/typst/spielablauf/spielzug.typ" as spielzug_text: title as spielzug_title
+#import "/typst/spielablauf/spiel_nach_steinen.typ" as spiel_nach_steinen_text: title as spiel_nach_steinen_title
+#import "/typst/spielablauf/spiel_nach_saetzen.typ" as spiel_nach_saetzen_text: title as spiel_nach_saetzen_title
 #import "/typst/spielablauf/aufstellung.typ" as aufstellung_text: title as aufstellung_title
 #import "/typst/spielablauf/einleiten.typ" as einleiten_text: title as einleiten_title
 #import "/typst/spielablauf/fruehstart.typ" as fruehstart_text: title as fruehstart_title
 #import "/typst/spielablauf/punkten.typ" as punkten_text: title as punkten_title
-#import "/typst/spielablauf/spiel_nach_steinen.typ" as spiel_nach_steinen_text: title as spiel_nach_steinen_title
-#import "/typst/spielablauf/spiel_nach_saetzen.typ" as spiel_nach_saetzen_text: title as spiel_nach_saetzen_title
+#import "/typst/spielablauf/abbruch.typ" as abbruch_text: title as abbruch_title
 // section 4
 #import "/typst/regeln/sicherheit.typ" as sicherheit_text: title as sicherheit_title
 #import "/typst/regeln/aktive_feldspielerinnen.typ" as aktive_feldspielerinnen_text: title as aktive_feldspielerinnen_title
+#import "/typst/regeln/feldspielerinnen.typ" as feldspielerinnen_text: title as feldspielerinnen_title
 #import "/typst/regeln/aus.typ" as aus_text: title as aus_title
-#import "/typst/regeln/aktive_pompferinnen/aktive_pomferinnen.typ" as aktive_pomferinnen_text: title as aktive_pomferinnen_title
-#import "/typst/regeln/aktive_pompferinnen/sicherer_umgang.typ" as sicherer_umgang_text: title as sicherer_umgang_title
-#import "/typst/regeln/aktive_pompferinnen/beschaedigte_pompfe.typ" as beschaedigte_pompfe_text: title as beschaedigte_pompfe_title
-#import "/typst/regeln/aktive_pompferinnen/pompfe_fuehren.typ" as pompfe_fuehren_text: title as pompfe_fuehren_title
-#import "/typst/regeln/aktive_pompferinnen/trefferzone.typ" as trefferzone_text: title as trefferzone_title
-#import "/typst/regeln/aktive_pompferinnen/gueltig_ungueltig_treffen.typ" as gueltig_ungueltig_treffen_text: title as gueltig_ungueltig_treffen_title
-#import "/typst/regeln/aktive_pompferinnen/doppeltreffer.typ" as doppeltreffer_text: title as doppeltreffer_title
-#import "/typst/regeln/aktive_pompferinnen/ansagen.typ" as ansagen_text: title as ansagen_title
-#import "/typst/regeln/aktive_pompferinnen/pinnen.typ" as pinnen_text: title as pinnen_title
-#import "/typst/regeln/aktive_pompferinnen/jugg_spielen.typ" as jugg_spielen_text: title as jugg_spielen_title
+#import "/typst/regeln/aktive_pomferinnen.typ" as aktive_pomferinnen_text: title as aktive_pomferinnen_title
+#import "/typst/regeln/sicherer_umgang.typ" as sicherer_umgang_text: title as sicherer_umgang_title
+#import "/typst/regeln/beschaedigte_pompfe.typ" as beschaedigte_pompfe_text: title as beschaedigte_pompfe_title
+#import "/typst/regeln/pompfe_fuehren.typ" as pompfe_fuehren_text: title as pompfe_fuehren_title
+#import "/typst/regeln/trefferzone.typ" as trefferzone_text: title as trefferzone_title
+#import "/typst/regeln/gueltig_ungueltig_treffen.typ" as gueltig_ungueltig_treffen_text: title as gueltig_ungueltig_treffen_title
+#import "/typst/regeln/doppeltreffer.typ" as doppeltreffer_text: title as doppeltreffer_title
+#import "/typst/regeln/ansagen.typ" as ansagen_text: title as ansagen_title
+#import "/typst/regeln/pinnen.typ" as pinnen_text: title as pinnen_title
+#import "/typst/regeln/jugg_platzieren.typ" as jugg_platzieren_text: title as jugg_platzieren_title
 #import "/typst/regeln/aktive_lauferinnen.typ" as aktive_lauferinnen_text: title as aktive_lauferinnen_title
-#import "/typst/regeln/inaktive_feldspielerinnen/inaktive_feldspielerinnen.typ" as inaktive_feldspielerinnen_text: title as inaktive_feldspielerinnen_title
-#import "/typst/regeln/inaktive_feldspielerinnen/abknien.typ" as abknien_text: title as abknien_title
-#import "/typst/regeln/inaktive_feldspielerinnen/strafzeit.typ" as strafzeit_text: title as strafzeit_title
-#import "/typst/regeln/inaktive_feldspielerinnen/aufstehen.typ" as aufstehen_text: title as aufstehen_title
+#import "/typst/regeln/inaktive_feldspielerinnen.typ" as inaktive_feldspielerinnen_text: title as inaktive_feldspielerinnen_title
+#import "/typst/regeln/abknien.typ" as abknien_text: title as abknien_title
+#import "/typst/regeln/strafzeit.typ" as strafzeit_text: title as strafzeit_title
+#import "/typst/regeln/aufstehen.typ" as aufstehen_text: title as aufstehen_title
 // section 5
 #import "/typst/spielhelferinnen/spielhelferinnen.typ" as spielhelferinnen_text: title as spielhelferinnen_title
 #import "/typst/spielhelferinnen/schiedsrichterinnen.typ" as schiedsrichterinnen_text: title as schiedsrichterinnen_title
@@ -223,32 +225,42 @@
 = Spielablauf
 == #spielzug_title
 #spielzug_text
+=== #spiel_nach_steinen_title
+#spiel_nach_steinen_text
+=== #spiel_nach_saetzen_title
+#spiel_nach_saetzen_text
 == #aufstellung_title
 #aufstellung_text
 == #einleiten_title
 #einleiten_text
 === #fruehstart_title
 #fruehstart_text
-== #punkten_title
+== Beenden eines Spielzugs
+=== #punkten_title
 #punkten_text
-== #spiel_nach_steinen_title
-#spiel_nach_steinen_text
-== #spiel_nach_saetzen_title
-#spiel_nach_saetzen_text
+=== #abbruch_title
+#abbruch_text
 
 = Regeln
 == #sicherheit_title
 #sicherheit_text
-== #aktive_feldspielerinnen_title
-#aktive_feldspielerinnen_text
-== #aus_title
-#aus_text
-== #aktive_pomferinnen_title
-#aktive_pomferinnen_text
 === #sicherer_umgang_title
 #sicherer_umgang_text
 === #beschaedigte_pompfe_title
 #beschaedigte_pompfe_text
+== #feldspielerinnen_title
+#feldspielerinnen_text
+=== #aktive_pomferinnen_title
+#aktive_pomferinnen_text
+=== #aktive_lauferinnen_title
+#aktive_lauferinnen_text
+=== #inaktive_feldspielerinnen_title
+#inaktive_feldspielerinnen_text
+== #aus_title
+#aus_text
+// === #aktive_feldspielerinnen_title
+// #aktive_feldspielerinnen_text
+== Treffer
 === #pompfe_fuehren_title
 #pompfe_fuehren_text
 === #trefferzone_title
@@ -259,20 +271,16 @@
 #doppeltreffer_text
 === #ansagen_title
 #ansagen_text
-=== #pinnen_title
+== #pinnen_title
 #pinnen_text
-=== #jugg_spielen_title
-#jugg_spielen_text
-== #aktive_lauferinnen_title
-#aktive_lauferinnen_text
-== #inaktive_feldspielerinnen_title
-#inaktive_feldspielerinnen_text
-=== #abknien_title
+== #abknien_title
 #abknien_text
 === #strafzeit_title
 #strafzeit_text
 === #aufstehen_title
 #aufstehen_text
+== #jugg_platzieren_title
+#jugg_platzieren_text
 
 = Spielhelfer*innen
 == #spielhelferinnen_title

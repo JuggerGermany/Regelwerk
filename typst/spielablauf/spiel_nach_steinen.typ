@@ -1,8 +1,7 @@
 #let title = "Spiel nach Steinen"
 
-Jugger kann nach Steinen oder nach Sätzen gespielt werden. Ziel bei einem
-Spiel nach Steinen ist es, mit dem eigenen Team innerhalb einer festgelegten
-Spieldauer mehr Punkte zu machen als das Team der Gegenseite.
+Ziel bei einem Spiel nach Steinen ist es, mit dem eigenen Team innerhalb einer
+festgelegten Spieldauer mehr Punkte zu machen als das Team der Gegenseite.
 Im Allgemeinen hat ein Spiel nach Steinen #strong[2_Halbzeiten], welche jeweils
 #strong[100_Steine] dauern. Zwischen den Halbzeiten gibt es eine Pause, in der die
 Teams die Seiten wechseln. Für die Dauer der Spielzüge werden die Steine
