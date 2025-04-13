@@ -111,21 +111,24 @@
 #import "/typst/introduction.typ" as introduction_text
 
 // main content
+
+// section 1
 #import "/typst/spielfeld/spielfeld.typ" as spielfeld_text: title as spielfeld_title
 #import "/typst/spielfeld/jugg.typ" as jugg_text: title as jugg_title
 #import "/typst/spielfeld/mal.typ" as mal_text: title as mal_title
-#import "/typst/spielfeld_sportgeraete/pompfen.typ" as pompfen_text: title as pompfen_title
-#import "/typst/spielfeld_sportgeraete/pompfen/griffflaeche.typ" as griffflaeche_text: title as griffflaeche_title
-#import "/typst/spielfeld_sportgeraete/pompfen/schlagflaeche.typ" as schlagflaeche_text: title as schlagflaeche_title
-#import "/typst/spielfeld_sportgeraete/pompfen/stechspitze.typ" as stechspitze_text: title as stechspitze_title
-#import "/typst/spielfeld_sportgeraete/pompfen/schild.typ" as schild_text: title as schild_title
-#import "/typst/spielfeld_sportgeraete/pompfen/kurzpompfe.typ" as kurzpompfe_text: title as kurzpompfe_title
 
-#import "/typst/spielfeld_sportgeraete/pompfen/langpompfe.typ" as langpompfe_text: title as langpompfe_title
-
-#import "/typst/spielfeld_sportgeraete/pompfen/qtip.typ" as qtip_text: title as qtip_title
-#import "/typst/spielfeld_sportgeraete/pompfen/stab.typ" as stab_text: title as stab_title
-#import "/typst/spielfeld_sportgeraete/pompfen/kette.typ" as kette_text: title as kette_title
+// section 2
+#import "/typst/pompfen/pompfen.typ" as pompfen_text: title as pompfen_title
+#import "/typst/pompfen/schild.typ" as schild_text: title as schild_title
+#import "/typst/pompfen/kette.typ" as kette_text: title as kette_title
+#import "/typst/pompfen/kurzpompfe.typ" as kurzpompfe_text: title as kurzpompfe_title
+#import "/typst/pompfen/langpompfe.typ" as langpompfe_text: title as langpompfe_title
+#import "/typst/pompfen/qtip.typ" as qtip_text: title as qtip_title
+#import "/typst/pompfen/stab.typ" as stab_text: title as stab_title
+#import "/typst/pompfen/nahpompfen.typ" as nahpompfen_text: title as nahpompfen_title
+#import "/typst/pompfen/griffflaeche.typ" as griffflaeche_text: title as griffflaeche_title
+#import "/typst/pompfen/schlagflaeche.typ" as schlagflaeche_text: title as schlagflaeche_title
+#import "/typst/pompfen/stechspitze.typ" as stechspitze_text: title as stechspitze_title
 #import "/typst/team/kleidung.typ" as kleidung_text: title as kleidung_title
 // section 2
 #import "/typst/team/spielerinnen.typ" as spielerinnen_text: title as spielerinnen_title
@@ -177,44 +180,45 @@
 #introduction_text
 #pagebreak()
 
-
-= Spielfeld und Sportgeräte
+= Spielfeld
 == #spielfeld_title
 #spielfeld_text
 == #jugg_title
 #jugg_text
 == #mal_title
 #mal_text
-== #pompfen_title
+
+= #pompfen_title
 #pompfen_text
+== Pompfenarten
+=== #schild_title
+#schild_text
+=== #kette_title
+#kette_text
+=== #kurzpompfe_title
+#kurzpompfe_text
+=== #langpompfe_title
+#langpompfe_text
+=== #qtip_title
+#qtip_text
+=== #stab_title
+#stab_text
+== #nahpompfen_title
+#nahpompfen_text
 === #griffflaeche_title
 #griffflaeche_text
 === #schlagflaeche_title
 #schlagflaeche_text
 === #stechspitze_title
 #stechspitze_text
-=== Pompfenarten
-==== #schild_title
-#schild_text
-==== #kurzpompfe_title
-#kurzpompfe_text
-==== #langpompfe_title
-#langpompfe_text
-==== #qtip_title
-#qtip_text
-==== #stab_title
-#stab_text
-#pagebreak()
-==== #kette_title
-#kette_text
-== #kleidung_title
-#kleidung_text
 
-= Team
+= Teams & Ausrüstung
 == #spielerinnen_title
 #spielerinnen_text
 == #zusammensetzung_title
 #zusammensetzung_text
+== #kleidung_title
+#kleidung_text
 
 = Spielablauf
 == #spielzug_title
