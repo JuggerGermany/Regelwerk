@@ -111,9 +111,9 @@
 #import "/typst/introduction.typ" as introduction_text
 
 // main content
-#import "/typst/spielfeld_sportgeraete/spielfeld.typ" as spielfeld_text: title as spielfeld_title
-#import "/typst/spielfeld_sportgeraete/jugg.typ" as jugg_text: title as jugg_title
-#import "/typst/spielfeld_sportgeraete/mal.typ" as mal_text: title as mal_title
+#import "/typst/spielfeld/spielfeld.typ" as spielfeld_text: title as spielfeld_title
+#import "/typst/spielfeld/jugg.typ" as jugg_text: title as jugg_title
+#import "/typst/spielfeld/mal.typ" as mal_text: title as mal_title
 #import "/typst/spielfeld_sportgeraete/pompfen.typ" as pompfen_text: title as pompfen_title
 #import "/typst/spielfeld_sportgeraete/pompfen/griffflaeche.typ" as griffflaeche_text: title as griffflaeche_title
 #import "/typst/spielfeld_sportgeraete/pompfen/schlagflaeche.typ" as schlagflaeche_text: title as schlagflaeche_title
@@ -126,7 +126,7 @@
 #import "/typst/spielfeld_sportgeraete/pompfen/qtip.typ" as qtip_text: title as qtip_title
 #import "/typst/spielfeld_sportgeraete/pompfen/stab.typ" as stab_text: title as stab_title
 #import "/typst/spielfeld_sportgeraete/pompfen/kette.typ" as kette_text: title as kette_title
-#import "/typst/spielfeld_sportgeraete/kleidung.typ" as kleidung_text: title as kleidung_title
+#import "/typst/team/kleidung.typ" as kleidung_text: title as kleidung_title
 // section 2
 #import "/typst/team/spielerinnen.typ" as spielerinnen_text: title as spielerinnen_title
 #import "/typst/team/zusammensetzung.typ" as zusammensetzung_text: title as zusammensetzung_title
