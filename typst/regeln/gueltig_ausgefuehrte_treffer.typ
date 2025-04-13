@@ -18,4 +18,4 @@ Zum regelgerechten Führen
 
 Es genügt, wenn ein beliebiger Teil der Hand die Grifffläche berührt.
 
-Zum regelgerechten Führen muss sich die Handschlaufe an der Hand oder am Arm des*der Kettenspieler*in befinden.
+Zum regelgerechten Führen muss sich die Handschlaufe an der Hand oder am Arm des*der Kettenspieler*in befinden. Die Kette muss geschwungen werden.
