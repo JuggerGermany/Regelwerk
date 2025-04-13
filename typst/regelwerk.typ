@@ -146,7 +146,6 @@
 #import "/typst/regeln/aktive_pomferinnen.typ" as aktive_pomferinnen_text: title as aktive_pomferinnen_title
 #import "/typst/regeln/sicherer_umgang.typ" as sicherer_umgang_text: title as sicherer_umgang_title
 #import "/typst/regeln/beschaedigte_pompfe.typ" as beschaedigte_pompfe_text: title as beschaedigte_pompfe_title
-#import "/typst/regeln/pompfe_fuehren.typ" as pompfe_fuehren_text: title as pompfe_fuehren_title
 #import "/typst/regeln/trefferzone.typ" as trefferzone_text: title as trefferzone_title
 #import "/typst/regeln/gueltig_ausgefuehrte_treffer.typ" as gueltig_ausgefuehrte_treffer_text: title as gueltig_ausgefuehrte_treffer_title
 #import "/typst/regeln/gueltig_platzierte_treffer.typ" as gueltig_platzierte_treffer_text: title as gueltig_platzierte_treffer_title
