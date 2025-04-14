@@ -215,10 +215,10 @@
 #stechspitze_text
 
 = Teams & Ausrüstung
-== #spielerinnen_title
-#spielerinnen_text
 == #zusammensetzung_title
 #zusammensetzung_text
+== #spielerinnen_title
+#spielerinnen_text
 == #kleidung_title
 #kleidung_text
 
