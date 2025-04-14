@@ -240,7 +240,7 @@
 === #abbruch_title
 #abbruch_text
 
-= Regeln
+= Spielregeln
 == #sicherheit_title
 #sicherheit_text
 === #sicherer_umgang_title

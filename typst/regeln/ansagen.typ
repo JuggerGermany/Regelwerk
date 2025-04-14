@@ -1,4 +1,4 @@
-#let title = "Ansagen von ungültigen Treffern und Doppeltreffern"
+#let title = "Ansagen"
 
 Feldspieler*innen müssen ungültige Treffer ansagen. Wenn der Treffer
 außerhalb der eigenen Trefferzone erfolgt, muss der*die getroffene

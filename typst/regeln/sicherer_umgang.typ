@@ -1,4 +1,4 @@
-#let title = "Der sichere Umgang mit der Pompfe"
+#let title = "Sicherer Umgang mit der Pompfe"
 
 Pompfer*innen tragen selbst Verantwortung für die Sicherheit ihrer
 Pompfen und den Umgang mit ihnen. Pompfer*innen dürfen ungebremst

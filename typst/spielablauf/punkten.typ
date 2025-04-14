@@ -1,4 +1,4 @@
-#let title = "Einen Punkt Jugg platzieren"
+#let title = "Einen Punkt erzielen"
 
 Wurde der Jugg gültig platziert, endet der Spielzug.
 Wurde der Jugg ungültig platziert, läuft das Spiel weiter und der Jugg wird

@@ -1,4 +1,4 @@
-#let title = "Der Umgang mit beschädigten Pompfen"
+#let title = "Beschädigte Pompfen"
 
 Sollte die Pompfe eines*einer Pompfer*in beschädigt und deshalb nicht
 länger sicher oder regelkonform sein, muss er*sie die beschädigte Pompfe

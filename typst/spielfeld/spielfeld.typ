@@ -1,6 +1,6 @@
 #import "/typst/edit_utils.typ": todo
 
-#let title = "Spielfeld"
+#let title = "Aufbau des Spielfeldes"
 
 Die Form des Spielfeldes entspricht einem länglichen Achteck. Die Gesamtlänge beträgt #strong[40_m].
 Die Gesamtbreite beträgt #strong[20_m]. Der Bereich außerhalb des Spielfeldes ist das #emph[Aus].
