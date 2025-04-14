@@ -1,21 +1,20 @@
-#import "/typst/utils.typ": todo
 
+#import "/typst/edit_utils.typ": todo
+#import "/typst/designs/colors.typ" as colors
+#import "/typst/designs/boxes.typ" as boxes
+#set par(justify: true)
 #let outside-pos = state("outside-pos", right)
-#let dark-background = rgb("#78909C")
-#let mid-background = rgb("#CFD8DC")
-#let light-background = rgb("#ECEFF1")
 #let top_margin = 3cm
 
-// page layout
 #let page_footer(numbering_end) = context {
-	let current_page = counter(page).display(page.numbering)
-	let total_pages = numbering(page.numbering, ..counter(page).at(numbering_end))
-	align(center)[\- #current_page / #total_pages \-]
+  let current_page = counter(page).display(page.numbering)
+  let total_pages = numbering(page.numbering, ..counter(page).at(numbering_end))
+  align(center)[\- #current_page / #total_pages \-]
 }
 #set page(
   margin: (inside: 3cm, outside: 2cm, top: top_margin),
-	footer: none,
-	numbering: "1",
+  footer: none,
+  numbering: "1",
   background: (
     context {
       let section_number = counter(heading).get().at(0)
@@ -28,14 +27,14 @@
         top + outside-pos.get(),
         dx: 0cm,
         dy: 0cm,
-        rect(width: 1.5cm, height: 20cm, fill: light-background),
+        rect(width: 1.5cm, height: 20cm, fill: colors.light-background),
       )
       for dy in (1.6cm, 4.6cm, 7.6cm, 10.6cm) {
         place(
           top + outside-pos.get(),
           dx: 0cm,
           dy: dy + top_margin,
-          rect(width: 1.5cm, height: 1.5cm, fill: mid-background),
+          rect(width: 1.5cm, height: 1.5cm, fill: colors.mid-background),
         )
       }
       if section_number > 0 {
@@ -43,7 +42,7 @@
           top + outside-pos.get(),
           dx: 0cm,
           dy: 0.1cm + 1.5cm * section_number + top_margin,
-          rect(width: 1.5cm, height: 1.5cm, fill: dark-background),
+          rect(width: 1.5cm, height: 1.5cm, fill: colors.dark-background),
         )
       }
     }
@@ -51,11 +50,11 @@
 )
 
 // headings
-#set heading(numbering: "1.1.1.1")
+#set heading(numbering: "1.1.1.1", supplement: none)
 #show heading: set text(font: "montserrat", fill: rgb("#4F4F51"))
 #show heading: upper
 #show heading.where(level: 1, outlined: true): it => context {
-	set page(footer:none)
+  set page(footer: none)
   [
     #let color = state("color", rgb("#78909C"))
     #let nb = counter(heading).get().at(0)
@@ -70,7 +69,7 @@
       top + left,
       dx: -2cm,
       dy: 0.1cm + 1.5cm * nb,
-      rect(width: 3.5cm + 0.23cm * nb, height: 1.5cm, fill: dark-background),
+      rect(width: 3.5cm + 0.23cm * nb, height: 1.5cm, fill: colors.dark-background),
     )
     #place(
       top + left,
@@ -85,11 +84,11 @@
   ]
 }
 
-// text & images
-#set par(justify: true)
-#set text(lang: "de", size: 13pt, font: "vollkorn", fill: rgb("#4F4F51"))
-#show figure: set align(center)
-#show figure.caption: set text(size: 10pt)
+
+
+
+#set text(lang: "de", size: 13pt, font: "vollkorn", fill: colors.textcolor)
+
 #show "_": sym.space.nobreak.narrow
 
 // outline
@@ -185,8 +184,8 @@
 // Branch: Test RW 2026 23.12.2025, zuletzt bearbeitet von Helene
 
 #{
-    set page(margin: 0cm)
-    image("images/cover_front.jpg")
+  set page(margin: 0cm)
+  image("images/cover_front.jpg")
 }
 
 #pagebreak()
@@ -367,6 +366,6 @@
 
 #pagebreak()
 #{
-    set page(margin: 0cm)
-    image("images/cover_back.png")
+  set page(margin: 0cm)
+  image("images/cover_back.png")
 }
