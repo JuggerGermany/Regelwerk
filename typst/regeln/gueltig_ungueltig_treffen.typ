@@ -17,7 +17,7 @@ Ein Treffer ist ungültig, wenn:
 - ein*e Feldspieler*in in einer einzigen Bewegung der Pompfe erst an der Kopfzone und dann an der Trefferzone getroffen wird. Wenn ein*e Spieler*in in einer einzigen Bewegung erst an der Trefferzone und dann an der Kopfzone getroffen wird, ist der Treffer gültig.
 - er durch eine Stichbewegung mit einem Stab erfolgt.
 - die Pompfe von einer Kette umwickelt ist und eine*n andere*n Feldspieler*in als den*die Kettenspieler*in trifft.
-- der Kettenball an eine Trefferzone schwingt oder die Kette eine geschlossene Form um eine Trefferzone bildet, nachdem die Kette um eine Pompfe die geschlossene Form gebildet hat. Die Kette gilt dann als gefangen.
+- der Kettenball an eine Trefferzone schwingt oder die Kette eine geschlossene Form um eine Trefferzone bildet, nachdem die Kette um eine Pompfe die geschlossene Form gebildet hat.
 - der*die Kettenspieler*in den Kettenball wirft oder auf dem Boden hinter sich herzieht.
 
 #align(center)[#image("/typst/images/bueste_kopf.jpg", height: 10cm)]
