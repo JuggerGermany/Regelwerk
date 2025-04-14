@@ -18,5 +18,6 @@ Ein Treffer ist ungültig, wenn:
 - er durch eine Stichbewegung mit einem Stab erfolgt.
 - die Pompfe von einer Kette umwickelt ist und eine*n andere*n Feldspieler*in als den*die Kettenspieler*in trifft.
 - der Kettenball an eine Trefferzone schwingt oder die Kette eine geschlossene Form um eine Trefferzone bildet, nachdem die Kette um eine Pompfe die geschlossene Form gebildet hat. Die Kette gilt dann als gefangen.
+- der*die Kettenspieler*in den Kettenball wirft oder auf dem Boden hinter sich herzieht.
 
 #align(center)[#image("/typst/images/bueste_kopf.jpg", height: 10cm)]
