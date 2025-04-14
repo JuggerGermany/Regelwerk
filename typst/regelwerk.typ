@@ -1,10 +1,9 @@
 #import "/typst/edit_utils.typ": todo
+#import "/typst/designs/colors.typ" as colors
 
 #let in-outline = state("in-outline", false)
 #let outside-pos = state("outside-pos", right)
-#let dark-background = rgb("#78909C")
-#let mid-background = rgb("#CFD8DC")
-#let light-background = rgb("#ECEFF1")
+
 
 #set page(
   margin: (inside: 3cm, outside: 2cm, top: 4cm),
@@ -27,14 +26,14 @@
         top + outside-pos.get(),
         dx: 0cm,
         dy: 0cm,
-        rect(width: 1.5cm, height: 18cm, fill: light-background),
+        rect(width: 1.5cm, height: 18cm, fill: colors.light-background),
       )
       for dy in (5.6cm, 8.6cm, 11.6cm) {
         place(
           top + outside-pos.get(),
           dx: 0cm,
           dy: dy,
-          rect(width: 1.5cm, height: 1.5cm, fill: mid-background),
+          rect(width: 1.5cm, height: 1.5cm, fill: colors.mid-background),
         )
       }
       if nb > 0 {
@@ -42,7 +41,7 @@
           top + outside-pos.get(),
           dx: 0cm,
           dy: 4.1cm + 1.5cm * nb,
-          rect(width: 1.5cm, height: 1.5cm, fill: dark-background),
+          rect(width: 1.5cm, height: 1.5cm, fill: colors.dark-background),
         )
       }
     }
@@ -55,12 +54,12 @@
 #show heading: upper
 #show heading.where(level: 1, outlined: true): it => context {
   [
-    #let color = state("color", rgb("#78909C"))
+    #let color = state("color", colors.dark-background)
     #let nb = counter(heading).get().at(0)
     #if calc.even(nb) {
-      color.update(rgb("#CFD8DC"))
+      color.update(colors.mid-background)
     } else {
-      color.update(rgb("#ECEFF1"))
+      color.update(colors.light-background)
     }
     #pagebreak(to: "even")
     #v(-1.5cm + nb * 1.3cm)
@@ -68,7 +67,7 @@
       top + left,
       dx: -2cm,
       dy: 0.1cm + 1.5cm * nb,
-      rect(width: 3.5cm + 0.23cm * nb, height: 1.5cm, fill: dark-background),
+      rect(width: 3.5cm + 0.23cm * nb, height: 1.5cm, fill: colors.dark-background),
     )
     #place(
       top + left,
@@ -84,7 +83,7 @@
 }
 
 
-#set text(lang: "de", size: 13pt, font: "vollkorn", fill: rgb("#4F4F51"))
+#set text(lang: "de", size: 13pt, font: "vollkorn", fill: colors.textcolor)
 
 #show "_": sym.space.nobreak.narrow
 
