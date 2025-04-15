@@ -4,10 +4,10 @@ Nur mit einer regelgerecht geführten Pompfe können aktive Feldspieler*innen
 andere Spieler*innen gültig treffen oder pinnen.
 
 Zum regelgerechten Führen
-- der Kurzpompfe muss sich eine Hand an der Griffäche befinden,
-- der Langpompfe müssen sich beide Hände an der Grifffläche befinden,
-- des Q-tips müssen sich beide Hände an der Grifffläche befinden,
-- des Stabs muss sich die eine Hand an der vorderen und die andere Hand an der hinteren Grifffäche befinden.
+- der Kurzpompfe muss eine Hand die Griffäche berühren,
+- der Langpompfe müssen beide Hände die Grifffläche berühren,
+- des Q-tips müssen beide Hände die Grifffläche berühren,
+- des Stabs muss eine Hand die vordere und die andere Hand die hintere Grifffäche berühren.
 Dazu genügt es, wenn ein beliebiger
 Teil der Hand die Grifffläche berührt.
 
