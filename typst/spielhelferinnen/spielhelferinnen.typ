@@ -1,4 +1,3 @@
-#let title = "Spielhelfer*innen"
 
 Um einen reibungslosen Spielablauf zu gewährleisten, wird jedes
 Juggerspiel von mindestens einem*einer Spielhelfer*in begleitet. Die

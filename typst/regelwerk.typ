@@ -162,7 +162,7 @@
 #import "/typst/regeln/strafzeit.typ" as strafzeit_text: title as strafzeit_title
 #import "/typst/regeln/aufstehen.typ" as aufstehen_text: title as aufstehen_title
 // section 5
-#import "/typst/spielhelferinnen/spielhelferinnen.typ" as spielhelferinnen_text: title as spielhelferinnen_title
+#import "/typst/spielhelferinnen/spielhelferinnen.typ" as spielhelferinnen_text
 #import "/typst/spielhelferinnen/schiedsrichterinnen.typ" as schiedsrichterinnen_text: title as schiedsrichterinnen_title
 #import "/typst/spielhelferinnen/hauptschiedsrichterin.typ" as hauptschiedsrichterin_text: title as hauptschiedsrichterin_title
 #import "/typst/spielhelferinnen/nebenschiedsrichterin.typ" as nebenschiedsrichterin_text: title as nebenschiedsrichterin_title
@@ -282,7 +282,6 @@
 #jugg_platzieren_text
 
 = Spielhelfer*innen
-== #spielhelferinnen_title
 #spielhelferinnen_text
 == #schiedsrichterinnen_title
 #schiedsrichterinnen_text
@@ -292,7 +291,7 @@
 #nebenschiedsrichterin_text
 === #malrichterinnen_title
 #malrichterinnen_text
-=== #punktezaehlerin_title
+== #punktezaehlerin_title
 #punktezaehlerin_text
 
 #todo[Letzte Seite]
