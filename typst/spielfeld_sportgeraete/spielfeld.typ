@@ -11,4 +11,4 @@ ist markiert. Auf diesen Punkt wird vor jedem Spielzug der #emph[Jugg] gelegt. D
 sich auf beiden Spielfeldhälften, ausgehend von der Mitte der jeweiligen Grundlinie #strong[2_m] in
 Richtung Mittelpunkt.
 
-#todo(color: blue)[Bild einfügen]
+#align(center)[#image("/typst/images/feld.jpg")]

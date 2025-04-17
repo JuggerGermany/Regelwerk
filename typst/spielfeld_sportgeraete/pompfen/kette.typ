@@ -9,4 +9,4 @@ Handschlaufe durchgehend gepolstert. Die Polsterung darf nicht verrutschen. Am h
 befindet sich die Handschlaufe. Zum regelgerechten Führen muss sich die Handschlaufe an der Hand
 oder am Arm des*der Kettenspieler*in befinden. Mit der Kette kann nicht gepinnt werden.
 
-#todo(color: blue)[Bild einfügen]
+#align(center)[#image("/typst/images/kette.jpg")]

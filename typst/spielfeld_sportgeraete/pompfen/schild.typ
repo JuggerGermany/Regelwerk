@@ -7,4 +7,4 @@ der Rand des Schildes sind gepolstert. Der Griff befindet sich auf der hinteren 
 Der Schild wird einhändig geführt und in Kombination mit einer Kurzpompfe gespielt. Mit dem Schild
 kann weder getroffen, noch gepinnt werden.
 
-#todo(color: blue)[Bild einfügen]
+#align(center)[#image("/typst/images/schild.jpg")]

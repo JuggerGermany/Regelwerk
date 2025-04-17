@@ -7,4 +7,4 @@ von mindestens #strong[30_cm] hat. Der Kegelstumpf ist aus Schaumstoff und hat o
 von ca. #strong[12_cm] Durchmesser und ca. #strong[20_cm] Tiefe, in welches der Jugg platziert wird.
 Das Mal ist vollständig gepolstert.
 
-#todo(color: blue)[Bild einfügen]
+#align(center)[#image("/typst/images/mal.jpg")]

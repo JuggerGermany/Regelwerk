@@ -8,4 +8,4 @@ Stechspitze ausgestattet. Die minimale L채nge der Schlagfl채che mit Spitze betr�
 Die Grifffl채che befindet sich am hinteren Ende der Pompfe. Zum regelgerechten F체hren m체ssen sich
 zwei H채nde an der Grifffl채che befinden. Mit der Langpompfe darf gestochen werden.
 
-#todo(color: blue)[Bild einf체gen]
+#align(center)[#image("/typst/images/lp.jpg")]

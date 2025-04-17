@@ -9,4 +9,4 @@ Grifffläche befindet sich am hinteren Ende der Pompfe. Die Kurzpompfe darf in K
 Schild oder einer zweiten Kurzpompfe gespielt werden. Zum regelgerechten Führen muss sich eine Hand
 an der Grifffläche befinden. Mit der Kurzpompfe darf gestochen werden.
 
-#todo(color: blue)[Bild einfügen]
+#align(center)[#image("/typst/images/kp.jpg")]

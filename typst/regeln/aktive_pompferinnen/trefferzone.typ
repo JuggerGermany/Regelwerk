@@ -11,4 +11,4 @@ solange sie die Pompfe mit einem beliebigen Teil der Hand berühren, nicht
 zur Trefferzone; die Handgelenke gehören zur Trefferzone.
 
 
-#todo(color: blue)[Bild einfügen]
+#align(center)[#image("/typst/images/trefferzonen.jpg")]

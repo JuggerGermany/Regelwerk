@@ -204,6 +204,7 @@
 #qtip_text
 ==== #stab_title
 #stab_text
+#pagebreak()
 ==== #kette_title
 #kette_text
 == #kleidung_title
