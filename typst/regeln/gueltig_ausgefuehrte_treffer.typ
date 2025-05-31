@@ -1,11 +1,11 @@
 #let title = "Gültig ausgeführte Treffer"
 
-Ein Treffer ist gültig ausgeführt, wenn keine der folgenden Bedingungen erfüllt ist: 
+Ein Treffer ist gültig ausgeführt, wenn keine der folgenden Bedingungen erfüllt ist:
 
 - Der*die treffende Pompfer*in ist inaktiv.
 - Die treffende Pompfe wird nicht regelgerecht geführt.
 - Die treffende Pompfe ist von einer Kette umwickelt und trifft eine*n andere*n Feldspieler*in als den*die Kettenspieler*in.
-- Der*die treffende Kettenspieler*in den Kettenball wirft oder die Kette auf dem Boden hinter sich herzieht.
+- Der*die treffende Kettenspieler*in wirft den Kettenball oder zieht die Kette auf dem Boden hinter sich her.
 - Die treffende Kette hat eine andere Pompfe umwickelt.
 - Er erfolgt durch eine Stichbewegung mit einem Stab.
 
