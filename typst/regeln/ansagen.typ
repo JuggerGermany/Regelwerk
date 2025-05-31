@@ -1,7 +1,11 @@
 #let title = "Ansagen"
 
-Feldspieler*innen müssen ungültige Treffer ansagen.
-Wenn der Treffer außerhalb der eigenen Trefferzone erfolgt, muss der*die getroffene Feldspieler*in dies mit „Hand!“ bzw. „Kopf!“ ansagen.
-Wenn der Treffer aus einem anderen Grund ungültig ist, muss der*die treffende Spieler*in dies dem*der getroffenen Spieler*in schnellstmöglich und laut und deutlich mitteilen.
-Feldspieler*innen müssen Doppeltreffer mit “Doppel!” ansagen.
+Feldspieler*innen müssen Doppeltreffer mit “Doppel!” ansagen. 
 Gegebenenfalls werden sie dabei von Spielhelfer*innen unterstützt.
+
+Wenn ein Treffer außerhalb der Trefferzone platziert wird, müssen die getroffenen Feldspieler*innen dies ansagen. 
+Treffer an der Kopfzone müssen mit “Kopf!” und Treffer an einer Hand, die eine Pompfe berührt, mit “Hand!” angesagt werden.
+
+Führen Spieler*innen Treffer ungültig aus, müssen sie dies den getroffenen Spieler*innen mitteilen.
+
+Alle Ansagen müssen schnellstmöglich, laut und deutlich erfolgen.
