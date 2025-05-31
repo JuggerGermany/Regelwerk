@@ -1,4 +1,5 @@
 #let title = "Ansagen"
+Gültig platzierte Treffer müssen von den getroffenen Spieler*innen angesagt werden.
 
 Feldspieler*innen müssen Doppeltreffer mit “Doppel!” ansagen. 
 Gegebenenfalls werden sie dabei von Spielhelfer*innen unterstützt.
