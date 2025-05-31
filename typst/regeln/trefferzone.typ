@@ -2,7 +2,7 @@
 
 #let title = "Trefferzone"
 
-Die Trefferzone ist der Bereich am Körper der Feldspieler*innen, an dem sie gültig getroffen werden können.
+Die Trefferzone ist der Bereich am Körper der Feldspieler*innen, an dem Treffer gültig platziert werden können.
 
 Kopf- und Hals werden zusammen als Kopfzone bezeichnet.
 
