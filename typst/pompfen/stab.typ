@@ -1,7 +1,8 @@
 
 #let title = "Stab"
+
 Der Stab setzt sich aus zwei Griffflächen, einer Manschette und einer Schlagfläche zusammen.
-Die beiden Griffflächen befinden sich am hinteren Ende der Pompfe und sind durch eine Schaumstoffmanschette getrennt.
+Die beiden Griffflächen befinden sich am hinteren Ende der Pompfe und sind durch Polsterung, die Manschette, getrennt.
 Die hintere Grifffläche befindet sich zwischen Knauf und Manschette, die vordere Grifffläche zwischen Manschette und Schlagfläche.
 Die Manschette muss die maximale Reichweite des Stabes klar erkennbar begrenzen und rundum mindestens #strong[1_cm] dicker als die vordere Grifffläche sein.
 Die maximale Länge des Stabs beträgt #strong[180_cm].
