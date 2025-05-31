@@ -12,10 +12,9 @@ Ein Treffer ist gültig ausgeführt, wenn keine der folgenden Bedingungen erfül
 
 Zum regelgerechten Führen
 
-- der Kurzpompfe muss sich eine Hand an der Griffäche befinden,
-- von Langpompfen und Q-Tip müssen sich zwei Hände an der Grifffläche befinden,
-- des Stabs muss sich die eine Hand an der vorderen und die andere Hand an der hinteren Grifffäche befinden.
+- der Kurzpompfe muss eine Hand die Grifffläche berühren,
+- von Langpompfen und Q-Tip müssen beide Hände die Grifffläche berühren,
+- des Stabs muss die eine Hand die vordere und die andere Hand die hintere Grifffäche berühren,
+- der Kette muss die Handschlaufe eine Hand oder einen Arm des*der Kettenspieler*in berühren. Die Kette muss geschwungen werden.
 
-Es genügt, wenn ein beliebiger Teil der Hand die Grifffläche berührt.
-
-Zum regelgerechten Führen muss sich die Handschlaufe an der Hand oder am Arm des*der Kettenspieler*in befinden. Die Kette muss geschwungen werden.
+Um einen Teil einer Pompfe zu berühren genügt die Berührung mit einem beliebigen Teil des entsprechenden Körperteils.
