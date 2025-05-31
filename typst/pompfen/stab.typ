@@ -9,7 +9,7 @@ hinteren Teil der Pompfe, die durch eine Schaumstoffmanschette getrennt sind. Di
 Grifffläche geht von der Schlagfläche bis zur Manschette. Die Manschette begrenzt klar erkennbar die
 maximale Reichweite des Stabes und ist rundum mindestens #strong[1_cm] dicker als die vordere
 Grifffläche. Die hintere Grifffläche geht von der Manschette bis zum Knauf. Zum regelgerechten
-Führen muss sich die eine Hand an der vorderen und die andere Hand an der hinteren Grifffläche
-befinden. Mit dem Stab darf nicht gestochen werden.
+Führen muss die eine Hand die vordere und die andere Hand die hintere Grifffläche
+berühren. Mit dem Stab darf nicht gestochen werden.
 
 #align(center)[#image("/typst/images/stab.jpg")]
