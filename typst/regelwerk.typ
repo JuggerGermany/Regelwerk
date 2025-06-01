@@ -188,9 +188,8 @@
   #text(size: 40pt, font: "montserrat", weight: "thin")[#upper[Inhalt]]
 ]
 #columns(2, outline(title: none))
-
-#introduction_text
 #pagebreak()
+#introduction_text
 
 = Spielfeld
 == #spielfeld_title
