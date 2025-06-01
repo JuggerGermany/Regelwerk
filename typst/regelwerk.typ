@@ -165,6 +165,7 @@
 
 #import "/typst/regeln/lauferkampf.typ" as lauferkampf_text: title as lauferkampf_title
 #import "/typst/regeln/aktive_pompferinnen.typ" as aktive_pompferinnen_text: title as aktive_pompferinnen_title
+#import "/typst/regeln/aktive_feldspielerinnen.typ" as aktive_feldspielerinnen_text: title as aktive_feldspielerinnen_title
 #import "/typst/regeln/inaktive_lauferinnen.typ" as inaktive_lauferinnen_text: title as inaktive_lauferinnen_title
 #import "/typst/regeln/inaktive_pompferinnen.typ" as inaktive_pompferinnen_text: title as inaktive_pompferinnen_title
 #import "/typst/regeln/inaktive_feldspielerinnen.typ" as inaktive_feldspielerinnen_text: title as inaktive_feldspielerinnen_title
@@ -262,6 +263,8 @@
 #beschaedigte_pompfe_text
 == #feldspielerinnen_title
 #feldspielerinnen_text
+=== #aktive_feldspielerinnen_title
+#aktive_feldspielerinnen_text
 === #inaktive_feldspielerinnen_title
 #inaktive_feldspielerinnen_text
 == #pompferinnen_title
