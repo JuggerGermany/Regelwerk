@@ -1,9 +1,9 @@
 #let title = "Aufstehen"
 
 Durch das Aufstehen werden inaktive Feldspieler*innen wieder aktiv.
-Alle Feldspieler*innen stehen auf, indem sie die Hand vom Rücken nehmen oder das Knie vom Boden heben.
-Läufer*innen stehen außerdem auf, indem sie den Jugg greifen.
-Ungepinnte Feldspieler*innen dürfen aufstehen, sobald sie ihre Strafzeit vollständig gezählt haben.
-Gepinnte Feldspieler*innen dürfen nicht aufstehen.
-Sobald der Pin gelöst wird und der nächste Stein ertönt, dürfen sie wie ungepinnte Feldspieler*innen aufstehen.
-Inaktive Feldspieler*innen dürfen über ihre Strafzeit hinaus abknien und somit inaktiv bleiben.
+Alle inaktiven Feldspieler*innen stehen auf, indem sie die Hand vom Rücken nehmen oder das Knie vom Boden heben.
+Inaktive Pompfer*innen stehen auch auf, wenn sie den Jugg bewegen.
+Inaktive Läufer*innen stehen auch auf, wenn sie den Jugg bewegen oder mit einer Hand berühren.
+Ungepinnte Feldspieler*innen dürfen aufstehen, sobald sie ihre Strafzeit gezählt haben.
+Gepinnte Feldspieler*innen, die ihre Strafzeit zu Ende gezählt haben, dürfen aufstehen, sobald der Pin gelöst wurde und der nächste Stein ertönt.
+Wird der Pin vor Ablauf der Strafzeit gelöst, dürfen sie wie ungepinnte Feldspieler*innen aufstehen, sobald sie ihre Strafzeit gezählt haben.
