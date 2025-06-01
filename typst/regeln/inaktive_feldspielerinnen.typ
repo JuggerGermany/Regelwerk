@@ -20,7 +20,6 @@ eine Pompfe umwickelt hat, müssen sie dabei behilflich sein, die Pompfen
 zu entwickeln oder sie loslassen, um den*die andere*n Feldspieler*in beim
 Abwickeln nicht zu behindern. Falls sie ihre Pompfe verloren haben, ist es
 ihnen verboten, diese wiederzuholen.
-Inaktive Läufer*innen müssen den Jugg augenblicklich loslassen. Sobald sie
-[Läufer*innen] inaktiv sind, ist es ihnen verboten, den Jugg zu werfen, zu
+Inaktive Läufer*innen müssen den Jugg augenblicklich loslassen. Sobald Läufer*innen inaktiv sind, ist es ihnen verboten, den Jugg zu werfen, zu
 verstecken oder durch ihren Körper zu verdecken. Der Jugg muss für andere
 Spieler*innen erreichbar sein.
