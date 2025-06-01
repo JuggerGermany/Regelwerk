@@ -144,9 +144,10 @@
 #import "/typst/spielablauf/abbruch.typ" as abbruch_text: title as abbruch_title
 // section 4
 #import "/typst/regeln/sicherheit.typ" as sicherheit_text: title as sicherheit_title
+
+
 #import "/typst/regeln/feldspielerinnen.typ" as feldspielerinnen_text: title as feldspielerinnen_title
 #import "/typst/regeln/aus.typ" as aus_text: title as aus_title
-#import "/typst/regeln/aktive_pomferinnen.typ" as aktive_pomferinnen_text: title as aktive_pomferinnen_title
 #import "/typst/regeln/sicherer_umgang.typ" as sicherer_umgang_text: title as sicherer_umgang_title
 #import "/typst/regeln/beschaedigte_pompfe.typ" as beschaedigte_pompfe_text: title as beschaedigte_pompfe_title
 #import "/typst/regeln/gueltig_ungueltig_treffen.typ" as gueltig_ungueltig_treffen_text: title as gueltig_ungueltig_treffen_title
@@ -158,10 +159,14 @@
 #import "/typst/regeln/pinnen.typ" as pinnen_text: title as pinnen_title
 #import "/typst/regeln/jugg_platzieren.typ" as jugg_platzieren_text: title as jugg_platzieren_title
 #import "/typst/regeln/aktive_lauferinnen.typ" as aktive_lauferinnen_text: title as aktive_lauferinnen_title
+#import "/typst/regeln/pompferinnen.typ" as pompferinnen_text: title as pompferinnen_title
+
 #import "/typst/regeln/lauferinnen.typ" as lauferinnen_text: title as lauferinnen_title
 
 #import "/typst/regeln/lauferkampf.typ" as lauferkampf_text: title as lauferkampf_title
+#import "/typst/regeln/aktive_pompferinnen.typ" as aktive_pompferinnen_text: title as aktive_pompferinnen_title
 #import "/typst/regeln/inaktive_lauferinnen.typ" as inaktive_lauferinnen_text: title as inaktive_lauferinnen_title
+#import "/typst/regeln/inaktive_pompferinnen.typ" as inaktive_pompferinnen_text: title as inaktive_pompferinnen_title
 #import "/typst/regeln/inaktive_feldspielerinnen.typ" as inaktive_feldspielerinnen_text: title as inaktive_feldspielerinnen_title
 #import "/typst/regeln/abknien.typ" as abknien_text: title as abknien_title
 #import "/typst/regeln/strafzeit.typ" as strafzeit_text: title as strafzeit_title
@@ -257,12 +262,15 @@
 #beschaedigte_pompfe_text
 == #feldspielerinnen_title
 #feldspielerinnen_text
-=== #aktive_pomferinnen_title
-#aktive_pomferinnen_text
-=== #aktive_lauferinnen_title
-#aktive_lauferinnen_text
 === #inaktive_feldspielerinnen_title
 #inaktive_feldspielerinnen_text
+== #pompferinnen_title
+#pompferinnen_text
+=== #aktive_pompferinnen_title
+#aktive_pompferinnen_text
+=== #inaktive_pompferinnen_title
+#inaktive_pompferinnen_text
+== #lauferinnen_title
 #lauferinnen_text
 === #aktive_lauferinnen_title
 #aktive_lauferinnen_text
