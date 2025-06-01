@@ -6,3 +6,5 @@ eine Pompfe umwickelt hat, müssen sie dabei behilflich sein, die Pompfen
 zu entwickeln oder sie loslassen, um den*die andere*n Feldspieler*in beim
 Abwickeln nicht zu behindern. Falls sie ihre Pompfe verloren haben, ist es
 ihnen verboten, diese wiederzuholen.
+
+Inaktive Pompfer*innen werden aktiv wenn sie den Jugg bewegen.
