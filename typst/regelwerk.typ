@@ -158,6 +158,10 @@
 #import "/typst/regeln/pinnen.typ" as pinnen_text: title as pinnen_title
 #import "/typst/regeln/jugg_platzieren.typ" as jugg_platzieren_text: title as jugg_platzieren_title
 #import "/typst/regeln/aktive_lauferinnen.typ" as aktive_lauferinnen_text: title as aktive_lauferinnen_title
+#import "/typst/regeln/lauferinnen.typ" as lauferinnen_text: title as lauferinnen_title
+
+#import "/typst/regeln/lauferkampf.typ" as lauferkampf_text: title as lauferkampf_title
+#import "/typst/regeln/inaktive_lauferinnen.typ" as inaktive_lauferinnen_text: title as inaktive_lauferinnen_title
 #import "/typst/regeln/inaktive_feldspielerinnen.typ" as inaktive_feldspielerinnen_text: title as inaktive_feldspielerinnen_title
 #import "/typst/regeln/abknien.typ" as abknien_text: title as abknien_title
 #import "/typst/regeln/strafzeit.typ" as strafzeit_text: title as strafzeit_title
@@ -259,6 +263,13 @@
 #aktive_lauferinnen_text
 === #inaktive_feldspielerinnen_title
 #inaktive_feldspielerinnen_text
+#lauferinnen_text
+=== #aktive_lauferinnen_title
+#aktive_lauferinnen_text
+=== #inaktive_lauferinnen_title
+#inaktive_lauferinnen_text
+=== #lauferkampf_title
+#lauferkampf_text
 == #aus_title
 #aus_text
 // === #aktive_feldspielerinnen_title
