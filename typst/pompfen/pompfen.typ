@@ -1,5 +1,5 @@
 #let title = "Pompfen"
-Pompfen sind die beim Jugger genutzten Sportgeräte.
+Pompfen sind die beim Jugger genutzten Sportgeräte. 
 Sie unterteilen sich in Schilde, Ketten und die vier Nahpompfen: Kurzpompfe, Langpompfe, Q-Tip und Stab.
 Mit Ketten und Nahpompfen können Feldspieler*innen andere Feldspieler*innen treffen.
 Mit Nahpompfen können außerdem andere Feldspieler*innen gepinnt werden.
