@@ -9,6 +9,6 @@ Der Jugg ist nur gültig platziert, wenn:
 - er in der Malöffnung bleibt und
 - kein*e Läufer*in ihn berührt.
 
-Das gilt auch, wenn Läufer*innen den Jugg nicht mehr berühren nachdem sie inaktiv wurden.
+Das gilt auch, wenn Läufer*innen den Jugg nicht mehr berühren, nachdem sie inaktiv wurden.
 
 In allen anderen Fällen ist der Jugg ungültig platziert.
