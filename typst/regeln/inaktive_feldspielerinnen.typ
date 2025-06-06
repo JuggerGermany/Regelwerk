@@ -1,7 +1,7 @@
 #let title = "Inaktive Feldspieler*innen"
 
 Feldspieler*innen werden inaktiv, indem sie gültig getroffen werden oder
-gegen das Aus verstoßen. Im inaktiven Zustand können Feld spieler*innen
+gegen das Aus verstoßen. Im inaktiven Zustand können Feldspieler*innen
 weder gültig getroffen werden, noch können sie andere Feldspieler*innen
 gültig treffen oder pinnen. Inaktive Feldspieler*innen müssen schnellstmöglich
 abknien, um ihre jeweilige Strafzeit zu zählen; gegebenenfalls
