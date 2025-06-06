@@ -8,4 +8,4 @@ Die Feldspieler*innen eines Teams unterteilen sich in _Läufer*innen (Qwiks)_ un
 - zwei Kurzpompfen oder
 - eine Kurzpompfe und einen Schild führen.
 Ein*e Pompfer*in, der*die eine Kette führt, heißt _Kettenspieler*in_. Alle übrigen Pompfer*innen heißen _Nahpompfer*innen_.
-Es befinden sich genau 1 Läufer*in und maximal 1 Kettenspieler*in unter den Feldspieler*innen; die übrigen sind Nahpompfer*innen.
+Es befinden sich genau 1 Läufer*in und maximal 1 Kettenspieler*in unter den Feldspieler*innen eines Teams; die übrigen sind Nahpompfer*innen.
