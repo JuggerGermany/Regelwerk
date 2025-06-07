@@ -13,5 +13,6 @@ Läufer*innen ist es im Läufer*innenkampf verboten:
 - an Extremitäten ruckartig zu reißen oder zu zerren (z. B. durch Stoppen des*der laufenden Gegners*in am Unterarm).
 - den*die Gegner*in im Lauf zu stoßen.
 - in den*die Gegner*in hinein zu rennen oder zu springen.
-- den*die Gegner*in am Trikot zu ziehen.
-Wenn sich beide Teams vor Spielbeginn darauf einigen, können für das Spiel abweichende Läufer*innenkampfregeln festgelegt werden. Die Spielhelfer*innen können solche Einigungen ablehnen.
+- den*die Gegner*in an der Kleidung zu ziehen.
+Wenn sich beide Teams vor Spielbeginn darauf einigen, können für das Spiel abweichende Läufer*innenkampfregeln festgelegt werden. 
+Die Spielhelfer*innen können solche Einigungen ablehnen.
