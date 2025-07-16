@@ -24,27 +24,12 @@
       } else {
         outside-pos.update(right)
       }
-      place(
-        top + outside-pos.get(),
-        dx: 0cm,
-        dy: 0cm,
-        rect(width: 1.5cm, height: 18cm, fill: light-background),
-      )
+      place(top + outside-pos.get(), dx: 0cm, dy: 0cm, rect(width: 1.5cm, height: 18cm, fill: light-background))
       for dy in (5.6cm, 8.6cm, 11.6cm) {
-        place(
-          top + outside-pos.get(),
-          dx: 0cm,
-          dy: dy,
-          rect(width: 1.5cm, height: 1.5cm, fill: mid-background),
-        )
+        place(top + outside-pos.get(), dx: 0cm, dy: dy, rect(width: 1.5cm, height: 1.5cm, fill: mid-background))
       }
       if nb > 0 {
-        place(
-          top + outside-pos.get(),
-          dx: 0cm,
-          dy: 4.1cm + 1.5cm * nb,
-          rect(width: 1.5cm, height: 1.5cm, fill: dark-background),
-        )
+        place(top + outside-pos.get(), dx: 0cm, dy: 4.1cm + 1.5cm * nb, rect(width: 1.5cm, height: 1.5cm, fill: dark-background))
       }
     }
   ),
@@ -65,18 +50,8 @@
     }
     #pagebreak(to: "even")
     #v(-1.5cm + nb * 1.3cm)
-    #place(
-      top + left,
-      dx: -2cm,
-      dy: 0.1cm + 1.5cm * nb,
-      rect(width: 3.5cm + 0.23cm * nb, height: 1.5cm, fill: dark-background),
-    )
-    #place(
-      top + left,
-      dx: -2cm,
-      dy: 0.1cm + 1.5cm * (nb - 1),
-      rect(width: 1.5cm, height: 1.5cm, fill: color.get()),
-    )
+    #place(top + left, dx: -2cm, dy: 0.1cm + 1.5cm * nb, rect(width: 3.5cm + 0.23cm * nb, height: 1.5cm, fill: dark-background))
+    #place(top + left, dx: -2cm, dy: 0.1cm + 1.5cm * (nb - 1), rect(width: 1.5cm, height: 1.5cm, fill: color.get()))
     #text(size: 150pt, font: "georgia", weight: "bold")[#counter(heading).display(it.numbering)] \
 
     #text(size: 50pt, weight: "thin")[#upper[#it.body]]
@@ -189,7 +164,7 @@
 #import "/typst/spielhelferinnen/punktezaehlerin.typ" as punktezaehlerin_text: title as punktezaehlerin_title
 #import "/typst/anhang/masstabelle.typ" as masstabelle_text: title as masstabelle_title
 
-Branch: base_version, 27.10.2025, zuletzt bearbeitet von Mario
+Branch: treffer definition split var 1, 12.10.2024, zuletzt bearbeitet von Helene
 #pagebreak()
 
 #todo[Titelblatt]
