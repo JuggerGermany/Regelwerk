@@ -15,5 +15,4 @@ ihre Strafzeit ohne Unterbrechung weiter. Sie müssen ihre Strafzeit jedoch
 von vorne zählen, wenn sie nicht regelkonform abknien, mit dem Jugg
 interagieren oder zu früh aufstehen. Nachdem sie ihre Strafzeit gezählt
 haben, dürfen inaktive Feldspieler*innen wieder aufstehen und somit aktiv
-sein. Inaktive Feldspieler*innen dürfen über ihre Strafzeit hinaus abknien
-und somit inaktiv bleiben.
+sein.
