@@ -183,7 +183,7 @@
 #import "/typst/spielhelferinnen/malrichterinnen.typ" as malrichterinnen_text: title as malrichterinnen_title
 #import "/typst/spielhelferinnen/punktezaehlerin.typ" as punktezaehlerin_text: title as punktezaehlerin_title
 
-Branch: entwurf/jugghandling/var_1, 06.06.2024, zuletzt bearbeitet von Helene
+Branch: entwurf/jugghandling/var_1, 23.07.2024, zuletzt bearbeitet von Helene
 #pagebreak()
 
 #todo[Titelblatt]
