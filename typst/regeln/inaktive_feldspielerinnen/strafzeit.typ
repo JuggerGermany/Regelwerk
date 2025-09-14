@@ -5,7 +5,8 @@ Die Zeitspanne der Strafzeit ist abhängig vom Grund für den inaktiven Zustand
 - Nach einem Verstoß gegen das Aus sind es 5 Steine.
 - Nach einem gültigen Treffer durch eine Nahpompfe sind es 5 Steine.
 - Nach einem gültigen Treffer durch eine Kette sind es 8 Steine.
-Inaktive Feldspieler*innen müssen ihre Strafzeit mit der auf dem Rücken liegenden Hand sichtbar zählen.
+Inaktive Feldspieler*innen müssen ihre Strafzeit mit der auf dem Rücken liegenden Hand sichtbar von 1 beginnend zählen.
+Ist die Strafzeit größer als 5 Steine, wird nach der vollen Hand erneut mit 1 begonnen.
 Mit dem ersten Stein, der ertönt, nachdem sie regelgerecht abknien, dürfen inaktive Feldspieler*innen beginnen, ihre Strafzeit zu zählen.
 Sie müssen mit der auf dem Rücken liegenden Hand sichtbar zählen.
 Wenn sie gepinnt werden, zählen inaktive Feldspieler*innen ihre Strafzeit ohne Unterbrechung weiter.
