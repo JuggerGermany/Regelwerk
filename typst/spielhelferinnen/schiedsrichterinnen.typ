@@ -1,4 +1,6 @@
 #let title = "Schiedsrichter*innen"
+#show link: set text(fill: blue)
+#show link: underline
 
 Jedes offizielle Juggerspiel wird von mindestens vier Schiedsrichter*innen begleitet: Hauptschiedsrichter*in, Nebenschiedsrichter*in und zwei Malrichter*innen.
 Alle Schiedsrichter*innen haben die Aufgabe, den Spielregeln Geltung zu verschaffen und dafür Sorge zu tragen, dass die Sicherheit aller Spieler*innen gewährleistet ist.
