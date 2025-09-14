@@ -1,7 +1,9 @@
 CC 2026 Jugger Deutschland \
-#link("regelwerk@djsv.de")
+#link("mailto:regelwerk@djsv.de")[regelwerk[at]djsv.de]
 
 #enum(enum.item(12)[bearbeitete Ausgabe 2026. Hrsg. von: Jugger Community.\ Bearbeitet von: Helene, Mario, Max])
+#show link: set text(fill: blue)
+#show link: underline
 
 + Ausgabe 2007. Hrsg. von: Drachenblut-Forum \ Bearbeitet von: Ruben Wickenhäuser, Jakob Senst
 + Ausgabe 2010. Hrsg. von: Jugger-Community. \ Bearbeitet von: Ruben Wickenhäuser
@@ -29,9 +31,9 @@ Die Arbeit der Regelhütenden wird von der deutschen Jugger-Gemeinschaft durch 
 
 Hauptinformationsseiten des Sports Jugger:
 
-jugger.org\
+#link("https://jugger.org")[jugger.org]\
+#link("https://juggersportverband.de")[juggersportverband.de]\
 
-Die aktuelle Fassung des Regelwerks findet sich unter:
-jugger.org/downloads.
+Die aktuelle Fassung des Regelwerks findet sich unter: #link("https://jugger.org/downloads")[jugger.org/downloads].
 Bei nachfolgendem Regelwerk wird eine genderneutrale Schreibweise mit Gendersternchen \* verwendet, um dem Umstand der geschlechtlichen Diversität Rechnung zu tragen.
 #pagebreak()
