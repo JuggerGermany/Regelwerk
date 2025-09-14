@@ -12,6 +12,7 @@ Es ist ihnen insbesondere verboten:
 - aktive Feldspieler*innen bei der Teilnahme am Spielgeschehen zu behindern.
 Inaktive Pompfer*innen müssen ihre Pompfe flach auf den Boden legen.
 Schilde können stattdessen mit einem beliebigen Teil am Boden gehalten werden.
+Bei Ketten darf das hintere Ende den Boden verlassen.
 Wenn ihre Pompfe von einer Kette umwickelt ist, oder ihre Kett eine Pompfe umwickelt hat, müssen sie dabei behilflich sein, die Pompfen zu entwickeln oder sie loslassen, um den*die andere*n Feldspieler*in beim Abwickeln nicht zu behindern.
 Falls sie ihre Pompfe verloren haben, ist es ihnen verboten, diese wiederzuholen.
 Inaktive Läufer*innen müssen den Jugg augenblicklich loslassen.
