@@ -2,10 +2,10 @@
 
 #let title = "Stab"
 
-Die maximale Länge des Stabs beträgt #strong[180_cm].
-Die maximale Reichweite des Stabs beträgt #strong[110_cm].
+Die maximale Länge des Stabs beträgt #strong[180_cm] (#strong[135_cm]).
+Die maximale Reichweite des Stabs beträgt #strong[110_cm] (#strong[83_cm]).
 Die Schlagfläche ist das vordere, gepolsterte Ende.
-Die minimale Länge der Schlagfläche beträgt #strong[90_cm].
+Die minimale Länge der Schlagfläche beträgt #strong[90_cm] (#strong[68_cm]).
 Die Schlagfläche des Stabs ist mit einer Stechspitze ausgestattet.
 Der Stab hat zwei Griffflächen am hinteren Teil der Pompfe, die durch eine Schaumstoffmanschette getrennt sind.
 Die vordere Grifffläche geht von der Schlagfläche bis zur Manschette.
