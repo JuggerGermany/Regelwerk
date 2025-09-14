@@ -1,4 +1,4 @@
-CC 2023 Jugger Deutschland \
+CC 2025 Jugger Deutschland \
 #link("mailto:regelwerk@djsv.de")[regelwerk[at]djsv.de]
 
 #show link: set text(fill: blue)
