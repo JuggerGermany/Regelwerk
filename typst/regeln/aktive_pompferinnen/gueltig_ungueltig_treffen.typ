@@ -2,13 +2,8 @@
 
 #let title = "Gültige und ungültige Treffer"
 
-Aktive Nahpompfer*innen treffen gültig, indem sie mit der Schlagfläche
-ihrer regelgerecht geführten Pompfe andere aktive Feldspieler*innen an
-deren Trefferzone berühren.
-Aktive Kettenspieler*innen treffen gültig, indem sie mit dem Kettenball ihrer
-regelgerecht geführten Kette andere Feldspieler*innen an deren Trefferzone
-berühren oder mit der regelgerecht geführten Kette eine geschlossene Form
-um die Trefferzone anderer Feldspieler*innen bilden.
+Aktive Nahpompfer*innen treffen gültig, indem sie mit der Schlagfläche ihrer regelgerecht geführten Pompfe andere aktive Feldspieler*innen an deren Trefferzone berühren.
+Aktive Kettenspieler*innen treffen gültig, indem sie mit dem Kettenball ihrer regelgerecht geführten Kette andere Feldspieler*innen an deren Trefferzone berühren oder mit der regelgerecht geführten Kette eine geschlossene Form um die Trefferzone anderer Feldspieler*innen bilden.
 Ein Treffer ist ungültig, wenn:
 
 - der*die treffende Pompfer*in inaktiv ist.
