@@ -2,9 +2,9 @@
 
 #let title = "Feldspieler*innen"
 
-Der Zustand eines*einer Feldspieler*in kann entweder _aktiv_ oder _inaktiv_
-sein. Zu Beginn eines Spielzugs sind alle Feldspieler*innen aktiv. Sie werden
-inaktiv, indem sie gültig getroffen werden oder_ gegen das Aus verstoßen_.
+Der Zustand eines*einer Feldspieler*in kann entweder _aktiv_ oder _inaktiv_ sein.
+Zu Beginn eines Spielzugs sind alle Feldspieler*innen aktiv.
+Sie werden inaktiv, indem sie gültig getroffen werden oder_ gegen das Aus verstoßen_.
 
 Feldspieler*innen ist es verboten:
 - mit unnötiger Härte zu agieren.

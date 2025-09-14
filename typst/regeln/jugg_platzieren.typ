@@ -6,10 +6,9 @@ Der Jugg ist gültig platziert, wenn:
 - er im Mal stecken bleibt und
 - kein*e Läufer*in ihn berührt.
 
-Das gilt auch, wenn ein*e Läufer*in den Jugg platziert und gleichzeitig gültig
-getroffen wird. Selbst wenn der*die Läufer*in den Jugg erst loslässt, nachdem
-er*sie gültig getroffen wurde, ist der Punkt gültig, solange der Jugg im Mal stecken
-bleibt. Der Jugg ist ungültig platziert, wenn:
+Das gilt auch, wenn ein*e Läufer*in den Jugg platziert und gleichzeitig gültig getroffen wird.
+Selbst wenn der*die Läufer*in den Jugg erst loslässt, nachdem er*sie gültig getroffen wurde, ist der Punkt gültig, solange der Jugg im Mal stecken bleibt.
+Der Jugg ist ungültig platziert, wenn:
 
 - er von alleine wieder aus dem Mal fällt oder
 - ein*e Läufer*in den Jugg, während er im Mal platziert ist, berührt, oder

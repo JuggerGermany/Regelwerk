@@ -23,22 +23,15 @@ Helene, Mario, Max
 #pagebreak()
 
 #heading(numbering: none, outlined: false)[Anmerkung]
-Das Regelwerk bietet die von der aktiven Jugger-Gemeinschaft
-abgestimmte, bundesweite Grundlage für Jugger in Deutschland und
-reguliert den Spielablauf, das Spielfeld, die Spielmaterialen und das
-Schiedsrichter*innenverhalten. Es beinhaltet ausschließlich die von der
-Jugger-Gemeinschaft in Deutschland beschlossenen Inhalte. Die Arbeit
-der Regelhütenden wird von der deutschen Jugger-Gemeinschaft durch
-Wahl bestätigt.\
+Das Regelwerk bietet die von der aktiven Jugger-Gemeinschaft abgestimmte, bundesweite Grundlage für Jugger in Deutschland und reguliert den Spielablauf, das Spielfeld, die Spielmaterialen und das Schiedsrichter*innenverhalten.
+Es beinhaltet ausschließlich die von der Jugger-Gemeinschaft in Deutschland beschlossenen Inhalte.
+Die Arbeit der Regelhütenden wird von der deutschen Jugger-Gemeinschaft durch Wahl bestätigt.\
 
 Hauptinformationsseiten des Sports Jugger:
 
 jugger.org\
-jugger.de
 
 Die aktuelle Fassung des Regelwerks findet sich unter:
-jugger.org/downloads
-Bei nachfolgendem Regelwerk wird eine genderneutrale Schreibweise mit
-Gendersternchen \* verwendet, um dem Umstand der geschlechtlichen
-Diversität Rechnung zu tragen.
+jugger.org/downloads.
+Bei nachfolgendem Regelwerk wird eine genderneutrale Schreibweise mit Gendersternchen \* verwendet, um dem Umstand der geschlechtlichen Diversität Rechnung zu tragen.
 #pagebreak()
