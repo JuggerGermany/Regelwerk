@@ -1,6 +1,6 @@
 #let title = "Jugg platzieren"
 
-Wird der Jugg gültig im Mal platziert, erzielt das Team das auf dieses Mal spielt einen Punkt.
+Der Jugg wird platziert um einen Punkt zu erzielen.
 
 Der Jugg wird platziert, indem der Jugg in die Malöffnung bewegt wird.
 
