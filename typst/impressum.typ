@@ -1,8 +1,7 @@
-CC 2025 Deutscher Jugger Sportverband \
-#link("mailto:regelwerk@djsv.de")[regelwerk[at]djsv.de]
+#import "/typst/utils.typ": weblink
 
-#show link: set text(fill: blue)
-#show link: underline
+CC 2025 Deutscher Jugger Sportverband \
+#weblink(url: "mailto:regelwerk@djsv.de", display: "regelwerk@djsv.de")
 
 #enum(enum.item(12)[bearbeitete Ausgabe 2025. Hrsg. von: Jugger Community.\ Bearbeitet von: Pit Albert, Manuel Kubat])
 
@@ -37,11 +36,11 @@ Wahl bestätigt.\
 
 Hauptinformationsseiten des Sports Jugger:
 
-#link("https://jugger.org")[jugger.org]\
-#link("https://juggersportverband.de")[juggersportverband.de]\
+#weblink(url: "https://jugger.org", display: "jugger.org")\
+#weblink(url: "https://juggersportverband.de", display: "juggersportverband.de")\
 
 Die aktuelle Fassung des Regelwerks findet sich unter:
-#link("https://jugger.org/downloads")[jugger.org/downloads].
+#weblink(url: "https://jugger.org/downloads", display: "jugger.org/downloads").
 Bei nachfolgendem Regelwerk wird eine genderneutrale Schreibweise mit
 Gendersternchen \* verwendet, um dem Umstand der geschlechtlichen
 Diversität Rechnung zu tragen.

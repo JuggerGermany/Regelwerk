@@ -1,5 +1,3 @@
-#import "/typst/edit_utils.typ": todo
-
 #let title = "Q-Tip"
 
 Die maximale Länge des Q-Tips beträgt #strong[200_cm] (#strong[150_cm]).

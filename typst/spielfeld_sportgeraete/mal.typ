@@ -1,5 +1,3 @@
-#import "/typst/edit_utils.typ": todo
-
 #let title = "Das Mal"
 
 Das Mal ist ein Schaumstofftrichter in der Form eines Kegelstumpfes, dessen Basis einen Durchmesser von mindestens #strong[30_cm] hat.

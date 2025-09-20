@@ -1,5 +1,3 @@
-#import "/typst/edit_utils.typ": todo
-
 #let title = "Kette"
 
 Die maximale Länge und die maximale Reichweite der Kette (Handschlaufe + Strang + Ball) beträgt #strong[320_cm] (#strong[240_cm]).

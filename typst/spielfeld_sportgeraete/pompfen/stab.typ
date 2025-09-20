@@ -1,5 +1,3 @@
-#import "/typst/edit_utils.typ": todo
-
 #let title = "Stab"
 
 Die maximale Länge des Stabs beträgt #strong[180_cm] (#strong[135_cm]).

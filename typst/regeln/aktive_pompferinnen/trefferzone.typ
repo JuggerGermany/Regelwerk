@@ -1,5 +1,3 @@
-#import "/typst/edit_utils.typ": todo
-
 #let title = "Trefferzone"
 
 Die Trefferzone ist der Bereich am Körper der Feldspieler*innen, an dem sie gültig getroffen werden können.
