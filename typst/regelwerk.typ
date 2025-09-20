@@ -1,4 +1,4 @@
-#import "/typst/edit_utils.typ": todo
+#import "/typst/utils.typ": todo
 
 #let in-outline = state("in-outline", false)
 #let outside-pos = state("outside-pos", right)
@@ -129,17 +129,20 @@
 #import "/typst/pompfen/griffflaeche.typ" as griffflaeche_text: title as griffflaeche_title
 #import "/typst/pompfen/schlagflaeche.typ" as schlagflaeche_text: title as schlagflaeche_title
 #import "/typst/pompfen/stechspitze.typ" as stechspitze_text: title as stechspitze_title
-#import "/typst/team/kleidung.typ" as kleidung_text: title as kleidung_title
+
 // section 2
+#import "/typst/team/kleidung.typ" as kleidung_text: title as kleidung_title
 #import "/typst/team/spielerinnen.typ" as spielerinnen_text: title as spielerinnen_title
 #import "/typst/team/zusammensetzung.typ" as zusammensetzung_text: title as zusammensetzung_title
 // section 3
 #import "/typst/spielablauf/spielzug.typ" as spielzug_text: title as spielzug_title
 #import "/typst/spielablauf/spiel_nach_steinen.typ" as spiel_nach_steinen_text: title as spiel_nach_steinen_title
 #import "/typst/spielablauf/spiel_nach_saetzen.typ" as spiel_nach_saetzen_text: title as spiel_nach_saetzen_title
-#import "/typst/spielablauf/aufstellung.typ" as aufstellung_text: title as aufstellung_title
+#import "/typst/spielablauf/spielzugvorbereitung.typ" as aufstellung_text: title as aufstellung_title
 #import "/typst/spielablauf/einleiten.typ" as einleiten_text: title as einleiten_title
 #import "/typst/spielablauf/fruehstart.typ" as fruehstart_text: title as fruehstart_title
+#import "/typst/spielablauf/fehlstart.typ" as fehlstart_text: title as fehlstart_title
+#import "/typst/spielablauf/bereitschaft.typ" as bereitschaft_text: title as bereitschaft_title
 #import "/typst/spielablauf/punkten.typ" as punkten_text: title as punkten_title
 #import "/typst/spielablauf/abbruch.typ" as abbruch_text: title as abbruch_title
 // section 4
@@ -180,19 +183,26 @@
 #import "/typst/spielhelferinnen/malrichterinnen.typ" as malrichterinnen_text: title as malrichterinnen_title
 #import "/typst/spielhelferinnen/punktezaehlerin.typ" as punktezaehlerin_text: title as punktezaehlerin_title
 
-Branch: base_version, 06.06.2024, zuletzt bearbeitet von Helene
+Branch: base_version, 20.09.2025, zuletzt bearbeitet von Helene
 #pagebreak()
 
 #todo[Titelblatt]
 
 #impressum_text
 
-#align(center)[
-  #text(size: 40pt, font: "montserrat", weight: "thin")[#upper[Inhalt]]
+#[ // Outline page
+  #pagebreak()
+  #show link: set text(size: 11pt)
+  #set page(margin: (top: 2.5cm))
+  #align(center)[
+    #text(size: 40pt, font: "montserrat", weight: "thin")[#upper[Inhalt]]
+  ]
+  #box(height: 21.5cm)[#columns(2, outline(title: none))]
+  #pagebreak()
 ]
-#columns(2, outline(title: none))
-#pagebreak()
+
 #introduction_text
+
 
 = Spielfeld
 == #spielfeld_title
@@ -248,8 +258,12 @@ Branch: base_version, 06.06.2024, zuletzt bearbeitet von Helene
 #aufstellung_text
 == #einleiten_title
 #einleiten_text
+=== #bereitschaft_title
+#bereitschaft_text
 === #fruehstart_title
 #fruehstart_text
+=== #fehlstart_title
+#fehlstart_text
 == Beenden eines Spielzugs
 === #punkten_title
 #punkten_text
