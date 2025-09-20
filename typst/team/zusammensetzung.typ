@@ -1,4 +1,6 @@
 #let title = "Teamzusammensetzung"
 
-Ein Team besteht pro Spiel aus maximal 8 Spieler*innen: genau 5 _Feldspieler*innen_ und bis zu 3 _Auswechselspieler*innen_.
-Die Auswechsel spieler*innen dürfen, im Gegensatz zu den Feldspieler*innen, während eines _Spielzugs_ das Spielfeld nicht betreten.
+Ein Team besteht pro Spiel aus maximal acht Spieler*innen.
+Pro Spielzugs dürfen maximal fünf Spieler*innen das Spielfeld betreten.
+Sie werden als Feldspieler*innen bezeichnet.
+

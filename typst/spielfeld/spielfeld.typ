@@ -11,7 +11,6 @@ Die kurzen, sich gegenüberliegenden #strong[10_m] (#strong[7,5_m]) langen Linie
 Alle anderen Linien sind #emph[Seitenlinien].
 Alle Linien, sowohl die Grund- als auch die Seitenlinien, gehören zum Aus.
 Der #emph[Mittelpunkt] des Spielfeldes ist markiert.
-Auf diesen Punkt wird vor jedem Spielzug der #emph[Jugg] gelegt.
 Die #emph[Male] befinden sich auf beiden Spielfeldhälften, ausgehend von der Mitte der jeweiligen Grundlinie #strong[2_m] (#strong[1,5_m]) in Richtung Mittelpunkt.
 
 #align(center)[#image("/typst/images/feld.jpg")]
