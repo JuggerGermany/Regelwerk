@@ -1,5 +1,3 @@
-#import "/typst/edit_utils.typ": todo
-
 #let title = "Spielfeld"
 
 Die Form des Spielfeldes entspricht einem länglichen Achteck.

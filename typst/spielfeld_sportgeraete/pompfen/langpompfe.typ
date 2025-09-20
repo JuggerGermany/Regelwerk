@@ -1,5 +1,3 @@
-#import "/typst/edit_utils.typ": todo
-
 #let title = "Langpompfe"
 
 Die maximale Länge und die maximale Reichweite der Langpompfe beträgt #strong[140_cm] (#strong[105_cm]).

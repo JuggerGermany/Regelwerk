@@ -1,5 +1,3 @@
-#import "/typst/edit_utils.typ": todo
-
 #let title = "Kurzpompfe"
 
 Die maximale Länge und die maximale Reichweite der Kurzpompfe beträgt #strong[85_cm] (#strong[64_cm]).

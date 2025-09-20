@@ -1,5 +1,3 @@
-#import "/typst/edit_utils.typ": todo
-
 #let title = "Schild"
 
 Der Schild ist rund und hat einen maximalen Durchmesser von #strong[60_cm] (#strong[45_cm]).

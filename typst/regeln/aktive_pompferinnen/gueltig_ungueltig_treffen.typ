@@ -1,5 +1,3 @@
-#import "/typst/edit_utils.typ": todo
-
 #let title = "Gültige und ungültige Treffer"
 
 Aktive Nahpompfer*innen treffen gültig, indem sie mit der Schlagfläche ihrer regelgerecht geführten Pompfe andere aktive Feldspieler*innen an deren Trefferzone berühren.
