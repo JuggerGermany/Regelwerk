@@ -4,7 +4,7 @@ CC 2025 Jugger Deutschland \
 #show link: set text(fill: blue)
 #show link: underline
 
-#enum(enum.item(11)[bearbeitete Ausgabe 2025. Hrsg. von: Jugger Community.\ Bearbeitet von: Pit Albert, Manuel Kubat])
+#enum(enum.item(12)[bearbeitete Ausgabe 2025. Hrsg. von: Jugger Community.\ Bearbeitet von: Pit Albert, Manuel Kubat])
 
 + Ausgabe 2007. Hrsg. von: Drachenblut-Forum \ Bearbeitet von: Ruben Wickenhäuser, Jakob Senst
 + Ausgabe 2010. Hrsg. von: Jugger-Community. \ Bearbeitet von: Ruben Wickenhäuser
@@ -21,8 +21,8 @@ CC 2025 Jugger Deutschland \
 
 Satz, Layout, Illustration und Deckblatt:
 Aaron Wilde – Jugger Consulting \
-Bearbeitung des Satzes (11. Ausgabe 2023):
-Ruben Wickenhäuser
+Bearbeitung des Satzes (12. Ausgabe 2025):
+Ruben Wickenhäuser, Manuel Kubat
 #align(left)[#image("images/by-nc-nd.png", width: 3cm)]
 #pagebreak()
 
