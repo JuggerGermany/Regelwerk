@@ -190,12 +190,19 @@ Branch: base_version, 20.09.2025, zuletzt bearbeitet von Helene
 
 #impressum_text
 
-#align(center)[
-  #text(size: 40pt, font: "montserrat", weight: "thin")[#upper[Inhalt]]
+#[ // Outline page
+  #pagebreak()
+  #show link: set text(size: 11pt)
+  #set page(margin: (top: 2.5cm))
+  #align(center)[
+    #text(size: 40pt, font: "montserrat", weight: "thin")[#upper[Inhalt]]
+  ]
+  #box(height: 21.5cm)[#columns(2, outline(title: none))]
+  #pagebreak()
 ]
-#columns(2, outline(title: none))
-#pagebreak()
+
 #introduction_text
+
 
 = Spielfeld
 == #spielfeld_title

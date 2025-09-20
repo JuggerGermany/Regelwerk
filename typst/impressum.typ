@@ -38,4 +38,3 @@ Hauptinformationsseiten des Sports Jugger:
 Die aktuelle Fassung des Regelwerks findet sich unter: #weblink(url: "https://jugger.org/downloads", display: "jugger.org/downloads").\
 
 Bei nachfolgendem Regelwerk wird eine genderneutrale Schreibweise mit Gendersternchen \* verwendet, um dem Umstand der geschlechtlichen Diversität Rechnung zu tragen.
-#pagebreak()
