@@ -1,7 +1,9 @@
-CC 2023 Jugger Deutschland \
-#link("regelwerk@djsv.de")
+#import "/typst/utils.typ": weblink
 
-#enum(enum.item(11)[bearbeitete Ausgabe 2023. Hrsg. von: Jugger Community.\ Bearbeitet von: Pit Albert, Manuel Kubat, Felix Lang.])
+CC 2025 Deutscher Jugger Sportverband \
+#weblink(url: "mailto:regelwerk@djsv.de", display: "regelwerk@djsv.de")
+
+#enum(enum.item(12)[bearbeitete Ausgabe 2025. Hrsg. von: Jugger Community.\ Bearbeitet von: Pit Albert, Manuel Kubat])
 
 + Ausgabe 2007. Hrsg. von: Drachenblut-Forum \ Bearbeitet von: Ruben Wickenhäuser, Jakob Senst
 + Ausgabe 2010. Hrsg. von: Jugger-Community. \ Bearbeitet von: Ruben Wickenhäuser
@@ -13,10 +15,12 @@ CC 2023 Jugger Deutschland \
 + bearbeitete Ausgabe 2018. Hrsg. von: Jugger-Community. \ Bearbeitet von: Felix Schiller, Johanna von Nathusius, Aaron Wilde.
 + bearbeitete Ausgabe 2020. Hrsg. von: Jugger Community.\ Bearbeitet von: Felix Schiller, Johanna von Nathusius, Aaron Wilde.
 + bearbeitete Ausgabe 2021. Hrsg. von: Jugger Community.\ Bearbeitet von: Pit Albert, Jens-Cédric Höpfer, Manuel Kubat, Sarah Licht.
++ bearbeitete Ausgabe 2023. Hrsg. von: Jugger Community.\ Bearbeitet von: Pit Albert, Manuel Kubat, Felix Lang.
+
 
 Satz, Layout, Illustration und Deckblatt:
 Aaron Wilde – Jugger Consulting \
-Bearbeitung des Satzes (11. Ausgabe 2023):
+Bearbeitung des Satzes (12. Ausgabe 2025):
 Ruben Wickenhäuser
 #align(left)[#image("images/by-nc-nd.png", width: 3cm)]
 #pagebreak()
@@ -32,11 +36,11 @@ Wahl bestätigt.\
 
 Hauptinformationsseiten des Sports Jugger:
 
-jugger.org\
-jugger.de
+#weblink(url: "https://jugger.org", display: "jugger.org")\
+#weblink(url: "https://juggersportverband.de", display: "juggersportverband.de")\
 
 Die aktuelle Fassung des Regelwerks findet sich unter:
-jugger.org/downloads
+#weblink(url: "https://jugger.org/downloads", display: "jugger.org/downloads").
 Bei nachfolgendem Regelwerk wird eine genderneutrale Schreibweise mit
 Gendersternchen \* verwendet, um dem Umstand der geschlechtlichen
 Diversität Rechnung zu tragen.

@@ -1,4 +1,4 @@
-#import "/typst/edit_utils.typ": todo
+#import "/typst/utils.typ": todo
 
 #let in-outline = state("in-outline", false)
 #let outside-pos = state("outside-pos", right)
@@ -83,7 +83,7 @@
   ]
 }
 
-
+#set par(justify: true)
 #set text(lang: "de", size: 13pt, font: "vollkorn", fill: rgb("#4F4F51"))
 
 #show "_": sym.space.nobreak.narrow
@@ -111,6 +111,7 @@
 #import "/typst/introduction.typ" as introduction_text
 
 // main content
+#import "/typst/spielfeld_sportgeraete/intro_spielfeld.typ" as spielfeld_intro
 #import "/typst/spielfeld_sportgeraete/spielfeld.typ" as spielfeld_text: title as spielfeld_title
 #import "/typst/spielfeld_sportgeraete/jugg.typ" as jugg_text: title as jugg_title
 #import "/typst/spielfeld_sportgeraete/mal.typ" as mal_text: title as mal_title
@@ -179,6 +180,7 @@
 
 
 = Spielfeld und Sportgeräte
+#spielfeld_intro
 == #spielfeld_title
 #spielfeld_text
 == #jugg_title
