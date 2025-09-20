@@ -20,8 +20,8 @@ CC 2025 Jugger Deutschland \
 
 Satz, Layout, Illustration und Deckblatt:
 Aaron Wilde – Jugger Consulting \
-Bearbeitung des Satzes (12. Ausgabe 2026):
-Manuel Kubat, Ruben Wickenhäuser
+Bearbeitung des Satzes (12. Ausgabe 2025):
+Ruben Wickenhäuser
 #align(left)[#image("images/by-nc-nd.png", width: 3cm)]
 #pagebreak()
 
