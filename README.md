@@ -42,6 +42,8 @@ Für die direkte Arbeit mit dem Regelwerk braucht ihr ein Grundverständnis von 
 
 Wir selbst arbeiten mit dem Text-Editor VSCode, um am Regelwerk zu arbeiten. Weiter unten findet ihr eine kurze Beschreibung unseres Setups. Es reicht aber auch jeder andere Text-Editor aus.
 
+Alle tools die wir nutzen sind weit verbreitet und gut dokumentiert, sodass googlen oft ausreichend ist, um ein Verständnis zu bekommen. Die Erklärungen unten sind als Minimal-Basics zu verstehen. 
+
 ### git
 
 Ein gutes Tutorial für git findet ihr [hier](https://www.atlassian.com/git/tutorials) (vor allem unter “Getting Started”).
@@ -58,6 +60,11 @@ Hier eine Übersicht über einige nützliche git Befehle, die ihr kennen solltet
     - `git diff` (zeigt Unterschiede zwischen commits/branches an)
 - in Github: Pull request erstellen (Anfrage die Änderungen in einen anderen Branch zu übernehmen)
 
+## GitHub 
+
+GitHub ist eine Möglichkeit, ein Projekt in einer Cloud zu speichern, zu teilen und zusammenzuarbeiten. Wenn ihr dieses Readme lest, seid ihr schon auf GitHub unterwegs. 
+
+Eine kurze Einführung zu Github gibt es [hier](https://docs.github.com/de/get-started/start-your-journey/hello-world).
 
 ## Beispiel
 
