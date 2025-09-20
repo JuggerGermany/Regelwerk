@@ -1,7 +1,10 @@
-CC 2023 Jugger Deutschland \
-#link("regelwerk@djsv.de")
+CC 2025 Deutscher Jugger Sportverband \
+#link("mailto:regelwerk@djsv.de")[regelwerk[at]djsv.de]
 
-#enum(enum.item(11)[bearbeitete Ausgabe 2023. Hrsg. von: Jugger Community.\ Bearbeitet von: Pit Albert, Manuel Kubat, Felix Lang.])
+#show link: set text(fill: blue)
+#show link: underline
+
+#enum(enum.item(12)[bearbeitete Ausgabe 2025. Hrsg. von: Jugger Community.\ Bearbeitet von: Pit Albert, Manuel Kubat])
 
 + Ausgabe 2007. Hrsg. von: Drachenblut-Forum \ Bearbeitet von: Ruben Wickenhäuser, Jakob Senst
 + Ausgabe 2010. Hrsg. von: Jugger-Community. \ Bearbeitet von: Ruben Wickenhäuser
@@ -13,10 +16,12 @@ CC 2023 Jugger Deutschland \
 + bearbeitete Ausgabe 2018. Hrsg. von: Jugger-Community. \ Bearbeitet von: Felix Schiller, Johanna von Nathusius, Aaron Wilde.
 + bearbeitete Ausgabe 2020. Hrsg. von: Jugger Community.\ Bearbeitet von: Felix Schiller, Johanna von Nathusius, Aaron Wilde.
 + bearbeitete Ausgabe 2021. Hrsg. von: Jugger Community.\ Bearbeitet von: Pit Albert, Jens-Cédric Höpfer, Manuel Kubat, Sarah Licht.
++ bearbeitete Ausgabe 2023. Hrsg. von: Jugger Community.\ Bearbeitet von: Pit Albert, Manuel Kubat, Felix Lang.
+
 
 Satz, Layout, Illustration und Deckblatt:
 Aaron Wilde – Jugger Consulting \
-Bearbeitung des Satzes (11. Ausgabe 2023):
+Bearbeitung des Satzes (12. Ausgabe 2025):
 Ruben Wickenhäuser
 #align(left)[#image("images/by-nc-nd.png", width: 3cm)]
 #pagebreak()
@@ -32,11 +37,11 @@ Wahl bestätigt.\
 
 Hauptinformationsseiten des Sports Jugger:
 
-jugger.org\
-jugger.de
+#link("https://jugger.org")[jugger.org]\
+#link("https://juggersportverband.de")[juggersportverband.de]\
 
 Die aktuelle Fassung des Regelwerks findet sich unter:
-jugger.org/downloads
+#link("https://jugger.org/downloads")[jugger.org/downloads].
 Bei nachfolgendem Regelwerk wird eine genderneutrale Schreibweise mit
 Gendersternchen \* verwendet, um dem Umstand der geschlechtlichen
 Diversität Rechnung zu tragen.
