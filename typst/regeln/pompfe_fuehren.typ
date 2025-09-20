@@ -1,6 +1,6 @@
 #let title = "Das regelgerechte Führen der Pompfe"
 
-Nur mit einer regelgerecht geführten Pompfe können aktive Feldspieler*innen andere Spieler*innen gültig treffen oder pinnen.
+Nur mit einer regelgerecht geführten Pompfe können aktive Pompfer*innen andere Feldspieler*innen gültig treffen oder pinnen.
 
 Zum regelgerechten Führen
 - der Kurzpompfe muss eine Hand die Griffäche berühren,
