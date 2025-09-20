@@ -1,5 +1,5 @@
 CC 2025 Deutscher Jugger Sportverband \
-#link("mailto:regelwerk@djsv.de")[regelwerk[at]djsv.de]
+#link("mailto:regelwerk@djsv.de")[regelwerk\@djsv.de]
 
 #show link: set text(fill: blue)
 #show link: underline
