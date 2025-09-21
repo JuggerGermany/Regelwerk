@@ -22,7 +22,7 @@ Satz, Layout, Illustration und Deckblatt:
 Aaron Wilde – Jugger Consulting \
 Bearbeitung des Satzes (12. Ausgabe 2025):
 Ruben Wickenhäuser
-#align(left)[#image("images/by-nc-nd.png", width: 3cm)]
+#align(left)[#image("images/by-nc-nd.svg", width: 3cm)]
 #pagebreak()
 
 #heading(numbering: none, outlined: false)[Anmerkung]
