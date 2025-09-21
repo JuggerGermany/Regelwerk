@@ -16,4 +16,18 @@ Ein Treffer ist ungültig, wenn:
 
 
 
-#align(center)[#image("/typst/images/bueste_kopf.jpg", height: 10cm)]
+#[
+  #set text(size: 16pt, font: "montserrat", weight: "bold", fill: gray)
+  #set par(justify: false)
+  #show text: upper
+  #grid(columns: (1fr, 1fr, 1fr), align: center + horizon)[
+    Kein Treffer\
+    "Kopf"
+    #v(80pt)
+  ][
+    #align(center)[#image("/typst/images/bueste_kopf.jpg", height: 10cm)]
+  ][
+    gültiger Treffer
+    #v(80pt)
+  ]
+]
