@@ -2,6 +2,7 @@
 
 #let in-outline = state("in-outline", false)
 #let outside-pos = state("outside-pos", right)
+#let in-anhang = state("in-anhang", false)
 #let dark-background = rgb("#78909C")
 #let mid-background = rgb("#CFD8DC")
 #let light-background = rgb("#ECEFF1")
@@ -87,7 +88,7 @@
 #set text(lang: "de", size: 13pt, font: "vollkorn", fill: rgb("#4F4F51"))
 
 #show figure: set align(center)
-#show figure.caption: set text(size:10pt)
+#show figure.caption: set text(size: 10pt)
 #show "_": sym.space.nobreak.narrow
 
 // outline
@@ -100,6 +101,7 @@
   it = it.indented(it.prefix(), it.body())
   strong(it)
 }
+#show outline.entry.where(level: 3): it => if it.element.numbering.at(0) == "A" {} else { it }
 #show outline: it => {
   in-outline.update(true)
   it
@@ -184,6 +186,7 @@
 #import "/typst/spielhelferinnen/nebenschiedsrichterin.typ" as nebenschiedsrichterin_text: title as nebenschiedsrichterin_title
 #import "/typst/spielhelferinnen/malrichterinnen.typ" as malrichterinnen_text: title as malrichterinnen_title
 #import "/typst/spielhelferinnen/punktezaehlerin.typ" as punktezaehlerin_text: title as punktezaehlerin_title
+#import "/typst/anhang/masstabelle.typ" as masstabelle_text: title as masstabelle_title
 
 Branch: base_version, 20.09.2025, zuletzt bearbeitet von Helene
 #pagebreak()
@@ -337,5 +340,14 @@ Branch: base_version, 20.09.2025, zuletzt bearbeitet von Helene
 #malrichterinnen_text
 == #punktezaehlerin_title
 #punktezaehlerin_text
+
+
+#context counter(heading).update(0)
+#set heading(numbering: "A.1")
+#context in-anhang.update(true)
+= Anhang
+== #masstabelle_title
+#masstabelle_text
+#context in-anhang.update(false)
 
 #todo[Letzte Seite]
