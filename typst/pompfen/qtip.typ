@@ -10,4 +10,4 @@ Die Grifffläche befindet sich zwischen den beiden Schlagflächen in der Mitte d
 Zum regelgerechten Führen müssen zwei Hände die Grifffläche berühren.
 Mit dem Q-Tip darf gestochen werden.
 
-#align(center)[#image("/typst/images/q_tip.jpg")]
+#figure(image("/typst/images/q_tip.jpg"), caption: "Q-Tip-Maße")

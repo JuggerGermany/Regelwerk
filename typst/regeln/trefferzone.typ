@@ -10,4 +10,4 @@ Bei Läufer*innen gilt zusätzlich, falls sie den Jugg mit den Händen berühre
 Bei Nahpompfer*innen gehören die Hände, solange sie die Pompfe mit einem beliebigen Teil der Hand berühren, nicht zur Trefferzone; die Handgelenke gehören zur Trefferzone.
 
 
-#align(center)[#image("/typst/images/trefferzonen.jpg")]
+#figure(image("/typst/images/trefferzonen.jpg"), caption: "Illustration der Trefferzonen (grau schraffierte Bereiche gehören nicht zur Trefferzone)")

@@ -14,6 +14,10 @@ Ein Treffer ist ungültig, wenn:
 - der Kettenball an eine Trefferzone schwingt oder die Kette eine geschlossene Form um eine Trefferzone bildet, nachdem die Kette um eine Pompfe die geschlossene Form gebildet hat.
 - der*die Kettenspieler*in den Kettenball wirft oder auf dem Boden hinter sich herzieht.
 
-
-
-#align(center)[#image("/typst/images/bueste_kopf.jpg", height: 10cm)]
+#figure(
+  image("/typst/images/bueste_kopf.jpg", height: 10cm),
+  caption: [
+    Beispiel Unterscheidung zwischen gültigen und ungültigen Treffern an der Kopfzone\
+    (links ungültig, rechts gültig)
+  ],
+)

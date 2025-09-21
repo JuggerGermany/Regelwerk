@@ -11,4 +11,7 @@ Die Polsterung darf nicht verrutschen.
 Zum regelgerechten Führen muss die Handschlaufe die Hand oder den Arm des*der Kettenspieler*in berühren.
 Mit der Kette kann nicht gepinnt werden.
 
-#align(center)[#image("/typst/images/kette.jpg")]
+#align(center)[#figure(
+  image("/typst/images/kette.png"),
+  caption: "Kettenmaße",
+)]

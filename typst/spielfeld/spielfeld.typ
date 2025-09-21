@@ -12,4 +12,4 @@ Alle Linien, sowohl die Grund- als auch die Seitenlinien, gehören zum Aus.
 Der #emph[Mittelpunkt] des Spielfeldes ist markiert.
 Die #emph[Male] befinden sich auf beiden Spielfeldhälften, ausgehend von der Mitte der jeweiligen Grundlinie #strong[2_m] (#strong[1,5_m]) in Richtung Mittelpunkt.
 
-#align(center)[#image("/typst/images/feld.jpg")]
+#figure(image("/typst/images/feld.jpg"), caption: "Maße des Spielfeldes")

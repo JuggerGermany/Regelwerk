@@ -9,4 +9,4 @@ Die Grifffläche befindet sich am hinteren Ende der Pompfe.
 Zum regelgerechten Führen müssen zwei Hände die Grifffläche berühren.
 Mit der Langpompfe darf gestochen werden.
 
-#align(center)[#image("/typst/images/lp.jpg")]
+#figure(image("/typst/images/lp.jpg"), caption: "Langpompfenmaße")

@@ -13,4 +13,4 @@ Die hintere Grifffläche geht von der Manschette bis zum Knauf.
 Zum regelgerechten Führen muss die eine Hand die vordere und die andere Hand die hintere Grifffläche berühren.
 Mit dem Stab darf nicht gestochen werden.
 
-#align(center)[#image("/typst/images/stab.jpg")]
+#figure(image("/typst/images/stab.jpg"), caption: "Stabmaße (Hinweis: Die Abbildung enthält zusätzliche Maße, die nicht mehr aktuell sind)")
