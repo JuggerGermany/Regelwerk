@@ -4,3 +4,5 @@ Die Schlagfläche ist der rund gepolsterte Bereich einer Nahpompfe, welcher für
 Der Kernstab ist durch die Polsterung der Schlagfläche bei moderatem Daumendruck an keiner Stelle spürbar.
 Die Schlagfläche hat an ihrer gesamten Länge einen Mindestdurchmesser von #strong[6_cm].
 Die abschließenden Enden der Schlagflächen sind ausreichend gepolstert und haben einen Mindestdurchmesser von #strong[7_cm].
+
+Wird mit reduzierten Maßen gespielt, sind die Mindestdurchmesser der Schlagflächen unverändert.
