@@ -14,4 +14,7 @@ Mit der Kette kann nicht gepinnt werden.
 
 Wird mit reduzierten Maßen gespielt, hat die Kette eine maximale Länge von #strong[240_cm] und der Ball einen Mindestdurchmesser von #strong[19_cm].
 
-#align(center)[#image("/typst/images/kette.jpg")]
+#align(center)[#figure(
+  image("/typst/images/kette.png"),
+  caption: "Kettenmaße",
+)]

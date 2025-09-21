@@ -13,8 +13,8 @@ Die hintere Grifffläche geht von der Manschette bis zum Knauf.
 Zum regelgerechten Führen muss die eine Hand die vordere und die andere Hand die hintere Grifffläche berühren.
 Mit dem Stab darf nicht gestochen werden.
 
-
 Wird mit reduzierten Maßen gespielt, hat der Stab eine maximale Länge von #strong[135_cm].
 Die maximale Reichweite beträgt dann #strong[83_cm] und die minimale Länge der Schlagfläche #strong[68_cm].
 Die Manschette ist weiterhin #strong[1_cm] dicker als die vordere Grifffläche.
-#align(center)[#image("/typst/images/stab.jpg")]
+
+#figure(image("/typst/images/stab.jpg"), caption: "Stabmaße (Hinweis: Die Abbildung enthält zusätzliche Maße, die nicht mehr aktuell sind)")

@@ -14,4 +14,4 @@ Wird mit reduzierten Maßen gespielt, hat der Q-tip eine maximale Länge von #st
 Die maximale Reichweite beträgt dann #strong[105_cm] und die minimale Länge der Schlagfläche mit Spitze #strong[45_cm].
 Die Grifffläche ist maximal #strong[60_cm] lang.
 
-#align(center)[#image("/typst/images/q_tip.jpg")]
+#figure(image("/typst/images/q_tip.jpg"), caption: "Q-Tip-Maße")

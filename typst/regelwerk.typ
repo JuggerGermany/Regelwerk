@@ -88,6 +88,7 @@
 #set text(lang: "de", size: 13pt, font: "vollkorn", fill: rgb("#4F4F51"))
 
 #show figure: set align(center)
+
 #show figure.caption: set text(size: 10pt)
 #show "_": sym.space.nobreak.narrow
 

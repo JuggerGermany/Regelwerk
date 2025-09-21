@@ -9,4 +9,4 @@ Mit dem Schild kann weder getroffen, noch gepinnt werden.
 
 Wird mit reduzierten Maßen gespielt, hat der Schild einen maximalen Durchmesser von #strong[45_cm].
 
-#align(center)[#image("/typst/images/schild.jpg")]
+#figure(image("/typst/images/schild.jpg"), caption: "Schildmaße")

@@ -15,4 +15,4 @@ Die #emph[Male] befinden sich auf beiden Spielfeldhälften, ausgehend von der Mi
 Wird mit reduzierten Maßen gespielt, beträgt die Gesamtlänge des Spielfeldes #strong[30_m] und die Gesamtbreite #strong[15_m].
 Die kurzen Linien sind #strong[7,5_m] lang und die Male sind #strong[1,5_m] von der jeweiligen Grundlinie entfernt.
 
-#align(center)[#image("/typst/images/feld.jpg")]
+#figure(image("/typst/images/feld.jpg"), caption: "Maße des Spielfeldes")

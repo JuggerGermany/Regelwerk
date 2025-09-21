@@ -9,7 +9,9 @@ Die Grifffläche befindet sich am hinteren Ende der Pompfe.
 Die Kurzpompfe darf in Kombination mit einem Schild oder einer zweiten Kurzpompfe gespielt werden.
 Zum regelgerechten Führen muss eine Hand die Grifffläche berühren. Mit der Kurzpompfe darf gestochen werden.
 
+
 Wird mit reduzierten Maßen gespielt, hat die Kurzpompfe eine maximale Länge und eine maximale Reichweite von #strong[64_cm].
 Die minimale Länge der Schlagfläche mit Spitze beträgt dann #strong[50_cm].
 
-#align(center)[#image("/typst/images/kp.jpg")]
+#figure(image("/typst/images/kp.jpg"), caption: "Kurzpompfenmaße")
+
