@@ -183,7 +183,7 @@
 #import "/typst/spielhelferinnen/malrichterinnen.typ" as malrichterinnen_text: title as malrichterinnen_title
 #import "/typst/spielhelferinnen/punktezaehlerin.typ" as punktezaehlerin_text: title as punktezaehlerin_title
 
-Branch: base_version, 20.09.2025, zuletzt bearbeitet von Helene
+Branch: base_version, 03.10.2025, zuletzt bearbeitet von Helene
 #pagebreak()
 
 #todo[Titelblatt]
