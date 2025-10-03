@@ -8,7 +8,7 @@ Sie werden inaktiv, indem sie gültig getroffen werden oder_ gegen das Aus vers
 Feldspieler*innen ist es verboten:
 - mit unnötiger Härte zu agieren.
 - ungebremst in andere Feldspieler*innen zu laufen oder zu springen, d.h. sie müssen vor einer möglichen Kollision abstoppen.
-- ruckartig an einer gewickelten und gespannten Kette zu reißen oder zu zerren.
+- ruckartig an einer Kette zu reißen oder zu zerren, die eine Pompfe oder ein Körperteil umwickelt und gespannt ist.
 - den Jugg ins Aus zu befördern, sei es durch Werfen oder Spielen mit der Pompfe; sie verstoßen damit zusätzlich gegen das Aus.
 - den Jugg zu treten.
 - das Mal von seinem vorgegebenen Ort zu verschieben.
