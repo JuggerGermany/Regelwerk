@@ -7,5 +7,6 @@ Bei Verzögerungen während der Aufstellung darf er*sie auf die Einleitung des S
 Er*sie achtet außerdem darauf, dass die Pause zwischen zwei Halbzeiten bzw. zwei Sätzen nicht länger als 5 Minuten dauert.
 In einem Spiel nach Steinen kündigt er*sie bei Gleichstand nach abgelaufener Spielzeit den „Golden Jugg“ an.
 Er*sie trägt dafür Sorge, dass alle Feldspieler*innen und Spielhelfer*innen augenblicklich von einem Abbruch des Spielzugs erfahren.
+Begeht ein Team einen Frühstart, verteilt die Spielleitung eine Verwarnung und erteilt gegebenfalls den Jugg-Besitz für die Gegenseite.
 Um das Spielgeschehen zu beobachten, bewegt er*sie sich an der Seitenlinie.
 Er*sie beobachtet vor allen Dingen das Geschehen auf seiner*ihrer Seite des Spielfeldes und in der Spielfeldmitte.
