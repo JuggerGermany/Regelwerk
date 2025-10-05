@@ -5,7 +5,7 @@ Nur mit einer regelgerecht geführten Pompfe können aktive Pompfer*innen ander
 Zum regelgerechten Führen
 - der Kurzpompfe muss eine Hand die Griffäche berühren,
 - der Langpompfe müssen beide Hände die Grifffläche berühren,
-- des Q-tips müssen beide Hände die Grifffläche berühren,
+- des Q-Tips müssen beide Hände die Grifffläche berühren,
 - des Stabs muss eine Hand die vordere und die andere Hand die hintere Grifffäche berühren.
 Dazu genügt es, wenn ein beliebiger Teil der Hand die Grifffläche berührt.
 
