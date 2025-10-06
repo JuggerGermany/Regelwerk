@@ -10,4 +10,4 @@ jobs:
       # - name: Update version tag
       #   run: "echo 'Branch: ${{ github.ref }}, ${{ NOW }}, zuletzt bearbeitet von ${{ github.actor }}\n' > '${{ github.workspace }}/typst/version_tag.typ'"
       - name: Test workflow
-        run: echo ${{ github.workspace }} ${{ NOW }}
+        run: echo ${{ github.workspace }} ${{ env.NOW }}
