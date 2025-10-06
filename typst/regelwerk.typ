@@ -109,10 +109,9 @@
   in-outline.update(false)
 }
 
-// impressum
+// top-level files
+#import "/typst/version_tag.typ" as version_tag
 #import "/typst/impressum.typ" as impressum_text
-
-// introductory explanations
 #import "/typst/introduction.typ" as introduction_text
 
 // main content
@@ -189,7 +188,7 @@
 #import "/typst/spielhelferinnen/punktezaehlerin.typ" as punktezaehlerin_text: title as punktezaehlerin_title
 #import "/typst/anhang/masstabelle.typ" as masstabelle_text: title as masstabelle_title
 
-Branch: base_version, 06.10.2025, zuletzt bearbeitet von Mario
+#version_tag
 #pagebreak()
 
 #todo[Titelblatt]
