@@ -11,4 +11,4 @@ jobs:
       #   run: "echo 'Branch: ${{ github.ref }}, ${{ env.NOW }}, zuletzt bearbeitet von ${{ github.actor }}\n' > '${{ github.workspace }}/typst/version_tag.typ'"
       - name: Test workflow
         run: |
-          ls ${{ github.workspace }}
+          ls ${{ github.workspace }}/.. -a
