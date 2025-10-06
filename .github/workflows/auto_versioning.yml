@@ -8,6 +8,6 @@ jobs:
       - name: Set current date as env variable
         run: echo "NOW=$(date +'%Y-%m-%dT%H:%M:%S')" >> $GITHUB_ENV
       # - name: Update version tag
-      #   run: "echo 'Branch: ${{ github.ref }}, ${{ NOW }}, zuletzt bearbeitet von ${{ github.actor }}\n' > '${{ github.workspace }}/typst/version_tag.typ'"
+      #   run: "echo 'Branch: ${{ github.ref }}, ${{ env.NOW }}, zuletzt bearbeitet von ${{ github.actor }}\n' > '${{ github.workspace }}/typst/version_tag.typ'"
       - name: Test workflow
-        run: echo ${{ github.workspace }} ${{ env.NOW }}
+        run: ls ${{ github.workspace }}
