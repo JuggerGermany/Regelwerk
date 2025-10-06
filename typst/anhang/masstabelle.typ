@@ -1,4 +1,4 @@
-#let title = "Übersicht: Pompfenabmessungen"
+#let title = "Übersicht: Feld- & Pompfenabmessungen"
 
 Freimaße werden in kursiv angegeben und leiten sich aus den übrigen Maßen ab.
 
@@ -13,6 +13,15 @@ Freimaße werden in kursiv angegeben und leiten sich aus den übrigen Maßen ab.
 #set table.cell(align: center + horizon)
 #set table(columns: (2.5fr, 1fr, 1fr))
 
+
+=== Spielfeld
+#table(
+	header,
+	"Gesamtlänge", "40 m", "30 m",
+	"Gesamtbreite", "20 m", "15 m",
+	"Länge der Grundlinie", "10 m", "7,5 m",
+	"Abstand des Mals zur Grundlinie", "2 m", "1,5 m"
+)
 
 === Schild
 #table(
@@ -35,7 +44,7 @@ Freimaße werden in kursiv angegeben und leiten sich aus den übrigen Maßen ab.
   "Maximale Länge", table.cell(rowspan: 2, "85 cm"), table.cell(rowspan:2, "64 cm"),
   "Maximale Reichweite",
   "Minimale Schlagflächenlänge", "60 cm", "50 cm",
-  frei("Maximale Griffflächenlänge"), frei("15 cm"), frei("14 cm"),
+  frei("Maximale Griffflächenlänge"), frei("25 cm"), frei("14 cm"),
 )
 
 === Langpompfe
