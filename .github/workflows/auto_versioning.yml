@@ -2,10 +2,12 @@ name: Auto-Versioning
 run-name: Auto-Versioning
 on: [push]
 jobs:
-  Explore-GitHub-Actions:
+  Auto-Versioning:
     runs-on: ubuntu-latest
     steps:
       - name: Set current date as env variable
         run: echo "NOW=$(date +'%Y-%m-%dT%H:%M:%S')" >> $GITHUB_ENV
-      - name: Update version tag
-        run: "echo 'Branch: ${{ github.ref }}, $NOW, zuletzt bearbeitet von ${{ github.actor }}\n' > '${{ github.workspace }}/typst/version_tag.typ'"
+      # - name: Update version tag
+      #   run: "echo 'Branch: ${{ github.ref }}, ${{ NOW }}, zuletzt bearbeitet von ${{ github.actor }}\n' > '${{ github.workspace }}/typst/version_tag.typ'"
+      - name: Test workflow
+        run: echo ${{ github.workspace }} ${{ NOW }}
