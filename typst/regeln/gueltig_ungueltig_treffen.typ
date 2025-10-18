@@ -6,7 +6,7 @@ Aktive Kettenspieler*innen treffen gültig, indem sie mit dem Kettenball ihrer 
 Ein Treffer ist ungültig, wenn:
 
 - der*die treffende Pompfer*in inaktiv ist.
-- der*die treffende Pompfer*in die Pompfe, die er*sie führt, nicht regelgerecht führt.
+- der*die treffende Pompfer*in die treffende Pompfe nicht regelgerecht führt.
 - der Treffer nur außerhalb der Trefferzone erfolgt.
 - ein*e Feldspieler*in in einer einzigen Bewegung der Pompfe zuerst mit einem Teil der Nahpompfe oder dem Kettenball an der Kopfzone getroffen wird oder die Kette darum eine geschlossene Form bildet und dann die Bedingungen für einen gültigen Treffer an einer Trefferzone erfüllt werden.
 - er durch eine Stichbewegung mit einem Stab erfolgt.
