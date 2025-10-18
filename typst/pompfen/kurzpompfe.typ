@@ -8,7 +8,8 @@ Die maximale Länge der Kurzpompfe entspricht ihrer maximalen Reichweite und bet
 Die minimale Länge der Schlagfläche mit Spitze beträgt #strong[60_cm].
 
 Die Kurzpompfe wird in Kombination mit einem Schild oder einer zweiten Kurzpompfe geführt.
-Die Kurzpompfe kann nur regelgerecht geführt werden, wenn die Hand des*der Pompfer*in die Grifffläche berührt.
+Die Kurzpompfe kann nur regelgerecht geführt werden, wenn die Hand des*der Pompfer*in die Grifffläche berührt und die andere geführte Pompfe von der*dem Pompfer*in berührt wird.
+
 Mit der Kurzpompfe darf gestochen werden.
 
 
