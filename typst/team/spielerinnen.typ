@@ -2,7 +2,8 @@
 
 Die Feldspieler*innen eines Teams unterteilen sich in Läufer*innen (Qwiks) und Pompfer*innen.
 Die Läufer*innen führen keine Pompfe; sie sind die einzigen Spieler*innen, die den Jugg aufnehmen und platzieren dürfen.
-Die Pompfer*innen führen Pompfen.
+Während eines Zuges führen Pompfer*innen die Pompfen, mit denen sie erstmalig das Feld betreten.
+
 Ein*e Pompfer*in muss entweder
 - eine Kette oder
 - einen Stab oder
@@ -10,6 +11,7 @@ Ein*e Pompfer*in muss entweder
 - einen Q-Tip oder
 - zwei Kurzpompfen oder
 - eine Kurzpompfe und einen Schild führen.
+Nur im Fall des Austauschs einer beschädigten oder nicht mehr regelkonformen Pompfe, können sich die Pompfen, die Feldspieler*innen führen, während eines Zugs ändern.
 Ein*e Pompfer*in, der*die eine Kette führt, ist ein*e Kettenspieler*in.
 Alle übrigen Pompfer*innen sind Nahpompfer*innen.\
 
