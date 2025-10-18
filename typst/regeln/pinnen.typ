@@ -7,4 +7,4 @@ Sie pinnen indem sie mit der Schlagfläche einer regelgerecht geführten Pompfe
 
 Der Pin besteht, solange die Pompfe auf diese Weise den*die inaktive*n Feldspieler*in berührt.
 Der Pin kann zu einem beliebigen Zeitpunkt gelöst werden, z.B. um aktive Feldspieler*innen zu treffen oder andere Feldspieler*innen zu pinnen, und danach fortgesetzt werden.
-Eine Nahpompfer*in dessen*deren Pompfe von einer Kette umwickelt ist, kann nicht pinnen.
+Wenn eine Pompfe, die ein*e Nahpompfer*in führt, von einer Kette umwickelt ist, kann diese*r Nahpompfer*in nicht pinnen.
