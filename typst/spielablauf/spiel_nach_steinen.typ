@@ -1,7 +1,7 @@
 #let title = "Spiel nach Steinen"
 
 Ziel bei einem Spiel nach Steinen ist es, mit dem eigenen Team innerhalb einer festgelegten Spieldauer mehr Punkte zu machen als das Team der Gegenseite.
-Im Allgemeinen hat ein Spiel nach Steinen #strong[2_Halbzeiten], welche jeweils #strong[100_Steine] dauern. Zwischen den Halbzeiten gibt es eine Pause, in der die Teams die Seiten wechseln.
+Im Allgemeinen hat ein Spiel nach Steinen *2~Halbzeiten*, welche jeweils *100~Steine* dauern. Zwischen den Halbzeiten gibt es eine Pause, in der die Teams die Seiten wechseln.
 Für die Dauer der Spielzüge werden die Steine mitgezählt.
 Nach einem Spielzug wird das Zählen der Steine unterbrochen und erst zu Beginn eines neuen Spielzugs fortgesetzt.
 Sind die Steine einer Halbzeit abgelaufen, wird der Spielzug beendet.
