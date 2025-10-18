@@ -295,6 +295,8 @@ Branch: base_version, 06.10.2025, zuletzt bearbeitet von Mario
 #aktive_pompferinnen_text
 === #inaktive_pompferinnen_title
 #inaktive_pompferinnen_text
+=== #pompfe_fuehren_title
+#pompfe_fuehren_text
 == #lauferinnen_title
 #lauferinnen_text
 === #aktive_lauferinnen_title
@@ -305,13 +307,9 @@ Branch: base_version, 06.10.2025, zuletzt bearbeitet von Mario
 #lauferkampf_text
 == #aus_title
 #aus_text
-// === #aktive_feldspielerinnen_title
-// #aktive_feldspielerinnen_text
 == Treffer
 === #gueltig_ungueltig_treffen_title
 #gueltig_ungueltig_treffen_text
-=== #pompfe_fuehren_title
-#pompfe_fuehren_text
 === #trefferzone_title
 #trefferzone_text
 === #doppeltreffer_title
