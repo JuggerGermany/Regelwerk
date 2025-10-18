@@ -10,7 +10,7 @@ Ein Treffer ist ungültig, wenn:
 - der Treffer nur außerhalb der Trefferzone erfolgt.
 - ein*e Feldspieler*in in einer einzigen Bewegung der Pompfe zuerst mit einem Teil der Nahpompfe oder dem Kettenball an der Kopfzone getroffen wird oder die Kette darum eine geschlossene Form bildet und dann die Bedingungen für einen gültigen Treffer an einer Trefferzone erfüllt werden.
 - er durch eine Stichbewegung mit einem Stab erfolgt.
-- die Pompfe von einer Kette umwickelt ist und eine*n andere*n Feldspieler*in als den*die Kettenspieler*in trifft.
+- die treffende Pompfe von einer Kette umwickelt ist und eine*n andere*n Feldspieler*in als den*die Kettenspieler*in trifft.
 - der Kettenball an eine Trefferzone schwingt oder die Kette eine geschlossene Form um eine Trefferzone bildet, nachdem die Kette um eine Pompfe die geschlossene Form gebildet hat.
 - der*die Kettenspieler*in den Kettenball wirft oder auf dem Boden hinter sich herzieht.
 
