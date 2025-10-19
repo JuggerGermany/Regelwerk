@@ -14,4 +14,4 @@ Läufer*innen ist es im Läufer*innenkampf verboten:
 - den*die Gegner*in im Lauf in Laufrichtung zu stoßen.
 - in den*die Gegner*in hinein zu rennen oder zu springen.
 - den*die Gegner*in am Trikot zu ziehen.
-Die Läufer*innen sollen sich vor Spielbeginn gemeinsam auf den Härtegrad ihrer Läufer*innenkämpfe einigen. Der kleinste gemeinsame Nenner ist dabei maßgeblich.
+Ein Team kann vor Spielbeginn festlegen, dass im Allgemeinen zulässige Interaktionen im Läufer*innenkampf für das Spiel verboten werden.
