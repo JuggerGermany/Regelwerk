@@ -1,16 +1,16 @@
 
 #let title = "Kurzpompfe"
 
-Die maximale Länge und die maximale Reichweite der Kurzpompfe beträgt #strong[85_cm].
-Die Schlagfläche ist das vordere, gepolsterte Ende.
-Die Schlagfläche der Kurzpompfe ist mit einer Stechspitze ausgestattet.
+Die Kurzpompfe setzt sich aus einer Schlagfläche und einer Grifffläche zusammen.
+Am vorderen Ende der Kurzpompfe befindet sich die Schlagfläche.
+Am hinteren Ende befindet sich die Grifffläche.
+Die maximale Länge der Kurzpompfe entspricht ihrer maximalen Reichweite und beträgt #strong[85_cm].
 Die minimale Länge der Schlagfläche mit Spitze beträgt #strong[60_cm].
-Die Grifffläche befindet sich am hinteren Ende der Pompfe.
-Die Kurzpompfe darf in Kombination mit einem Schild oder einer zweiten Kurzpompfe gespielt werden.
-Zum regelgerechten Führen muss eine Hand die Grifffläche berühren. Mit der Kurzpompfe darf gestochen werden.
+Die Kurzpompfe wird in Kombination mit einem Schild oder einer zweiten Kurzpompfe gespielt.
+Die Kurzpompfe kann nur regelgerecht geführt werden, wenn die Hand des*der Pompfer*in die Grifffläche berührt.
+Mit der Kurzpompfe darf gestochen werden.
 
-
-Wird mit reduzierten Maßen gespielt, hat die Kurzpompfe eine maximale Länge und eine maximale Reichweite von #strong[64_cm].
+Wird mit reduzierten Maßen gespielt, beträgt die maximale Länge der Kurzpompfe #strong[64_cm].
 Die minimale Länge der Schlagfläche mit Spitze beträgt dann #strong[50_cm].
 
 #figure(image("/typst/images/kp.jpg"), caption: "Kurzpompfenmaße")

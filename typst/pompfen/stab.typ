@@ -1,19 +1,16 @@
 
 #let title = "Stab"
-
+Der Stab setzt sich aus zwei Griffflächen, einer Manschette und einer Schlagfläche zusammen.
+Die beiden Griffflächen befinden sich am hinteren Ende der Pompfe und sind durch eine Schaumstoffmanschette getrennt.
+Die hintere Grifffläche befindet sich zwischen Knauf und Manschette, die vordere Grifffläche zwischen Manschette und Schlagfläche.
+Die Manschette muss die maximale Reichweite des Stabes klar erkennbar begrenzen und rundum mindestens #strong[1_cm] dicker als die vordere Grifffläche sein.
 Die maximale Länge des Stabs beträgt #strong[180_cm].
 Die maximale Reichweite des Stabs beträgt #strong[110_cm].
-Die Schlagfläche ist das vordere, gepolsterte Ende.
 Die minimale Länge der Schlagfläche beträgt #strong[90_cm].
-Die Schlagfläche des Stabs ist mit einer Stechspitze ausgestattet.
-Der Stab hat zwei Griffflächen am hinteren Teil der Pompfe, die durch eine Schaumstoffmanschette getrennt sind.
-Die vordere Grifffläche geht von der Schlagfläche bis zur Manschette.
-Die Manschette begrenzt klar erkennbar die maximale Reichweite des Stabes und ist rundum mindestens #strong[1_cm] dicker als die vordere Grifffläche.
-Die hintere Grifffläche geht von der Manschette bis zum Knauf.
-Zum regelgerechten Führen muss die eine Hand die vordere und die andere Hand die hintere Grifffläche berühren.
+Der Stab kann nur regelgerecht geführt werden, wenn beide Hände des*der Pompfer*in die Griffflächen berühren und beide Griffflächen von den Händen des*der Pompfer*in berührt werden.
 Mit dem Stab darf nicht gestochen werden.
 
-Wird mit reduzierten Maßen gespielt, hat der Stab eine maximale Länge von #strong[135_cm].
+Wird mit reduzierten Maßen gespielt, beträgt die maximale Länge des Stabs #strong[135_cm].
 Die maximale Reichweite beträgt dann #strong[83_cm] und die minimale Länge der Schlagfläche #strong[68_cm].
 Die Manschette ist weiterhin #strong[1_cm] dicker als die vordere Grifffläche.
 

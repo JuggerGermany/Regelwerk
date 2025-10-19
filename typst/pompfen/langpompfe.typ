@@ -1,15 +1,14 @@
 
 #let title = "Langpompfe"
-
-Die maximale Länge und die maximale Reichweite der Langpompfe beträgt #strong[140_cm].
-Die Schlagfläche ist das vordere, gepolsterte Ende.
-Die Schlagfläche der Langpompfe ist mit einer Stechspitze ausgestattet.
+Die Langpompfe setzt sich aus einer Schlagfläche und einer Grifffläche zusammen.
+Am vorderen Ende der Langpompfe befindet sich die Schlagfläche.
+Am hinteren Ende befindet sich die Grifffläche.
+Die maximale Länge der Langpompfe entspricht ihrer maximalen Reichweite und beträgt #strong[140_cm].
 Die minimale Länge der Schlagfläche mit Spitze beträgt #strong[100_cm].
-Die Grifffläche befindet sich am hinteren Ende der Pompfe.
-Zum regelgerechten Führen müssen zwei Hände die Grifffläche berühren.
+Die Langpompfe kann nur regelgerecht geführt werden, wenn die Hände des*der Pompfer*in die Grifffläche berühren.
 Mit der Langpompfe darf gestochen werden.
 
-Wird mit reduzierten Maßen gespielt, hat die Langpompfe eine maximale Länge und maximale Reichweite von #strong[105_cm].
+Wird mit reduzierten Maßen gespielt, beträgt die maximale Länge der Langpompfe  #strong[105_cm].
 Die minimale Länge der Schlagfläche mit Spitze beträgt dann #strong[75_cm].
 
 #figure(image("/typst/images/lp.jpg"), caption: "Langpompfenmaße")
