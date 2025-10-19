@@ -297,8 +297,6 @@ Branch: base_version, 27.10.2025, zuletzt bearbeitet von Mario
 #aktive_pompferinnen_text
 === #inaktive_pompferinnen_title
 #inaktive_pompferinnen_text
-=== #pompfe_fuehren_title
-#pompfe_fuehren_text
 == #lauferinnen_title
 #lauferinnen_text
 === #aktive_lauferinnen_title
