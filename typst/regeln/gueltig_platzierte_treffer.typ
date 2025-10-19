@@ -1,5 +1,3 @@
-#import "/typst/edit_utils.typ": todo
-
 #let title = "Gültig platzierte Treffer"
 
 Ein Treffer ist gültig platziert, wenn keine der folgenden Bedingungen erfüllt ist:
@@ -11,4 +9,10 @@ Ein Treffer ist gültig platziert, wenn keine der folgenden Bedingungen erfüllt
 Wenn eine Spieler*in in einer einzigen Bewegung erst an der Trefferzone und dann an der Kopfzone
 getroffen wird, ist der Treffer gültig platziert.
 
-#todo(color: blue)[Bild einfügen]
+#figure(
+  image("/typst/images/bueste_kopf.jpg", height: 10cm),
+  caption: [
+    Beispiel Unterscheidung zwischen gültig und ungültig platzierten Treffern an der Kopfzone\
+    (links ungültig, rechts gültig)
+  ],
+)
