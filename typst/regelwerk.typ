@@ -118,9 +118,9 @@
 // main content
 
 // section 1
-#import "/typst/spielfeld/spielfeld.typ" as spielfeld_text: title as spielfeld_title
 #import "/typst/spielfeld/jugg.typ" as jugg_text: title as jugg_title
 #import "/typst/spielfeld/mal.typ" as mal_text: title as mal_title
+#import "/typst/spielfeld/spielfeld.typ" as spielfeld_text: title as spielfeld_title
 
 // section 2
 #import "/typst/pompfen/pompfen.typ" as pompfen_text: title as pompfen_title
@@ -211,28 +211,16 @@ Branch: base_version, 06.10.2025, zuletzt bearbeitet von Mario
 
 
 = Spielfeld
-== #spielfeld_title
-#spielfeld_text
 == #jugg_title
 #jugg_text
 == #mal_title
 #mal_text
+== #spielfeld_title
+#spielfeld_text
 
 = #pompfen_title
 #pompfen_text
-== Pompfenarten
-=== #schild_title
-#schild_text
-=== #kette_title
-#kette_text
-=== #kurzpompfe_title
-#kurzpompfe_text
-=== #langpompfe_title
-#langpompfe_text
-=== #qtip_title
-#qtip_text
-=== #stab_title
-#stab_text
+
 == #nahpompfen_title
 #nahpompfen_text
 === #griffflaeche_title
@@ -241,6 +229,20 @@ Branch: base_version, 06.10.2025, zuletzt bearbeitet von Mario
 #schlagflaeche_text
 === #stechspitze_title
 #stechspitze_text
+
+== Pompfenarten
+=== #kurzpompfe_title
+#kurzpompfe_text
+=== #langpompfe_title
+#langpompfe_text
+=== #qtip_title
+#qtip_text
+=== #stab_title
+#stab_text
+=== #schild_title
+#schild_text
+=== #kette_title
+#kette_text
 #align(left)[
   #set par(justify: false)
   = Teams und Ausrüstung
