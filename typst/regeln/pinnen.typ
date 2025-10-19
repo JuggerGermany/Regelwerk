@@ -5,6 +5,7 @@ Aktive Nahpompfer*innen dürfen höchstens eine*n Feldspieler*in pinnen.
 Sie pinnen indem sie mit der Schlagfläche ihrer regelgerecht geführten Pompfe die Trefferzone des*der inaktiven Feldspieler*in berühren.
 Sie pinnen solange die Pompfe auf diese Weise den*die inaktive*n Feldspieler*in berührt.
 Der*die Nahpompfer*in kann zu einem beliebigen Zeitpunkt aufhören zu pinnen, z.B. um aktive Feldspieler*innen zu treffen oder andere Feldspieler*innen zu pinnen, und danach weiter pinnen.
+Innerhalb von zwei aufeinanderfolgenden Intervallen zwischen zwei Steinen darf ein*e Nahpompfer*in nicht zweimal den*die gleiche*n Feldspieler*in pinnen, wenn dazwischen von ihm*ihr ein*e andere*r Feldspieler*in gepinnt wurde.
 Eine Nahpompfer*in dessen*deren Pompfe von einer Kette umwickelt ist, kann nicht pinnen.
 
 Für Feldspieler*innen, die ihre Strafzeit ausgezählt haben besteht ein Pin, wenn sie gepinnt werden. Sobald ein*e Feldspieler*in nicht mehr gepinnt wird, besteht der Pin bis zum nächsten Stein, der erklingt.
