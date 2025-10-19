@@ -2,7 +2,7 @@
 #let title = "Läufer*innen"
 
 Läufer*innen dürfen mit dem Jugg interagieren, indem sie ihn berühren, bewegen, platzieren oder werfen.
-Wenn Läufer*innen den Jugg mit der Hand berühren, zählt der Jugg zu ihrer Trefferzone.
+Wenn Läufer*innen den Jugg mit der Hand berühren, ist der Jugg Teil ihrer Trefferzone.
 Läufer*innen ist es verboten andere Feldspieler*innen mit dem Jugg abzuwerfen.
 
 Wurde der Jugg ins Aus bewegt und noch nicht von den Spielhelfer*innen an die Spielfeldbegrenzung gelegt, dürfen Läufer*innen das Spielfeld verlassen, um den Jugg wieder ins Feld zu bewegen.

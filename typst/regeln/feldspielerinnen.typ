@@ -13,5 +13,4 @@ Feldspieler*innen ist es verboten:
 - den Jugg mit den Füßen zu bewegen
 - das Mal von seinem vorgegebenen Ort zu verschieben.
 - die Öffnung des Mals zu blockieren, sei es mit dem eigenen Körper oder mit einer Pompfe.
-- Feldspieler*inne dürfen den Jugg nicht treten.
 

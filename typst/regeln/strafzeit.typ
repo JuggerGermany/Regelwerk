@@ -10,5 +10,5 @@ Beträgt ihre Strafzeit mehr als 5 gezählte Steine, wird nach der vollen Hand e
 
 Mit dem ersten Stein, der ertönt, nachdem sie regelgerecht abknien, dürfen inaktive Feldspieler*innen beginnen, ihre Strafzeit zu zählen.
 Wenn sie gepinnt werden, dürfen inaktive Feldspieler*innen ihre Strafzeit ohne Unterbrechung weiterzählen.
-Sie müssen ihre Strafzeit jedoch von vorne zählen, wenn sie nicht regelkonform abknien, mit dem Jugg interagieren oder zu früh aufstehen.
+Sie müssen ihre Strafzeit jedoch von vorne zählen, wenn sie nicht regelkonform abknien oder zu früh aufstehen.
 Nachdem sie ihre Strafzeit gezählt haben, dürfen inaktive Feldspieler*innen wieder aufstehen und somit aktiv sein.
