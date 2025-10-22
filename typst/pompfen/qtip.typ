@@ -10,7 +10,7 @@ Die maximale Länge der Grifffläche beträgt #strong[80_cm].
 Der Q-Tip kann nur regelgerecht geführt werden, wenn die Hände des*der Pompfer*in die Grifffläche berühren.
 Mit dem Q-Tip darf gestochen werden.
 
-Wird mit reduzierten Maßen gespielt, beträgt die maximale Länge des Q-tip #strong[150_cm].
+Wird mit reduzierten Maßen gespielt, beträgt die maximale Länge des Q-Tip #strong[150_cm].
 Die maximale Reichweite beträgt dann #strong[105_cm] und die minimale Länge der Schlagfläche mit Spitze #strong[45_cm].
 Die maximale Länge der Grifffläche beträgt #strong[60_cm].
 
