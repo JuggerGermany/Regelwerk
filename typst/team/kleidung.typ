@@ -2,7 +2,7 @@
 
 Alle Spieler*innen und Spielhelfer*innen müssen den Torso mit einem oder mehreren Kleidungsstücken bedecken.
 Alle Feldspieler*innen müssen Schuhwerk tragen.
-Schmuck sollte abgelegt und muss, wenn das nicht möglich ist, abgeklebt sein.
+Schmuck sollte abgelegt oder abgeklebt sein.
 
 Feldspieler*innen dürfen Schutzkleidung tragen. Schutzkleidung muss ausreichend gepolstert sein.
 Hartplastikschoner und -handschuhe sind verboten.
