@@ -6,6 +6,7 @@ Am vorderen Ende der Kette befindet sich der Ball.
 Am hinteren Ende befindet sich die Handschlaufe.
 
 Die maximale Reichweite der Kette entspricht ihrer maximalen Länge und beträgt #strong[320_cm].
+Die Länge der Handschlaufe beträgt #strong[20_cm] bis #strong[30_cm].
 Der Ball besteht aus polsterndem Material und sein Mindestdurchmesser beträgt #strong[19_cm].
 Der Strang muss durchgehend gepolstert sein.
 Die Polsterung darf nicht verrutschen.
