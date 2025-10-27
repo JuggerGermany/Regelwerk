@@ -7,7 +7,7 @@ Am hinteren Ende befindet sich die Handschlaufe.
 
 Die maximale Reichweite der Kette entspricht ihrer maximalen Länge und beträgt #strong[320_cm].
 Der Ball besteht aus polsterndem Material und sein Mindestdurchmesser beträgt #strong[19_cm].
-Der Strang muss durchgehend gepolstert sein.
+Der Strang und die Handschlaufe müssen durchgehend gepolstert sein.
 Die Polsterung darf nicht verrutschen.
 
 Eine Kette kann nur regelgerecht geführt werden, wenn  die Handschlaufe die Hand oder den Arm des*der Kettenspieler*in berührt.
