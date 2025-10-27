@@ -189,7 +189,7 @@
 #import "/typst/spielhelferinnen/punktezaehlerin.typ" as punktezaehlerin_text: title as punktezaehlerin_title
 #import "/typst/anhang/masstabelle.typ" as masstabelle_text: title as masstabelle_title
 
-Branch: base_version, 06.10.2025, zuletzt bearbeitet von Mario
+Branch: base_version, 27.10.2025, zuletzt bearbeitet von Mario
 #pagebreak()
 
 #todo[Titelblatt]
