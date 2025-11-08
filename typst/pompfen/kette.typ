@@ -1,7 +1,7 @@
 
 #let title = "Kette"
 
-Die Kette setzt sich. aus einer Handschlaufe, einem Strang und einem Ball zusammen.
+Die Kette setzt sich aus einer Handschlaufe, einem Strang und einem Ball zusammen.
 Am vorderen Ende der Kette befindet sich der Ball.
 Am hinteren Ende befindet sich die Handschlaufe.
 
