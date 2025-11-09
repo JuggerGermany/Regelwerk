@@ -4,9 +4,8 @@ Aktive Läufer*innen dürfen mit dem Jugg interagieren.
 Nur sie dürfen den Jugg
 - mit den Händen berühren,
 - aufnehmen,
-- tragen,
-- werfen und
-- platzieren.
+- tragen und
+- werfen.
 Es ist ihnen verboten, andere Spieler*innen mit dem Jugg zu bewerfen.
 Wurde der Jugg ins Aus befördert und noch nicht von den Spielhelfer*innen an die Spielfeldbegrenzung gelegt, darf der*die Läufer*in das Spielfeld verlassen, um den Jugg zu holen.
 Er*sie verstößt damit nicht gegen das Aus.
