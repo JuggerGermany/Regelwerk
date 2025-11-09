@@ -1,15 +1,10 @@
 #let title = "Jugg platzieren"
 
-Ein Punkt wird erzielt, wenn Läufer*innen den Jugg gültig im Mal platzieren.
-Der Jugg ist gültig platziert, wenn:
-
-- er im Mal stecken bleibt und
-- kein*e Läufer*in ihn berührt.
-
-Das gilt auch, wenn ein*e Läufer*in den Jugg platziert und gleichzeitig gültig getroffen wird.
-Selbst wenn der*die Läufer*in den Jugg erst loslässt, nachdem er*sie gültig getroffen wurde, ist der Punkt gültig, solange der Jugg im Mal stecken bleibt.
-Der Jugg ist ungültig platziert, wenn:
-
-- er von alleine wieder aus dem Mal fällt oder
-- ein*e Läufer*in den Jugg, während er im Mal platziert ist, berührt, oder
-- wenn ein*e Läufer*in gültig getroffen wird, bevor er*sie den Jugg platziert.
+Ein Jugg wird gültig im Mal platziert, um einen Punkt zu erzielen.
+Ein*e aktive*r Läufer*in kann den Jugg platzieren, indem er*sie ihn in die Malöffnung bewegt.
+Solange der Jugg sich so tief wie möglich in der Malöffnung befindet, gilt er als platziert.
+Der Jugg ist gültig platziert, wenn:
+- er in der Malöffnung stecken bleibt und
+- kein*e aktive*r Läufer*in ihn berührt.
+Das gilt auch wenn Läufer*innen den Jugg nicht mehr berühren, weil sie inaktiv wurden.
+In allen anderen Fällen ist der Jugg ungültig platziert.
