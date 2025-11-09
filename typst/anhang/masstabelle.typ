@@ -16,32 +16,43 @@ Freimaße werden in kursiv angegeben und leiten sich aus den übrigen Maßen ab.
 
 === Spielfeld
 #table(
-	header,
-	"Gesamtlänge", "40 m", "30 m",
-	"Gesamtbreite", "20 m", "15 m",
-	"Länge der Grundlinie", "10 m", "7,5 m",
-	"Abstand des Mals zur Grundlinie", "2 m", "1,5 m"
+  header,
+  "Gesamtlänge",
+  "40 m",
+  "30 m",
+  "Gesamtbreite",
+  "20 m",
+  "15 m",
+  "Länge der Grundlinie",
+  "10 m",
+  "7,5 m",
+  "Abstand des Mals zur Grundlinie",
+  "2 m",
+  "1,5 m",
 )
 
 === Schild
 #table(
   header,
-  "Durchmesser", "60 cm", "45 cm",
+  "Durchmesser",
+  "60 cm",
+  "45 cm",
 )
 
 === Kette
 #table(
   header,
-  "Maximale Länge", table.cell(rowspan:2, "320 cm"), table.cell(rowspan: 2, "240 cm"),
+  "Maximale Länge", table.cell(rowspan: 2, "320 cm"), table.cell(rowspan: 2, "240 cm"),
   "Maximale Reichweite",
   "Kettenball-Durchmesser", table.cell(colspan: 2, "19 cm"),
+  "Maximale Handschlaufenlänge", table.cell(colspan: 2, "25 cm"),
   frei("Maximale Kettenstranglänge"), frei("301 cm"), frei("221 cm"),
 )
 
 === Kurzpompfe
 #table(
   header,
-  "Maximale Länge", table.cell(rowspan: 2, "85 cm"), table.cell(rowspan:2, "64 cm"),
+  "Maximale Länge", table.cell(rowspan: 2, "85 cm"), table.cell(rowspan: 2, "64 cm"),
   "Maximale Reichweite",
   "Minimale Schlagflächenlänge", "60 cm", "50 cm",
   frei("Maximale Griffflächenlänge"), frei("25 cm"), frei("14 cm"),
@@ -59,10 +70,18 @@ Freimaße werden in kursiv angegeben und leiten sich aus den übrigen Maßen ab.
 === Q-Tip
 #table(
   header,
-  "Maximale Länge", "200 cm", "150 cm",
-  "Maximale Reichweite", "140 cm", "105 cm",
-  "Minimale Schlagflächenlänge", "55 cm", "45 cm",
-  "Maximale Griffflächenlänge", "80 cm", "60 cm",
+  "Maximale Länge",
+  "200 cm",
+  "150 cm",
+  "Maximale Reichweite",
+  "140 cm",
+  "105 cm",
+  "Minimale Schlagflächenlänge",
+  "55 cm",
+  "45 cm",
+  "Maximale Griffflächenlänge",
+  "80 cm",
+  "60 cm",
 )
 
 === Stab
