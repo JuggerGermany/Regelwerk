@@ -1,6 +1,6 @@
 #let title = "Kleidung"
 
-Alle Spieler*innen und Spielhelfer*innen müssen den Torso mit einem oder mehreren Kleidungsstücken bedecken.
+Alle Spieler*innen und Spielhelfer*innen müssen den Torso mit einem oder mehreren Kleidungsstücken bedecken und Beinkleider tragen.
 Alle Feldspieler*innen müssen Schuhwerk tragen.
 Schmuck sollte abgelegt oder abgeklebt sein.
 
