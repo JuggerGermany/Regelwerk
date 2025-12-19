@@ -3,6 +3,7 @@
 CC 2025 Deutscher Jugger Sportverband \
 #weblink(url: "mailto:regelwerk@djsv.de", display: "regelwerk@djsv.de")
 
+
 #enum(enum.item(12)[bearbeitete Ausgabe 2025. Hrsg. von: Jugger Community.\ Bearbeitet von: Pit Albert, Manuel Kubat])
 
 + Ausgabe 2007. Hrsg. von: Drachenblut-Forum \ Bearbeitet von: Ruben Wickenhäuser, Jakob Senst
@@ -26,22 +27,16 @@ Ruben Wickenhäuser
 #pagebreak()
 
 #heading(numbering: none, outlined: false)[Anmerkung]
-Das Regelwerk bietet die von der aktiven Jugger-Gemeinschaft
-abgestimmte, bundesweite Grundlage für Jugger in Deutschland und
-reguliert den Spielablauf, das Spielfeld, die Spielmaterialen und das
-Schiedsrichter*innenverhalten. Es beinhaltet ausschließlich die von der
-Jugger-Gemeinschaft in Deutschland beschlossenen Inhalte. Die Arbeit
-der Regelhütenden wird von der deutschen Jugger-Gemeinschaft durch
-Wahl bestätigt.\
+Das Regelwerk bietet die von der aktiven Jugger-Gemeinschaft abgestimmte, bundesweite Grundlage für Jugger in Deutschland und reguliert den Spielablauf, das Spielfeld, die Spielmaterialen und das Schiedsrichter*innenverhalten.
+Es beinhaltet ausschließlich die von der Jugger-Gemeinschaft in Deutschland beschlossenen Inhalte.
+Die Arbeit der Regelhütenden wird von der deutschen Jugger-Gemeinschaft durch Wahl bestätigt.\
 
 Hauptinformationsseiten des Sports Jugger:
 
 #weblink(url: "https://jugger.org", display: "jugger.org")\
 #weblink(url: "https://juggersportverband.de", display: "juggersportverband.de")\
 
-Die aktuelle Fassung des Regelwerks findet sich unter:
-#weblink(url: "https://jugger.org/downloads", display: "jugger.org/downloads").
-Bei nachfolgendem Regelwerk wird eine genderneutrale Schreibweise mit
-Gendersternchen \* verwendet, um dem Umstand der geschlechtlichen
-Diversität Rechnung zu tragen.
-#pagebreak()
+
+Die aktuelle Fassung des Regelwerks findet sich unter: #weblink(url: "https://jugger.org/downloads", display: "jugger.org/downloads").\
+
+Bei nachfolgendem Regelwerk wird eine genderneutrale Schreibweise mit Gendersternchen \* verwendet, um dem Umstand der geschlechtlichen Diversität Rechnung zu tragen.
