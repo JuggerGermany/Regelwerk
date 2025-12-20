@@ -188,6 +188,7 @@
 #import "/typst/spielhelferinnen/malrichterinnen.typ" as malrichterinnen_text: title as malrichterinnen_title
 #import "/typst/spielhelferinnen/punktezaehlerin.typ" as punktezaehlerin_text: title as punktezaehlerin_title
 #import "/typst/anhang/masstabelle.typ" as masstabelle_text: title as masstabelle_title
+#import "/typst/anhang/schluesselbegriffe.typ" as schluessel_text: title as schluessel_title
 
 Branch: base_version, 27.10.2025, zuletzt bearbeitet von Mario
 #pagebreak()
@@ -352,6 +353,8 @@ Branch: base_version, 27.10.2025, zuletzt bearbeitet von Mario
 = Anhang
 == #masstabelle_title
 #masstabelle_text
+== #schluessel_title
+#schluessel_text
 #context in-anhang.update(false)
 
 #todo[Letzte Seite]
