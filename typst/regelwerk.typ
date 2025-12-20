@@ -190,7 +190,7 @@
 #import "/typst/anhang/masstabelle.typ" as masstabelle_text: title as masstabelle_title
 #import "/typst/anhang/schluesselbegriffe.typ" as schluessel_text: title as schluessel_title
 
-Branch: base_version, 27.10.2025, zuletzt bearbeitet von Mario
+Branch: test merge RW 2026, 20.12.2025, zuletzt bearbeitet von Helene
 #pagebreak()
 
 #todo[Titelblatt]
