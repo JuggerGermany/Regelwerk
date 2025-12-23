@@ -17,7 +17,7 @@ Die Einschätzung der vorläufigen Regelung erfolgt unter gegenseitiger Rücksi
 
 #heading(numbering: none, outlined: false)[Kinder- und Jugendjugger]
 Im Jugger wird in drei Altersklassen unterteilt:
-Kinder (bis 13 Jahren), Jugend (14 bis 17 Jahren) und Erwachsene (ab 18 Jahren).
+Kinder (bis 13 Jahre), Jugend (14 bis 17 Jahre) und Erwachsene (ab 18 Jahre).
 Es gibt reduzierte Maße für Spielmaterialien, die im Kinderbereich Anwendung finden.
 
 

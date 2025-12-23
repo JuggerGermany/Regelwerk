@@ -9,7 +9,6 @@ Die maximale Länge des Stabs beträgt #strong[180_cm].
 Die maximale Reichweite des Stabs beträgt #strong[110_cm].
 Die minimale Länge der Schlagfläche beträgt #strong[90_cm].
 Der Stab kann nur regelgerecht geführt werden, wenn beide Hände des*der Pompfer*in die Griffflächen berühren und beide Griffflächen von den Händen des*der Pompfer*in berührt werden.
-
 Mit dem Stab darf nicht gestochen werden.
 
 Wird mit reduzierten Maßen gespielt, beträgt die maximale Länge des Stabs #strong[135_cm].
