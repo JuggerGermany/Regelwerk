@@ -11,10 +11,18 @@
   let total_pages = numbering(page.numbering, ..counter(page).at(numbering_end))
   align(center)[\- #current_page / #total_pages \-]
 }
+#let watermark = {
+  // 'rotate(...)' is returned by this block
+  rotate(45deg, text(140pt, fill: rgb("#717070").transparentize(80%))[*Entwurf* 09.07.26])
+}
+
+
+
 #set page(
   margin: (inside: 3cm, outside: 2cm, top: top_margin),
   footer: none,
   numbering: "1",
+  foreground: watermark,
   background: (
     context {
       let section_number = counter(heading).get().at(0)
