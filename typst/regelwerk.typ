@@ -7,6 +7,13 @@
 #let mid-background = rgb("#CFD8DC")
 #let light-background = rgb("#ECEFF1")
 
+#let watermark = {
+  // 'rotate(...)' is returned by this block
+  rotate(45deg, text(140pt, fill: rgb("#717070").transparentize(80%))[*Entwurf*])
+}
+
+
+
 #set page(
   margin: (inside: 3cm, outside: 2cm, top: 4cm),
   numbering: (..n) => context {
@@ -16,6 +23,7 @@
       numbering("- 1 / 1 -", ..n)
     }
   },
+  foreground: watermark,
   background: (
     context {
       let nb = counter(heading).get().at(0)
