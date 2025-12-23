@@ -7,7 +7,7 @@ Sie werden inaktiv, wenn sie gültig getroffen werden oder  gegen das Aus verst
 
 Feldspieler*innen ist es verboten:
 - mit unnötiger Härte zu agieren.
-- ungebremst in andere Feldspieler*innen zu laufen oder zu springen, d.h. sie müssen vor einer möglichen Kollision abstoppen.
+- ungebremst in andere Feldspieler*innen zu laufen oder zu springen, d. h. sie müssen vor einer möglichen Kollision abstoppen.
 - ruckartig an einer Kette zu reißen oder zu zerren, die eine Pompfe oder ein Körperteil umwickelt und gespannt ist.
 - den Jugg so ins Aus zu bewegen, dass er für andere Feldspieler*innen nicht erreichbar ist.
 - den Jugg mit den Füßen zu bewegen

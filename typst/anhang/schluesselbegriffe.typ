@@ -2,12 +2,12 @@
 
 
 #show table.cell.where(y: 0): strong
-#set table.cell(align: center + horizon)
+#set table.cell(align: left + horizon)
 #set table(columns: (1.1fr, 2fr, 2fr))
 
 #table(
   table.header(
-    "Schlüsselbegriff",
+    "Schlüssel-\nbegriff",
     "Funktion",
     "Beispiel",
   ),
@@ -23,7 +23,7 @@
 )
 #table(
   table.header(
-    "Schlüsselbegriff",
+    "Schlüssel-\nbegriff",
     "Funktion",
     "Beispiel",
   ),
@@ -40,7 +40,7 @@ Pompfer*innen ist es verboten, ihre*eigene Pompfe zu werfen.",
 )
 #table(
   table.header(
-    "Schlüsselbegriff",
+    "Schlüssel-\nbegriff",
     "Funktion",
     "Beispiel",
   ),
@@ -57,7 +57,7 @@ Pompfer*innen ist es verboten, ihre*eigene Pompfe zu werfen.",
 #pagebreak()
 #table(
   table.header(
-    "Schlüsselbegriff",
+    "Schlüssel-\nbegriff",
     "Funktion",
     "Beispiel",
   ),
