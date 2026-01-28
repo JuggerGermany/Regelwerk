@@ -5,7 +5,7 @@ Im Läufer*innenkampf ist im Stand der gesamte Oberkörper (inklusive Arme) von 
 Wenn eine*r der Läufer*innen den Boden mit mehr als seinen*ihren Füßen berührt, dann ist sein*ihr gesamter Körper vom Halsansatz abwärts Angriffsfläche.
 Die Läufer*innen dürfen miteinander in Körperkontakt treten und den*die Gegner*in an der erlaubten Angriffsfläche stoßen, umgreifen, festhalten, hochheben und zu Boden ziehen oder zu Boden drücken.
 Sie müssen loslassen, sobald ihr Griff ober- oder unterhalb der erlaubten Angriffsfläche rutscht.
-Läufer*innen ist es im Läufer*innenkampf verboten:
+Läufer*innen ist es im Läufer*innenkampf verboten
 - sich einen Vorteil durch Billigung von Verletzungen zu erkaufen.
 - den*die Gegner*in zu schlagen oder zu treten oder ihn*sie außerhalb der Angriffsfläche anzugreifen.
 - so zu werfen, dass der*die angegriffene Läufer*in mit beiden Beinen den Boden verlässt oder so zu Boden gebracht wird, dass er*sie mit dem Kopf oder mit dem Oberkörper zuerst aufkommt.

@@ -16,4 +16,4 @@ Die Male befinden sich mittig zwischen den Seitenlinien.
 Wird mit reduzierten Maßen gespielt, beträgt die Gesamtlänge des Spielfeldes #strong[30_m], die Gesamtbreite #strong[15_m] und die Länge der Grundlinien #strong[7,5_m].
 Der Abstand der Male zu der jeweiligen Grundlinie beträgt #strong[1,5_m].
 
-#figure(image("/typst/images/feld.jpg"), caption: "Maße des Spielfeldes")
+#figure(image("/typst/images/feld.jpg"), caption: "Maße des Spielfeldes ohne reduzierte Maße")

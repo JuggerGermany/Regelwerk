@@ -5,7 +5,7 @@ Der Zustand eines*einer Feldspieler*in kann entweder aktiv oder inaktiv sein.
 Zu Beginn eines Spielzugs sind alle Feldspieler*innen aktiv.
 Sie werden inaktiv, wenn sie gültig getroffen werden oder  gegen das Aus verstoßen.
 
-Feldspieler*innen ist es verboten:
+Feldspieler*innen ist es verboten
 - mit unnötiger Härte zu agieren.
 - ungebremst in andere Feldspieler*innen zu laufen oder zu springen, d. h. sie müssen vor einer möglichen Kollision abstoppen.
 - ruckartig an einer Kette zu reißen oder zu zerren, die eine Pompfe oder ein Körperteil umwickelt und gespannt ist.

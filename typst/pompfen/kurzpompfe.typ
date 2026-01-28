@@ -15,5 +15,5 @@ Mit der Kurzpompfe darf gestochen werden.
 Wird mit reduzierten Maßen gespielt, beträgt die maximale Länge der Kurz-?pompfe #strong[64_cm].
 Die minimale Länge der Schlagfläche mit Spitze beträgt dann #strong[50_cm].
 
-#figure(image("/typst/images/kp.jpg"), caption: "Kurzpompfenmaße")
+#figure(image("/typst/images/kp.jpg"), caption: "Kurzpompfenmaße ohne reduzierte Maße")
 

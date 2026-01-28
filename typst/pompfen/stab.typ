@@ -15,4 +15,7 @@ Wird mit reduzierten Maßen gespielt, beträgt die maximale Länge des Stabs #st
 Die maximale Reichweite beträgt dann #strong[83_cm] und die minimale Länge der Schlagfläche #strong[68_cm].
 Die Manschette ist weiterhin #strong[1_cm] dicker als die vordere Grifffläche.
 
-#figure(image("/typst/images/stab.jpg"), caption: "Stabmaße (Hinweis: Die Abbildung enthält zusätzliche Maße, die nicht mehr aktuell sind)")
+#figure(
+  image("/typst/images/stab.jpg"),
+  caption: "Stabmaße ohne reduzierte Maße (Hinweis: Die Abbildung enthält zusätzliche Maße, die nicht mehr aktuell sind)",
+)

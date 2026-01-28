@@ -13,4 +13,4 @@ Mit der Langpompfe darf gestochen werden.
 Wird mit reduzierten Maßen gespielt, beträgt die maximale Länge der Lang-?pompfe  #strong[105_cm].
 Die minimale Länge der Schlagfläche mit Spitze beträgt dann #strong[75_cm].
 
-#figure(image("/typst/images/lp.jpg"), caption: "Langpompfenmaße")
+#figure(image("/typst/images/lp.jpg"), caption: "Langpompfenmaße ohne reduzierte Maße")

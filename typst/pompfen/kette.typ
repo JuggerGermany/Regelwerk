@@ -19,5 +19,5 @@ Der Mindestdurchmesser des Balls und die Länge der Handschlaufe bleiben unverä
 
 #align(center)[#figure(
   image("/typst/images/kette.png"),
-  caption: "Kettenmaße",
+  caption: "Kettenmaße ohne reduzierte Maße",
 )]

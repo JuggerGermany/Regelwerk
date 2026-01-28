@@ -17,4 +17,4 @@ Zum regelgerechten Führen
 - des Stabs muss die eine Hand die vordere und die andere Hand die hintere Grifffäche berühren,
 - der Kette muss die Handschlaufe eine Hand oder einen Arm des*der Kettenspieler*in berühren. Die Kette muss geschwungen werden.
 
-Um einen Teil einer Pompfe zu berühren genügt die Berührung mit einem beliebigen Teil des entsprechenden Körperteils.
+Um einen Teil einer Pompfe zu berühren, genügt die Berührung mit einem beliebigen Teil des entsprechenden Körperteils.
