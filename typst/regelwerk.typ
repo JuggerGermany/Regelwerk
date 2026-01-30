@@ -4,6 +4,7 @@
 #let dark-background = rgb("#78909C")
 #let mid-background = rgb("#CFD8DC")
 #let light-background = rgb("#ECEFF1")
+#let top_margin = 3cm
 
 // page layout
 #let page_footer(numbering_end) = context {
@@ -12,12 +13,12 @@
 	align(center)[\- #current_page / #total_pages \-]
 }
 #set page(
-  margin: (inside: 3cm, outside: 2cm, top: 4cm),
+  margin: (inside: 3cm, outside: 2cm, top: top_margin),
 	footer: none,
 	numbering: "1",
   background: (
     context {
-      let nb = counter(heading).get().at(0)
+      let section_number = counter(heading).get().at(0)
       if calc.odd(counter(page).get().at(0)) {
         outside-pos.update(left)
       } else {
@@ -27,21 +28,21 @@
         top + outside-pos.get(),
         dx: 0cm,
         dy: 0cm,
-        rect(width: 1.5cm, height: 18cm, fill: light-background),
+        rect(width: 1.5cm, height: 20cm, fill: light-background),
       )
-      for dy in (5.6cm, 8.6cm, 11.6cm) {
+      for dy in (1.6cm, 4.6cm, 7.6cm, 10.6cm) {
         place(
           top + outside-pos.get(),
           dx: 0cm,
-          dy: dy,
+          dy: dy + top_margin,
           rect(width: 1.5cm, height: 1.5cm, fill: mid-background),
         )
       }
-      if nb > 0 {
+      if section_number > 0 {
         place(
           top + outside-pos.get(),
           dx: 0cm,
-          dy: 4.1cm + 1.5cm * nb,
+          dy: 0.1cm + 1.5cm * section_number + top_margin,
           rect(width: 1.5cm, height: 1.5cm, fill: dark-background),
         )
       }
@@ -347,9 +348,9 @@
 
 #set page(footer: page_footer(<end_of_document>), numbering: "i")
 #counter(heading).update(0)
-#counter(page).update(0)
 #set heading(numbering: "A.1")
 = Anhang
+#counter(page).update(1)
 == #masstabelle_title
 #masstabelle_text
 #pagebreak()
