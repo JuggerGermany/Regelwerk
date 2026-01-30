@@ -198,10 +198,14 @@
 #import "/typst/anhang/masstabelle.typ" as masstabelle_text: title as masstabelle_title
 #import "/typst/anhang/schluesselbegriffe.typ" as schluessel_text: title as schluessel_title
 
-Branch: Test RW 2026 23.12.2025, zuletzt bearbeitet von Helene
+// Branch: Test RW 2026 23.12.2025, zuletzt bearbeitet von Helene
 
 
-#todo[Titelblatt]
+#{
+    set page(margin: 0cm)
+    image("images/cover_front.jpg")
+}
+
 #pagebreak()
 #impressum_text
 
@@ -365,4 +369,7 @@ Branch: Test RW 2026 23.12.2025, zuletzt bearbeitet von Helene
 #schluessel_text
 #context in-anhang.update(false)
 
-#todo[Letzte Seite]
+#{
+    set page(margin: 0cm)
+    image("images/cover_back.png")
+}
