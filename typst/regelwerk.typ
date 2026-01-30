@@ -1,24 +1,20 @@
 #import "/typst/utils.typ": todo
 
-#let in-outline = state("in-outline", false)
 #let outside-pos = state("outside-pos", right)
-#let in-anhang = state("in-anhang", false)
 #let dark-background = rgb("#78909C")
 #let mid-background = rgb("#CFD8DC")
 #let light-background = rgb("#ECEFF1")
 
-
-
-
+// page layout
+#let page_footer(numbering_end) = context {
+	let current_page = counter(page).display(page.numbering)
+	let total_pages = numbering(page.numbering, ..counter(page).at(numbering_end))
+	align(center)[\- #current_page / #total_pages \-]
+}
 #set page(
   margin: (inside: 3cm, outside: 2cm, top: 4cm),
-  numbering: (..n) => context {
-    if in-outline.get() {
-      numbering("1", ..n)
-    } else {
-      numbering("- 1 / 1 -", ..n)
-    }
-  },
+	footer: none,
+	numbering: "1",
   background: (
     context {
       let nb = counter(heading).get().at(0)
@@ -53,11 +49,12 @@
   ),
 )
 
-
+// headings
 #set heading(numbering: "1.1.1.1")
 #show heading: set text(font: "montserrat", fill: rgb("#4F4F51"))
 #show heading: upper
 #show heading.where(level: 1, outlined: true): it => context {
+	set page(footer:none)
   [
     #let color = state("color", rgb("#78909C"))
     #let nb = counter(heading).get().at(0)
@@ -83,21 +80,18 @@
     #text(size: 150pt, font: "georgia", weight: "bold")[#counter(heading).display(it.numbering)] \
 
     #text(size: 50pt, weight: "thin")[#upper[#it.body]]
-    #colbreak()
+    #pagebreak()
   ]
 }
 
+// text & images
 #set par(justify: true)
 #set text(lang: "de", size: 13pt, font: "vollkorn", fill: rgb("#4F4F51"))
-
 #show figure: set align(center)
-
 #show figure.caption: set text(size: 10pt)
 #show "_": sym.space.nobreak.narrow
 
 // outline
-
-
 #show outline.entry: it => link(it.element.location(), it.indented(it.prefix(), it.inner()))
 #show outline.entry.where(level: 1): it => {
   set text(13pt)
@@ -106,11 +100,6 @@
   strong(it)
 }
 #show outline.entry.where(level: 3): it => if it.element.numbering.at(0) == "A" {} else { it }
-#show outline: it => {
-  in-outline.update(true)
-  it
-  in-outline.update(false)
-}
 
 // impressum
 #import "/typst/impressum.typ" as impressum_text
@@ -142,6 +131,7 @@
 #import "/typst/team/kleidung.typ" as kleidung_text: title as kleidung_title
 #import "/typst/team/spielerinnen.typ" as spielerinnen_text: title as spielerinnen_title
 #import "/typst/team/zusammensetzung.typ" as zusammensetzung_text: title as zusammensetzung_title
+
 // section 3
 #import "/typst/spielablauf/spielzug.typ" as spielzug_text: title as spielzug_title
 #import "/typst/spielablauf/spiel_nach_steinen.typ" as spiel_nach_steinen_text: title as spiel_nach_steinen_title
@@ -153,10 +143,9 @@
 #import "/typst/spielablauf/bereitschaft.typ" as bereitschaft_text: title as bereitschaft_title
 #import "/typst/spielablauf/punkten.typ" as punkten_text: title as punkten_title
 #import "/typst/spielablauf/abbruch.typ" as abbruch_text: title as abbruch_title
+
 // section 4
 #import "/typst/regeln/sicherheit.typ" as sicherheit_text: title as sicherheit_title
-
-
 #import "/typst/regeln/feldspielerinnen.typ" as feldspielerinnen_text: title as feldspielerinnen_title
 #import "/typst/regeln/aus.typ" as aus_text: title as aus_title
 #import "/typst/regeln/sicherer_umgang.typ" as sicherer_umgang_text: title as sicherer_umgang_title
@@ -171,9 +160,7 @@
 #import "/typst/regeln/jugg_platzieren.typ" as jugg_platzieren_text: title as jugg_platzieren_title
 #import "/typst/regeln/aktive_lauferinnen.typ" as aktive_lauferinnen_text: title as aktive_lauferinnen_title
 #import "/typst/regeln/pompferinnen.typ" as pompferinnen_text: title as pompferinnen_title
-
 #import "/typst/regeln/lauferinnen.typ" as lauferinnen_text: title as lauferinnen_title
-
 #import "/typst/regeln/lauferkampf.typ" as lauferkampf_text: title as lauferkampf_title
 #import "/typst/regeln/aktive_pompferinnen.typ" as aktive_pompferinnen_text: title as aktive_pompferinnen_title
 #import "/typst/regeln/aktive_feldspielerinnen.typ" as aktive_feldspielerinnen_text: title as aktive_feldspielerinnen_title
@@ -183,6 +170,7 @@
 #import "/typst/regeln/abknien.typ" as abknien_text: title as abknien_title
 #import "/typst/regeln/strafzeit.typ" as strafzeit_text: title as strafzeit_title
 #import "/typst/regeln/aufstehen.typ" as aufstehen_text: title as aufstehen_title
+
 // section 5
 #import "/typst/spielhelferinnen/spielhelferinnen.typ" as spielhelferinnen_text
 #import "/typst/spielhelferinnen/schiedsrichterinnen.typ" as schiedsrichterinnen_text: title as schiedsrichterinnen_title
@@ -194,7 +182,6 @@
 #import "/typst/anhang/schluesselbegriffe.typ" as schluessel_text: title as schluessel_title
 
 // Branch: Test RW 2026 23.12.2025, zuletzt bearbeitet von Helene
-
 
 #{
     set page(margin: 0cm)
@@ -215,6 +202,8 @@
   #pagebreak()
 ]
 
+#set page(footer: page_footer(<end_of_content>))
+#counter(page).update(1)
 #introduction_text
 
 
@@ -353,17 +342,23 @@
 == #punktezaehlerin_title
 #punktezaehlerin_text
 
+#[]<end_of_content>
 
-#context counter(heading).update(0)
+
+#set page(footer: page_footer(<end_of_document>), numbering: "i")
+#counter(heading).update(0)
+#counter(page).update(0)
 #set heading(numbering: "A.1")
-#context in-anhang.update(true)
 = Anhang
 == #masstabelle_title
 #masstabelle_text
+#pagebreak()
 == #schluessel_title
 #schluessel_text
-#context in-anhang.update(false)
 
+#[]<end_of_document>
+
+#pagebreak()
 #{
     set page(margin: 0cm)
     image("images/cover_back.png")
