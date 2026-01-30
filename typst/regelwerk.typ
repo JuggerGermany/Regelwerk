@@ -214,6 +214,7 @@
 #jugg_text
 == #mal_title
 #mal_text
+#pagebreak()
 == #spielfeld_title
 #spielfeld_text
 
@@ -224,11 +225,13 @@
 #nahpompfen_text
 === #griffflaeche_title
 #griffflaeche_text
+#pagebreak()
 === #schlagflaeche_title
 #schlagflaeche_text
 === #stechspitze_title
 #stechspitze_text
 
+#pagebreak()
 == Pompfenarten
 === #kurzpompfe_title
 #kurzpompfe_text
@@ -246,7 +249,6 @@
   #set par(justify: false)
   = Teams und Ausrüstung
 ]
-
 == #zusammensetzung_title
 #zusammensetzung_text
 == #spielerinnen_title
@@ -263,6 +265,7 @@
 #spiel_nach_saetzen_text
 == #aufstellung_title
 #aufstellung_text
+#pagebreak()
 == #einleiten_title
 #einleiten_text
 === #bereitschaft_title
@@ -271,6 +274,7 @@
 #fruehstart_text
 === #fehlstart_title
 #fehlstart_text
+#pagebreak()
 == Beenden eines Spielzugs
 === #punkten_title
 #punkten_text
@@ -290,6 +294,7 @@
 #aktive_feldspielerinnen_text
 === #inaktive_feldspielerinnen_title
 #inaktive_feldspielerinnen_text
+#pagebreak()
 == #pompferinnen_title
 #pompferinnen_text
 === #aktive_pompferinnen_title
@@ -304,13 +309,14 @@
 #inaktive_lauferinnen_text
 === #lauferkampf_title
 #lauferkampf_text
+#pagebreak()
 == #aus_title
 #aus_text
-
 == #treffer_title
 #treffer_text
 === #gueltig_ausgefuehrte_treffer_title
 #gueltig_ausgefuehrte_treffer_text
+#pagebreak()
 === #gueltig_platzierte_treffer_title
 #gueltig_platzierte_treffer_text
 === #trefferzone_title
@@ -330,7 +336,7 @@
 == #jugg_platzieren_title
 #jugg_platzieren_text
 
-= Spielhelfer*innen
+= Spielhelfer\*innen
 #spielhelferinnen_text
 == #schiedsrichterinnen_title
 #schiedsrichterinnen_text
