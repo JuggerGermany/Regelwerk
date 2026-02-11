@@ -1,9 +1,8 @@
 #let title = "Feldspieler*innen eines Teams"
 
 Die Feldspieler*innen eines Teams unterteilen sich in Läufer*innen (Qwiks) und Pompfer*innen.
-Die Läufer*innen führen keine Pompfe; sie sind die einzigen Spieler*innen, die den Jugg tragen, werfen und platzieren dürfen.
+Die Läufer*innen führen keine Pompfe; sie sind die einzigen Spieler*innen, die den Jugg tragen, werfen und platzieren dürfen.\
 Während eines Zuges führen Pompfer*innen die Pompfen, mit denen sie erstmalig das Feld betreten.
-
 Ein*e Pompfer*in muss entweder
 - eine Kette oder
 - einen Stab oder
