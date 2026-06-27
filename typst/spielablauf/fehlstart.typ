@@ -1,3 +1,5 @@
+#import "../designs/boxes.typ" as boxes
+
 #let title = "Fehlstart"
 
 Ein Team begeht einen Fehlstart, wenn sich zum Start eines Spielzugs
@@ -7,3 +9,7 @@ Ein Team begeht einen Fehlstart, wenn sich zum Start eines Spielzugs
 des Teams im Spielfeld befindet.
 
 Nach einem Fehlstart sollte der aktuelle Spielzug abgebrochen werden.
+
+#boxes.fluffbox([
+  Die Spielleitung kann davon absehen, einen Fehlstart zu ahnden, wenn er nicht zugrelevant ist.
+])
