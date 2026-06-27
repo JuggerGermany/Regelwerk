@@ -1,3 +1,4 @@
+#import "../designs/boxes.typ" as boxes
 
 #let title = "Kette"
 
@@ -11,11 +12,17 @@ Der Ball besteht aus polsterndem Material und sein Mindestdurchmesser beträgt #
 Der Strang muss durchgehend gepolstert sein.
 Die Polsterung darf nicht verrutschen.
 
-Eine Kette kann nur regelgerecht geführt werden, wenn  die Handschlaufe die Hand oder den Arm des*der Kettenspieler*in berührt.
-Mit der Kette kann nicht gepinnt werden.
 
 Wird mit reduzierten Maßen gespielt, beträgt die maximale Länge der Kette #strong[240_cm].
 Der Mindestdurchmesser des Balls und die Länge der Handschlaufe bleiben unverändert.
+
+#boxes.fluffbox(
+  [
+    Eine Kette kann nur regelgerecht geführt werden, wenn  die Handschlaufe die Hand oder den Arm des*der Kettenspieler*in berührt (@treffer_aus).
+
+    Mit der Kette kann nicht gepinnt werden (@pinnen).
+  ],
+)
 
 #align(center)[#figure(
   image("/typst/images/kette.png"),
