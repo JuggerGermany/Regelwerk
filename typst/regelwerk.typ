@@ -113,6 +113,7 @@
 #import "/typst/spielfeld/jugg.typ" as jugg_text: title as jugg_title
 #import "/typst/spielfeld/mal.typ" as mal_text: title as mal_title
 #import "/typst/spielfeld/spielfeld.typ" as spielfeld_text: title as spielfeld_title
+#import "/typst/spielfeld/fluff.typ" as fluff_11
 
 // section 2
 #import "/typst/pompfen/pompfen.typ" as pompfen_text: title as pompfen_title
@@ -211,12 +212,13 @@
 
 
 = Spielfeld
-== #jugg_title
+#fluff_11
+== #jugg_title <jugg>
 #jugg_text
-== #mal_title
+== #mal_title <mal>
 #mal_text
 #pagebreak()
-== #spielfeld_title
+== #spielfeld_title <feld>
 #spielfeld_text
 
 = #pompfen_title <pompfen>
