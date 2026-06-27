@@ -134,13 +134,15 @@
 
 // section 3
 #import "/typst/spielablauf/spielzug.typ" as spielzug_text: title as spielzug_title
-#import "/typst/spielablauf/spiel_nach_steinen.typ" as spiel_nach_steinen_text: title as spiel_nach_steinen_title
-#import "/typst/spielablauf/spiel_nach_saetzen.typ" as spiel_nach_saetzen_text: title as spiel_nach_saetzen_title
-#import "/typst/spielablauf/spielzugvorbereitung.typ" as aufstellung_text: title as aufstellung_title
+#import "/typst/spielablauf/spiel_nach_steinen.typ" as spiel_nach_steinen_text
+#import "/typst/spielablauf/spiel_nach_saetzen.typ" as spiel_nach_saetzen_text
+
 #import "/typst/spielablauf/einleiten.typ" as einleiten_text: title as einleiten_title
 #import "/typst/spielablauf/fruehstart.typ" as fruehstart_text: title as fruehstart_title
 #import "/typst/spielablauf/fehlstart.typ" as fehlstart_text: title as fehlstart_title
 #import "/typst/spielablauf/bereitschaft.typ" as bereitschaft_text: title as bereitschaft_title
+#import "/typst/spielablauf/beenden.typ" as beenden_text: title as beenden_title
+
 #import "/typst/spielablauf/punkten.typ" as punkten_text: title as punkten_title
 #import "/typst/spielablauf/abbruch.typ" as abbruch_text: title as abbruch_title
 
@@ -257,26 +259,21 @@
 = Spielablauf
 == #spielzug_title
 #spielzug_text
-=== #spiel_nach_steinen_title
 #spiel_nach_steinen_text
-=== #spiel_nach_saetzen_title
 #spiel_nach_saetzen_text
-== #aufstellung_title
-#aufstellung_text
-#pagebreak()
-== #einleiten_title
+== #einleiten_title <einleiten>
 #einleiten_text
-=== #bereitschaft_title
+=== #bereitschaft_title <bereitschaft>
 #bereitschaft_text
-=== #fruehstart_title
+=== #fruehstart_title <fruehstart>
 #fruehstart_text
-=== #fehlstart_title
+=== #fehlstart_title <fehlstart>
 #fehlstart_text
-#pagebreak()
-== Beenden eines Spielzugs
-=== #punkten_title
+== #beenden_title <beenden>
+#beenden_text
+=== #punkten_title <punkten>
 #punkten_text
-=== #abbruch_title
+=== #abbruch_title <abbruch>
 #abbruch_text
 
 = Spielregeln
