@@ -1,7 +1,9 @@
+#import "../designs/boxes.typ" as boxes
+
+
 #let title = "Nahpompfen"
 
 Nahpompfen setzen sich aus Griffflächen und rund gepolsterten Schlagflächen zusammen.
-Sie haben keine stilisierten Schwertklingen oder Ähnliches.
 Die maxi-?male Reichweite einer Nahpompfe ist die maximale Summe der Längen ihrer (vorderen) Grifffläche und einer dazu angrenzenden Schlagfläche.
 
 Nahpompfen bestehen aus einem Kernstab und angemessenen Polsterungen.
