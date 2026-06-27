@@ -1,3 +1,4 @@
+
 #let title = "Kleidung"
 
 Alle Spieler*innen und Spielhelfer*innen müssen den Torso mit einem oder mehreren Kleidungsstücken bedecken und Beinkleider tragen.
