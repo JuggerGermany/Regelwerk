@@ -217,32 +217,31 @@
 == #spielfeld_title
 #spielfeld_text
 
-= #pompfen_title
+= #pompfen_title <pompfen>
 #pompfen_text
 
 == #nahpompfen_title
 #nahpompfen_text
 === #griffflaeche_title
 #griffflaeche_text
-#pagebreak()
 === #schlagflaeche_title
 #schlagflaeche_text
-=== #stechspitze_title
+=== #stechspitze_title <stechspitze>
 #stechspitze_text
 
 #pagebreak()
 == Pompfenarten
-=== #kurzpompfe_title
+=== #kurzpompfe_title <kp>
 #kurzpompfe_text
-=== #langpompfe_title
+=== #langpompfe_title <lp>
 #langpompfe_text
-=== #qtip_title
+=== #qtip_title <qt>
 #qtip_text
-=== #stab_title
+=== #stab_title <stab>
 #stab_text
-=== #schild_title
+=== #schild_title <schild>
 #schild_text
-=== #kette_title
+=== #kette_title <kette>
 #kette_text
 #align(left)[
   #set par(justify: false)
@@ -250,7 +249,7 @@
 ]
 == #zusammensetzung_title
 #zusammensetzung_text
-== #spielerinnen_title
+== #spielerinnen_title <feldspielis>
 #spielerinnen_text
 == #kleidung_title
 #kleidung_text
@@ -285,22 +284,21 @@
 #sicherheit_text
 === #sicherer_umgang_title
 #sicherer_umgang_text
-=== #beschaedigte_pompfe_title
+=== #beschaedigte_pompfe_title <beschaedigt>
 #beschaedigte_pompfe_text
 == #feldspielerinnen_title
 #feldspielerinnen_text
 === #aktive_feldspielerinnen_title
 #aktive_feldspielerinnen_text
-=== #inaktive_feldspielerinnen_title
+=== #inaktive_feldspielerinnen_title <inaktiv_feldspielis>
 #inaktive_feldspielerinnen_text
-#pagebreak()
-== #pompferinnen_title
+== #pompferinnen_title <pompfis>
 #pompferinnen_text
 === #aktive_pompferinnen_title
 #aktive_pompferinnen_text
 === #inaktive_pompferinnen_title
 #inaktive_pompferinnen_text
-== #lauferinnen_title
+== #lauferinnen_title <laufis>
 #lauferinnen_text
 === #aktive_lauferinnen_title
 #aktive_lauferinnen_text
@@ -308,31 +306,29 @@
 #inaktive_lauferinnen_text
 === #lauferkampf_title
 #lauferkampf_text
-#pagebreak()
-== #aus_title
+== #aus_title <aus>
 #aus_text
-== #treffer_title
+== #treffer_title <treffer>
 #treffer_text
-=== #gueltig_ausgefuehrte_treffer_title
+=== #gueltig_ausgefuehrte_treffer_title <treffer_aus>
 #gueltig_ausgefuehrte_treffer_text
-#pagebreak()
-=== #gueltig_platzierte_treffer_title
+=== #gueltig_platzierte_treffer_title <treffer_platz>
 #gueltig_platzierte_treffer_text
-=== #trefferzone_title
+=== #trefferzone_title <trefferzone>
 #trefferzone_text
 === #doppeltreffer_title
 #doppeltreffer_text
-=== #ansagen_title
+=== #ansagen_title <ansagen>
 #ansagen_text
-== #pinnen_title
+== #pinnen_title <pinnen>
 #pinnen_text
 == #abknien_title
 #abknien_text
-=== #strafzeit_title
+=== #strafzeit_title <strafzeit>
 #strafzeit_text
-=== #aufstehen_title
+=== #aufstehen_title <aufstehen>
 #aufstehen_text
-== #jugg_platzieren_title
+== #jugg_platzieren_title <jugg_platz>
 #jugg_platzieren_text
 
 = Spielhelfer\*innen
