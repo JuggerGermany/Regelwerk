@@ -1,4 +1,5 @@
-#import "/typst/utils.typ": weblink
+
+#import "../designs/boxes.typ" as boxes
 
 #let title = "Schiedsrichter*innen"
 
@@ -11,5 +12,5 @@ Sie überprüfen die Zeitstrafen inaktiver Spieler*innen und fällen in unklar
 Sie nehmen von den Spieler*innen Hinweise auf Verletzungen und unnötige Härte entgegen, machen Spieler*innen auf wiederholt unsportliches Verhalten aufmerksam und verhängen nötigenfalls Strafen.
 Sie sorgen für den Fortlauf des Spiels, wenn der Jugg ungültig platziert wurde.
 Alle Schiedsrichter*innen dürfen zur Erfüllung ihrer Aufgaben das Spielfeld betreten, dürfen jedoch die Laufwege der Spieler*innen nicht behindern.
-Ergänzend zu diesem Regelwerk gibt es auf #weblink(url: "https://www.jugger.org/files/public/public/leitfaden-fuer-schiedsrichter.pdf", display: "jugger.org") einen Leitfaden für Schiedsrichter*innen, der genauer auf mögliche Spielsituationen und Handlungsmöglichkeiten eingeht.
-Es wird empfohlen, diesen Leitfaden zu kennen, auch wenn er nicht Teil des offiziellen Regelwerks ist.
+
+
