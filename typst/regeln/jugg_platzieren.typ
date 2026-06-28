@@ -15,5 +15,5 @@ Das gilt auch, wenn Läufer*innen den Jugg nicht mehr berühren, weil sie inakti
 In allen anderen Fällen ist der Jugg ungültig platziert.
 
 #boxes.fluffbox([
-  Ein Jugg kann nur dann gültig platziert sein, wenn er platziert wurde.
+  Nur ein platzierter Jugg kann gültig platziert sein.
 ])
