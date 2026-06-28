@@ -1,6 +1,11 @@
+#import "../designs/boxes.typ" as boxes
+
 #let title = "Jugg platzieren"
 
-Ein Jugg wird gültig im Mal platziert, um einen Punkt zu erzielen.
+#boxes.fluffbox([
+  Ein Jugg wird gültig im Mal platziert, um einen Punkt zu erzielen (@punkten).
+])
+
 Ein*e aktive*r Läufer*in kann den Jugg platzieren, indem er*sie ihn in die Malöffnung bewegt.
 Solange der Jugg sich so tief wie möglich in der Malöffnung befindet, gilt er als platziert.\
 Der Jugg ist gültig platziert, wenn
@@ -8,3 +13,7 @@ Der Jugg ist gültig platziert, wenn
 - kein*e aktive*r Läufer*in ihn berührt.
 Das gilt auch, wenn Läufer*innen den Jugg nicht mehr berühren, weil sie inaktiv wurden.
 In allen anderen Fällen ist der Jugg ungültig platziert.
+
+#boxes.fluffbox([
+  Ein Jugg kann nur dann gültig platziert sein, wenn er platziert wurde.
+])
