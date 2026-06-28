@@ -1,3 +1,5 @@
+#import "../designs/boxes.typ" as boxes
+
 #let title = "Gültig ausgeführte Treffer"
 
 Ein Treffer ist gültig ausgeführt, wenn keine der folgenden Bedingungen erfüllt ist:
@@ -17,4 +19,9 @@ Zum regelgerechten Führen
 - des Stabs muss die eine Hand die vordere und die andere Hand die hintere Grifffäche berühren,
 - der Kette muss die Handschlaufe eine Hand oder einen Arm des*der Kettenspieler*in berühren. Die Kette muss geschwungen werden.
 
-Um einen Teil einer Pompfe zu berühren, genügt die Berührung mit einem beliebigen Teil des entsprechenden Körperteils.
+#boxes.fluffbox([
+  Ungültig ausgeführte Treffer müssen angesagt werden (@ansagen).
+  Um einen Teil einer Pompfe zu berühren, genügt die Berührung mit einem beliebigen Teil des entsprechenden Körperteils.
+
+  Eine Stichbewegung mit dem Stab führt nicht nur zu einem ungültig ausgeführten Treffer, sondern ist auch explizit verboten (@stab).
+])

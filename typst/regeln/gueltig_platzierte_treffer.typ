@@ -1,3 +1,4 @@
+
 #let title = "Gültig platzierte Treffer"
 
 Ein Treffer ist gültig platziert, wenn keine der folgenden Bedingungen erfüllt ist:
@@ -8,6 +9,7 @@ Ein Treffer ist gültig platziert, wenn keine der folgenden Bedingungen erfüllt
 
 Wenn eine Spieler*in in einer einzigen Bewegung erst an der Trefferzone und dann an der Kopfzone
 getroffen wird, ist der Treffer gültig platziert.
+
 
 #figure(
   image("/typst/images/bueste_kopf.jpg", height: 10cm),
