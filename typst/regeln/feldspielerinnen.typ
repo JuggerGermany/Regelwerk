@@ -10,7 +10,7 @@ Feldspieler*innen ist es verboten
 - ungebremst in andere Feldspieler*innen zu laufen oder zu springen, d. h. sie müssen vor einer möglichen Kollision abstoppen.
 - ruckartig an einer Kette zu reißen oder zu zerren, die eine Pompfe oder ein Körperteil umwickelt und gespannt ist.
 - den Jugg so ins Aus zu bewegen, dass er für andere Feldspieler*innen nicht erreichbar ist.
-- den Jugg mit den Füßen zu bewegen
+- den Jugg mit den Füßen zu bewegen.
 - das Mal von seinem vorgegebenen Ort zu verschieben.
 - die Öffnung des Mals zu blockieren, sei es mit dem eigenen Körper oder mit einer Pompfe.
 
