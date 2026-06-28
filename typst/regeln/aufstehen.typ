@@ -1,10 +1,24 @@
-#let title = "Aufstehen"
 
-Durch das Aufstehen werden inaktive Feldspieler*innen wieder aktiv.
+#import "../designs/boxes.typ" as boxes
+
+#let title = "Aufstehen"
+Um aktiv zu werden, müssen inaktive Feldspieler*innen aufstehen.
+
 Alle Feldspieler*innen stehen auf, indem sie die Hand vom Rücken nehmen oder das Knie vom Boden heben.
 Inaktive Pompfer*innen stehen auch auf, wenn sie den Jugg bewegen.
 Inaktive Läufer*innen stehen auch auf, wenn sie den Jugg bewegen oder mit einer Hand berühren.
+
 Feldspieler*innen dürfen aufstehen, sobald sie ihre Strafzeit vollständig gezählt haben.
-Stehen Feldspieler*innen auf, nachdem sie ihre Strafzeit gezählt haben, obwohl für sie ein Pin besteht, erhalten sie eine Strafzeit von 5~Steinen.
-Sobald der Pin nicht mehr besteht, dürfen sie ohne eine Strafzeit zu erhalten regulär aufstehen.
-Inaktive Feldspieler*innen dürfen über ihre Strafzeit hinaus abknien und somit inaktiv bleiben.
+
+Feldspieler*innen werden aktiv, wenn sie aufstehen, außer
+- sie stehen auf, bevor sie ihre Strafzeit gezählt haben, oder
+- sie stehen auf, obwohl für sie ein Pin besteht.
+
+In diesen Fällen erhalten sie eine Strafzeit von 5~Steinen und bleiben inaktiv.
+
+
+#boxes.fluffbox([
+  Knien Feldspieler*innen über ihre Strafzeit hinaus regelgerecht ab, bleiben sie inaktiv.
+
+  Stehen Feldspieler*innen auf, nachdem kein Pin mehr besteht werden sie aktiv.
+])
