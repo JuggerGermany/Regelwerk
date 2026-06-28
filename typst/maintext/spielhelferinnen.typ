@@ -1,90 +1,114 @@
 #import "../designs/boxes.typ" as boxes
 #import "/typst/utils.typ": weblink
 
-
 #boxes.fluffbox([
-  Spielhelfer*innen tragen zu einem reibungslosen Juggerspiel bei.
-  Die Spielhelfer*innen erfüllen die Aufgaben von Schiedsrichter*innen, Steine- und Punktezähler*innen.
-])
-
-
-Jedes Juggerspiel wird von mindestens einem*einer Spielhelfer*in begleitet.
-Falls der Jugg aus dem Spielfeld bewegt wird, legen die Spielhelfer*innen ihn an die Stelle der Spielfeldbegrenzung, an der er das Spielfeld verlassen hat, es sei denn ein*e Läufer*in kommt ihnen zuvor.
-#boxes.fluffbox([
-
   Ergänzend zu diesem Regelwerk gibt es auf #weblink(url: "https://www.jugger.org/files/public/public/leitfaden-fuer-schiedsrichter.pdf", display: "jugger.org") einen Leitfaden für Schiedsrichter*innen, der genauer auf mögliche Spielsituationen und Handlungsmöglichkeiten eingeht.
   Es wird empfohlen, diesen Leitfaden zu kennen, auch wenn er nicht Teil des offiziellen Regelwerks ist.
-
 ])
 
 
-== Schiedsrichter*innen
+Ein Juggerspiel wird von mindestens einem*einer Spielhelfer*in begleitet.
+Schiedsrichter*innen sind Teil der Spielhelfer*innen und Spielhelfer*innen können generell Aufgaben der Schiedsrichter*innen übernehmen. Ein offizielles Juggerspiel wird von mindestens vier Schiedsrichter*innen begleitet. Diese unterteilen sich in
+- eine*n Hauptschiedsrichter*in,
+- eine*n Nebenschiedsrichter*in und
+- zwei Malrichter*innen.
 
-Jedes offizielle Juggerspiel wird von mindestens vier Schiedsrichter*innen
-begleitet: Hauptschiedsrichter*in, Nebenschiedsrichter*in und zwei
-Malrichter*innen.
-Alle Schiedsrichter*innen haben die Aufgabe, den Spielregeln Geltung zu verschaffen und dafür Sorge zu tragen, dass die Sicherheit aller Spieler*innen gewährleistet ist.
-Sie brechen den Spielzug nötigenfalls ab oder lassen ihn wiederholen.
-Sie überprüfen die Zeitstrafen inaktiver Spieler*innen und fällen in unklaren Situationen Entscheidungen.
-Sie nehmen von den Spieler*innen Hinweise auf Verletzungen und unnötige Härte entgegen, machen Spieler*innen auf wiederholt unsportliches Verhalten aufmerksam und verhängen nötigenfalls Strafen.
-Sie sorgen für den Fortlauf des Spiels, wenn der Jugg ungültig platziert wurde.
-Alle Schiedsrichter*innen dürfen zur Erfüllung ihrer Aufgaben das Spielfeld betreten, dürfen jedoch die Laufwege der Spieler*innen nicht behindern.
+Alle Spielhelfer*innen haben die Aufgabe,
+- einen reibungslosen Spielablauf zu gewährleisten und
+- den Jugg falls nötig ins Spielfeld zurückzubewegen.
 
-
-=== Hauptschiedsrichter*in
-
-Der*die Hauptschiedsrichter*in hat bei Unstimmigkeiten unter den Schiedsrichter*innen das letzte Wort.
-Zusätzlich zu den allgemeinen Aufgaben der Schiedsrichter*innen übernimmt er*sie die Aufgaben der Spielleitung, d. h. jeder Spielzug wird eingeleitet und die Malrichter*innen werden bestätigt, wenn diese einen Punkt anerkannt haben.
-Außerdem wird vor jedem Spielzug der Spielstand verkündet.
-Bei Verzögerungen während der Aufstellung darf er*sie auf die Einleitung des Spielzugs bestehen.
-Er*sie achtet außerdem darauf, dass die Pause zwischen zwei Halbzeiten bzw. zwei Sätzen nicht länger als 5 Minuten dauert.
-Er*sie trägt dafür Sorge, dass alle Feldspieler*innen und Spielhelfer*innen augenblicklich von einem Abbruch des Spielzugs erfahren.
-Begeht ein Team einen Frühstart, verteilt die Spielleitung eine Verwarnung und erteilt gegebenfalls den Jugg-Besitz für die Gegenseite.
-Um das Spielgeschehen zu beobachten, bewegt er*sie sich an der Seitenlinie.
-Er*sie beobachtet vor allen Dingen das Geschehen auf seiner*ihrer Seite des Spielfeldes und in der Spielfeldmitte.
+Ein*e Spielhelfer*in muss
+- die Punkte zählen und
+- darauf achten, dass die Steine gut hörbar sind.
 
 #boxes.fluffbox([
-  Bei Spielen nach Steinen verkündet der Hauptschiedsrichter*in die restliche Spieldauer zwischen Zügen.
 
-  In einem Spiel nach Steinen kündigt er*sie bei Gleichstand nach abgelaufener Spielzeit den „Golden Jugg“ an.
+
+  Die Spielhelfer*innen, die Punkte zählen oder auf die Hörbarkeit der Steine achten, können auch weitere Aufgaben, wie zum Beispiel eine Schiedsrichter*innen Rolle, übernehmen.
+
+  Gegebenenfalls kann die*die Hauptschiedsrichter*in weitere Schiedsrichter*innen hinzuziehen. Diese übernehmen keine der oben beschriebenen Rollen können aber zum Beispiel andere Schiedsrichter*innen bei ihren Entscheidungen unterstützen.
+
+  In einem Spiel nach Steinen müssen die Steine gezählt werden. Dafür wird ein*e weitere*r Spielhelfer*in benötigt, der*die sich auch merkt, wie viele Steine zu Beginn eines Spielzuges noch übrig sind, um die Steine im Falle einer Wiederholung zurücksetzen zu können.
+  Diese*r Spielhelfer*in muss
+  - nach jedem Zug die Reststeine bekannt geben,
+  - die letzten 10 Steine jeder Halbzeit laut ansagen und
+  - das Ende einer Halbzeit ansagen.
+
+])
+
+== Schiedsrichter*innen
+#boxes.fluffbox([
+  Die Schiedsrichter*innen verschaffen den Spielregeln Geltung. Sie versuchen die Sicherheit der Spieler*innen zu gewährleisten.
+])
+
+Alle Schiedsrichter*innen dürfen das Feld betreten, wenn sie die Laufwege von Feldspieler*innen nicht behindern.
+
+Alle Schiedsrichter*innen haben die Aufgabe
+- das Spielgeschehen zu beobachten,
+- einen Spielzug zu beenden durch das Zusprechen eines Punktes oder einen Abbruch,
+- einen Spielzug gegebenenfalls zu wiederholen,
+- Hinweise auf unnötige Härte und Verletzung entgegenzunehmen,
+- auf wiederholtes unsportliches Verhalten aufmerksam zu machen,
+- einen von einem*r inaktiven Läufer*in ungültig platzierten Jugg gegebenenfalls aus dem Mal zu entfernen und
+- gegebenenfalls Strafen zu verhängen.
+
+Nach einem gültig platzierten Jugg signalisieren die Schiedsrichter*innen das Ende des Spielzuges.
+Sie lassen den Spielzug nach einem ungültig platzierten Jugg weiterlaufen.
+
+#boxes.fluffbox([
+  Das initiale Signal, ob ein Jugg gültig oder ungültig platziert ist, geben normalerweise die Malrichter*innen.
+
+  Wurde der Jugg gültig
+  platziert, wird dies mit dem Ruf „Jugg“ und dem Heben beider Arme über den Kopf angezeigt.
+  Wurde der Jugg nicht gültig platziert, wird das mit dem Ruf „Weiter, kein Jugg!“ und dem Schwenken beider Arme vor dem Körper angezeigt.
+])
+
+=== Hauptschiedsrichter*in
+Kommen die Schiedsrichter*innen zu keiner Einigung, trifft der*die Hauptschiedsrichter*in die Entscheidung. Er*Sie übernimmt die Spielleitung.
+
+Während eines Spielzuges sollte sich der*die Hauptschiedsrichter*in an der Seitenlinie befinden.
+Er*Sie sollte vor allem das Spielgeschehen auf seiner*ihrer Seite des Spielfeldes und in der Feldmitte beobachten.
+
+#boxes.fluffbox([
+  Der*Die Hauptschiedsrichter*in startet den Spielzug in der Mitte des Spielfeldes.
 ])
 
 === Nebenschiedsrichter*in
+Während eines Spielzuges sollte sich der*die Nebenschiedsrichter*in an der Seitenlinie gegenüber dem*der Hauptschiedsrichter*in befinden und den Jugg verfolgen. Er*Sie sollte vor allem das Spielgeschehen auf seiner*ihrer Seite des Spielfeldes und in der Feldmitte beobachten.
 
-Zusätzlich zu den allgemeinen Aufgaben der Schiedsrichter*innen unterstützt der*die Nebenschiedsrichter*in vor allem den*die Hauptschiedsrichter*in in der Leitung des Spiels.
-Um das Spielgeschehen zu beobachten, bewegt er*sie sich an der gegenüberliegenden Seitenlinie des*der Hauptschiedsrichter*in auf Höhe des Juggs.
 
+Er*Sie unterstützt den*die Hauptschiedsrichter*in bei der Spielleitung.
 
 #boxes.fluffbox([
-  Er*sie beobachtet vor allen Dingen das Geschehen auf der eigenen Seite des Spielfeldes und in der Spielfeldmitte.
+  Nebenschiedsrichter*innen übernehmen oft die Aufgabe des Punkte zählens.
 ])
 
 === Malrichter*innen
+Jedem*r Malrichter*in wird ein Mal zugewiesen.
 
-Jedem Mal wird ein*e Malrichter*in zugewiesen.
-Zusätzlich zu den allgemeinen Aufgaben der Schiedsrichter*innen signalisiert der*die Malrichter*in dem*der Hauptschiedsrichter*in, ob der Jugg gültig platziert wurde.
-Wurde der Jugg gültig platziert, zeigt der*die Malrichter*in dies an, indem er*sie „Jugg“ ruft und beide Arme über den Kopf hebt. Wurde der Jugg nicht gültig platziert, zeigt er*sie dies an, indem „Weiter, kein Jugg!“ gerufen wird und beide Arme vor dem Körper geschwenkt werden; außerdem sorgt er*sie sofort für die Fortsetzung des Spielzugs.
+Während eines Spielzuges sollte sich der*die Malrichter*in an der Auslinie der Hälfte des ihm*ihr zugewiesenen Mals befinden.
 
-Darüber hinaus achten die Malrichter*innen zu Beginn eines Spielzugs besonders darauf, dass die Zusammensetzung der Feldspieler*innen regelkonform ist und dass die Feldspieler*innen das Spielfeld regelkonform betreten.
-Betritt ein Team nicht regelkonform das Spielfeld, bricht der*die Malrichter*in den Spielzug ab und signalisiert den Fehl- oder Frühstart dem*der Hauptschiedsrichter*in.
-Um das Spielgeschehen zu beobachten, bewegen sich die Malrichter*innen vor allem auf Höhe des ihnen zugeteilten Mals.
-Sie beobachten vor allen Dingen das Geschehen in der Spielfeldhälfte des ihnen zugeteilten Mals.
+Malrichter*innen signalisieren für das ihnen zugewiesene Mal ob ein Jugg gültig oder ungültig platziert ist.
+
+Auf der Seite des ihnen zugewiesenen Mals signalisieren Malrichter*innen außerdem Früh- und Fehlstarts und brechen den Spielzug gegebenenfalls ab.
 
 #boxes.fluffbox([
-  Gegebenenfalls nehmen Malrichter*innen einen ungültig platzierten Jugg aus dem Mal und legt ihn daneben (@punkten).
+
+  Die Malrichter*innen starten den Spielzug an gegenüberliegenden Ecken des Spielfeldes und verbleiben auf dieser Seite, um Platzierungsversuche zu beurteilen und das Startverhalten der Teams zu beobachten.
+  Sie entscheiden selbstständig, ob ein Früh- (@fruehstart) oder Fehlstart (@fehlstart) vorliegt.
 ])
 
-=== Punkte- und Steinezähler*in
+== Spielleitung
 
-Der*die Punktezähler*in zählt die erzielten Punkte und hält sie fest.
-Er*sie gibt der Spielleitung nach Ende jedes Spielzugs den Punktestand bekannt.
-Der*die Steinezähler*in sorgt dafür, dass die akustischen Signale für Spieler*innen und Schiedsrichter*innen gut hörbar sind oder gibt die Signale selbst.
-Bei Spielen nach Steinen zählt er*sie während eines Spielzugs die Steine mit und gibt der Spielleitung nach Ende jedes Spielzugs die Reststeine bekannt.
-
-Für den Fall einer Wiederholung merkt er*sie sich, bei wie vielen Steinen der Spielzug begonnen hat. Die letzten 10 Steine einer Halbzeit zählt er*sie laut, für Spieler*innen und Spielhelfer*innen gut hörbar, mit und gibt das Ende der Halbzeit bekannt.
+Die Spielleitung hat die Aufgabe,
+- den Spielzug einzuleiten,
+- Verwarnungen und Juggbesitz in Folge von Frühstarts zu erteilen und
+- Malrichter*innen zu bestätigen, wenn ein Punkt anerkannt wurde.
 
 #boxes.fluffbox([
-  Oft übernehmen andere Spielhelfer*innen die Aufgaben der Punktezähler*innen, sodass kein*e weiter*e Spielhelfer*in benötigt wird.
+  Falls es Halbzeiten gibt, achtet die Spielleitung darauf, dass die Halbzeitpause nicht länger als 5 Minuten dauert.
+  Im Spiel nach Steinen hat die Spielleitung außerdem die Aufgabe,
+  - nach jedem Spielzug zu verkünden, wie viele Steine verbleiben und
+  - gegebenfalls den Golden Jugg anzukündigen.
 
-  Bei einem Spiel nach Sätzen werden keine Steinezähler*innen benötigt.
 ])
