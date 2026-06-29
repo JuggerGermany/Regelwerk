@@ -271,8 +271,8 @@ Ist es diesen Spieler*innen nicht möglich zu unterscheiden, welche Spieler*in z
 Feldspieler*innen müssen Doppeltreffer mit “Doppel!” ansagen.
 Gegebenenfalls werden sie dabei von Spielhelfer*innen unterstützt.
 
-Wenn ein Treffer außerhalb der Trefferzone platziert wird, müssen die getroffenen Feldspieler*innen dies ansagen.
-Treffer an der Kopfzone müssen mit “Kopf!” und Treffer an einer Hand, die eine Pompfe berührt, mit “Hand!” angesagt werden.
+Aktive Feldspieler*innen, an denen Treffer außerhalb ihrer Trefferzone platziert werden, müssen diese Treffer ansagen.
+Um sie anzusagen, müssen Treffer an der Kopfzone mit “Kopf!” und Treffer an einer Hand, die eine Pompfe berührt, mit “Hand!” angesagt werden.
 
 Führen Spieler*innen Treffer ungültig aus, müssen sie dies den getroffenen Spieler*innen mitteilen.
 
