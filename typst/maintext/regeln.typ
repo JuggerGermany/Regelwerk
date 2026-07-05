@@ -341,7 +341,7 @@ Um aktiv zu werden, müssen inaktive Feldspieler*innen aufstehen.
 
 Alle Feldspieler*innen stehen auf, indem sie die Hand vom Rücken nehmen oder das Knie vom Boden heben.
 Inaktive Pompfer*innen stehen auch auf, wenn sie den Jugg bewegen.
-Inaktive Läufer*innen stehen auch auf, wenn sie den Jugg bewegen oder mit einer Hand berühren.
+Inaktive Läufer*innen stehen auch auf, wenn sie den Jugg bewegen oder den Jugg mit einer Hand berühren, es sei denn der Jugg wird von einem*r anderen Spieler*in an die Hand bewegt.
 
 Feldspieler*innen dürfen aufstehen, sobald sie ihre Strafzeit vollständig gezählt haben.
 
@@ -356,6 +356,8 @@ In diesen Fällen erhalten sie eine Strafzeit von 5~Steinen und bleiben inaktiv.
   Knien Feldspieler*innen über ihre Strafzeit hinaus regelgerecht ab, bleiben sie inaktiv.
 
   Stehen Feldspieler*innen auf, nachdem kein Pin mehr besteht werden sie aktiv.
+
+  Werden inaktive Läufer*innen ohne ihr Zutun mit dem Jugg an einer Hand berührt, stehen sie nicht auf.
 ])
 
 == jugg platzieren <jugg_platz>
