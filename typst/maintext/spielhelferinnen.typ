@@ -26,7 +26,7 @@ Ein*e Spielhelfer*in muss
 
   Die Spielhelfer*innen, die Punkte zählen oder auf die Hörbarkeit der Steine achten, können auch weitere Aufgaben, wie zum Beispiel eine Schiedsrichter*innen Rolle, übernehmen.
 
-  Gegebenenfalls kann die*die Hauptschiedsrichter*in weitere Schiedsrichter*innen hinzuziehen. Diese übernehmen keine der oben beschriebenen Rollen können aber zum Beispiel andere Schiedsrichter*innen bei ihren Entscheidungen unterstützen.
+  Gegebenenfalls kann die*die Hauptschiedsrichter*in weitere Schiedsrichter*innen hinzuziehen. Diese übernehmen keine der oben beschriebenen Rollen, können aber zum Beispiel andere Schiedsrichter*innen bei ihren Entscheidungen unterstützen.
 
   In einem Spiel nach Steinen müssen die Steine gezählt werden. Dafür wird ein*e weitere*r Spielhelfer*in benötigt, der*die sich auch merkt, wie viele Steine zu Beginn eines Spielzuges noch übrig sind, um die Steine im Falle einer Wiederholung zurücksetzen zu können.
   Diese*r Spielhelfer*in muss
@@ -56,7 +56,7 @@ Nach einem gültig platzierten Jugg signalisieren die Schiedsrichter*innen das E
 Sie lassen den Spielzug nach einem ungültig platzierten Jugg weiterlaufen.
 
 #boxes.fluffbox([
-  Das initiale Signal, ob ein Jugg gültig oder ungültig platziert ist, geben normalerweise die Malrichter*innen.
+  Das initiale Signal, ob ein Jugg gültig oder ungültig platziert ist, geben im Allgemeinen die Malrichter*innen.
 
   Wurde der Jugg gültig
   platziert, wird dies mit dem Ruf „Jugg“ und dem Heben beider Arme über den Kopf angezeigt.
@@ -80,7 +80,7 @@ Während eines Spielzuges sollte sich der*die Nebenschiedsrichter*in an der Seit
 Er*Sie unterstützt den*die Hauptschiedsrichter*in bei der Spielleitung.
 
 #boxes.fluffbox([
-  Nebenschiedsrichter*innen übernehmen oft die Aufgabe des Punkte zählens.
+  Nebenschiedsrichter*innen übernehmen im Allgemeinen die Aufgabe des Punktezählens.
 ])
 
 === Malrichter*innen
@@ -98,7 +98,7 @@ Auf der Seite des ihnen zugewiesenen Mals signalisieren Malrichter*innen außerd
   Sie entscheiden selbstständig, ob ein Früh- (@fruehstart) oder Fehlstart (@fehlstart) vorliegt.
 ])
 
-== Spielleitung
+== Spielleitung <spielleitung>
 
 Die Spielleitung hat die Aufgabe,
 - den Spielzug einzuleiten,

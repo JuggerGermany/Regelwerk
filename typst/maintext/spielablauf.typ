@@ -57,7 +57,7 @@ Sobald ein Spielzug startet, dürfen die Feldspieler*innen das Spielfeld betret
 Vor einem Spielzug stellen sich die Feldspieler*innen beider Teams außerhalb des Spielfeldes an der Grundlinie auf, die dem Mal, auf das sie spielen, gegenüberliegt.
 
 #boxes.fluffbox([
-  Es kann vorkommen, dass ein Team den Spielzug mit Juggbesitz startet (bspw. @fruehstart). Daher liegt der Jugg in diesem Fall nicht auf dem Mittelpunkt des Spielfeldes liegen.
+  Es kann vorkommen, dass ein Team den Spielzug mit Juggbesitz startet (bspw. durch einen Frühstart @fruehstart). Daher liegt der Jugg in diesen Fällen nicht auf dem Mittelpunkt des Spielfeldes.
 
 
   Während der Aufstellung haben die Teams Zeit zur Erholung, für Taktikbesprechungen und für Ein- und Auswechslungen.
@@ -91,7 +91,7 @@ des Teams im Spielfeld befindet.
 Nach einem Fehlstart sollte der aktuelle Spielzug abgebrochen werden.
 
 #boxes.fluffbox([
-  Die Spielleitung kann davon absehen, einen Fehlstart zu ahnden, wenn er nicht zugrelevant ist.
+  Die Spielleitung (@spielleitung) kann davon absehen, einen Fehlstart zu ahnden, wenn er nicht zugrelevant ist.
 ])
 
 == Beenden eines Spielzugs
