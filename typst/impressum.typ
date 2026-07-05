@@ -4,7 +4,7 @@ CC 2026 Deutscher Jugger Sportverband \
 #weblink(url: "mailto:regelwerk@djsv.de", display: "regelwerk@djsv.de")
 
 
-#enum(enum.item(13)[bearbeitete Ausgabe 2026. Hrsg. von: Deutscher Jugger Verband.\ Bearbeitet von: Helene Glöckner, Mario Treiber, Max Vogel.])
+#enum(enum.item(14)[bearbeitete Ausgabe 2027. Hrsg. von: Deutscher Juggersport Verband.\ Bearbeitet von: Helene Glöckner, Mario Treiber, Max Vogel.])
 
 + Ausgabe 2007. Hrsg. von: Drachenblut-Forum \ Bearbeitet von: Ruben Wickenhäuser, Jakob Senst
 + Ausgabe 2010. Hrsg. von: Jugger-Community. \ Bearbeitet von: Ruben Wickenhäuser
@@ -18,11 +18,12 @@ CC 2026 Deutscher Jugger Sportverband \
 + bearbeitete Ausgabe 2021. Hrsg. von: Jugger Community.\ Bearbeitet von: Pit Albert, Jens-Cédric Höpfer, Manuel Kubat, Sarah Licht.
 + bearbeitete Ausgabe 2023. Hrsg. von: Jugger Community.\ Bearbeitet von: Pit Albert, Manuel Kubat, Felix Lang.
 + bearbeitete Ausgabe 2025. Hrsg. von: Jugger Community.\ Bearbeitet von: Pit Albert, Manuel Kubat
++ bearbeitete Ausgabe 2026. Hrsg. von: Deutscher Juggersport Verband.\ bearbeitet von: Helene Glöckner, Mario Treiber und Max Vogel. \
 
 
 Satz, Layout, Illustration und Deckblatt:
 Aaron Wilde – Jugger Consulting \
-Bearbeitung des Satzes (13. Ausgabe 2026):
+Bearbeitung des Satzes (14. Ausgabe 2027):
 Helene Glöckner, Mario Treiber und Max Vogel
 #align(left)[#image("images/by-nc-nd.svg", width: 3cm)]
 #pagebreak()
