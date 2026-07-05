@@ -20,9 +20,14 @@ Im Jugger wird in drei Altersklassen unterteilt:
 Kinder (bis 13 Jahre), Jugend (14 bis 17 Jahre) und Erwachsene (ab 18 Jahre).
 Es gibt reduzierte Maße für Spielmaterialien, die im Kinderbereich Anwendung finden.
 
+#heading(numbering: none, outlined: false)[Platzhalter FLuffbox-Erklärung]
+ToDo
 
 #heading(numbering: none, outlined: false)[Umgang mit ungeregelten Situationen]
 Jugger lebt durch den fairen Umgang der Spieler*innen miteinander.
 Im Allgemeinen lösen die Spieler*innen der gegeneinander antretenden Teams gemeinsam und selbstverantwortlich strittige Spielsituationen.
 Sie haben bei einer nicht geregelten Handlung das Vorrecht, die vorläufige Entscheidung gemeinsam zu treffen und deren Handhabung im weiteren Spielverlauf festzulegen.
 In Fällen von Uneinigkeit hat die Spielleitung das Vorrecht, die Entscheidung zu fällen, um den weiteren Spielfluss zu gewährleisten. Nach Ende des Spiels sollte der*die Veranstalter*in für die strittige Situation für den Zeitraum der Veranstaltung eine vorläufige Regelung festlegen.
+
+
+
