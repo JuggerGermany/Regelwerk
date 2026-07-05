@@ -11,8 +11,6 @@
   Mit Nahpompfen können außerdem andere Feldspieler*innen gepinnt werden (@pinnen).
   Mit allen Pompfen darf der Jugg berührt und bewegt werden (@pompfis).
 
-  Wird eine Pompfe während des Spiels unsicher oder nicht regelkonform, muss sie sofort aus dem Spiel entfernt werden (@beschaedigt).
-
   Stilisierten Waffen sind keine zulässigen Pompfen.
 
   Wird mit reduzierten Maßen gespielt, werden die Längenmaße der Pompfen angepasst.
@@ -22,6 +20,10 @@
 Im Spiel müssen sichere und regelkonforme Pompfen verwendet werden.
 Alle Pompfen müssen vor einem Spiel auf ihre Sicherheit und Übereinstimmung mit dem aktuellen Regelwerk überprüft werden.
 Pompfen dürfen keine scharfen Kanten haben.
+
+#boxes.fluffbox([
+  Wird eine Pompfe während des Spiels unsicher oder nicht regelkonform, muss sie sofort aus dem Spiel entfernt werden (@beschaedigt).
+])
 
 == Nahpompfen
 

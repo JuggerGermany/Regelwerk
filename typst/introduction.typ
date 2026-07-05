@@ -15,6 +15,9 @@ Erlaubnisse ermöglichen explizit ein bestimmtes Verhalten, sofern die für die
 Alle spielrelevanten Handlungen, die vom Regelwerk nicht abgedeckt werden, gelten als nicht geregelte Handlungen und können von Spieler*innen, Schiedsrichter*innen oder Veranstalter*innen vorläufig geregelt werden.
 Die Einschätzung der vorläufigen Regelung erfolgt unter gegenseitiger Rücksichtnahme und Fairness.
 
+#heading(numbering: none, outlined: false)[Platzhalter Fluffbox-Erklärung]
+ToDo
+
 #heading(numbering: none, outlined: false)[Kinder- und Jugendjugger]
 Im Jugger wird in drei Altersklassen unterteilt:
 Kinder (bis 13 Jahre), Jugend (14 bis 17 Jahre) und Erwachsene (ab 18 Jahre).
