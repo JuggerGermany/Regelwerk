@@ -64,7 +64,7 @@ Freimaße werden in kursiv angegeben und leiten sich aus den übrigen Maßen ab.
   "Maximale Länge", table.cell(rowspan: 2, "140 cm"), table.cell(rowspan: 2, "105 cm"),
   "Maximale Reichweite",
   "Minimale Schlagflächenlänge", "100 cm", "75 cm",
-  frei("Maximale Griffflächenlänge"), frei("40 cm"), frei("20 cm"),
+  frei("Maximale Griffflächenlänge"), frei("40 cm"), frei("30 cm"),
 )
 
 === Q-Tip
