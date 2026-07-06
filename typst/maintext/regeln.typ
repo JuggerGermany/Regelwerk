@@ -198,14 +198,14 @@ Ein Treffer ist gültig, wenn er sowohl gültig ausgeführt als auch gültig pla
 Ein Treffer ist gültig ausgeführt, wenn keine der folgenden Bedingungen erfüllt ist:
 
 - Der*die treffende Pompfer*in ist inaktiv.
-- Die treffende Pompfe wird nicht regelgerecht geführt.
+- Die treffende Pompfe wird nicht gültig geführt.
 - Die Pompfe ist von einer Kette umwickelt und trifft eine*n andere*n Feldspieler*in als den*die Kettenspieler*in.
 - Der*die treffende Kettenspieler*in wirft den Kettenball oder zieht die Kette auf dem Boden hinter sich her.
 - Die treffende Kette hat eine andere Pompfe umwickelt.
 - Er erfolgt durch eine Stichbewegung mit einem Stab.
 
 
-Zum regelgerechten Führen
+Zum gültigen Führen
 
 - der Kurzpompfe muss eine Hand die Grifffläche berühren,
 - von Langpompfen und Q-Tips müssen beide Hände die Grifffläche berühren,
@@ -290,14 +290,14 @@ Alle Ansagen müssen schnellstmöglich, laut und deutlich erfolgen.
   Um auszudrücken, dass kein Treffer platziert wurde, können Feldspieler*innen “Nichts” ansagen.
 ])
 
-== pinnen <pinnen>
+== Pinnen <pinnen>
 #boxes.fluffbox([
   Gepinnte Feldspieler*innen können nicht aufstehen (@aufstehen), ohne eine neue Strafzeit (@strafzeit) zu erhalten.
 ])
 
 Aktive Nahpompfer*innen können inaktive, regelkonform abkniende Feldspieler*innen pinnen.
 Aktive Nahpompfer*innen dürfen höchstens eine*n Feldspieler*in pinnen.
-Sie pinnen, indem sie mit der Schlagfläche einer regelgerecht geführten Pompfe die Trefferzone des*der inaktiven Feldspieler*in berühren.
+Sie pinnen, indem sie mit der Schlagfläche einer gültig geführten Pompfe die Trefferzone des*der inaktiven Feldspieler*in berühren.
 Sie pinnen, solange die Pompfe auf diese Weise den*die inaktive*n Feldspieler*in berührt.
 
 Eine Nahpompfer*in, dessen*deren Pompfe von einer Kette umwickelt ist, kann nicht pinnen.
@@ -336,7 +336,7 @@ Die Strafzeit ist abhängig vom Grund für den inaktiven Zustand. Sie beträgt:
 Inaktive Feldspieler*innen müssen ihre Strafzeit mit der auf dem Rücken liegenden Hand sichtbar von 1 beginnend zählen.
 Beträgt ihre Strafzeit mehr als 5 gezählte Steine, wird nach der vollen Hand erneut mit 1 begonnen.
 
-Mit dem ersten Stein, der ertönt, nachdem sie regelgerecht abknien, dürfen inaktive Feldspieler*innen beginnen, ihre Strafzeit zu zählen.
+Mit dem ersten Stein, der ertönt, nachdem sie gültig abknien, dürfen inaktive Feldspieler*innen beginnen, ihre Strafzeit zu zählen.
 Wenn sie gepinnt werden, dürfen inaktive Feldspieler*innen ihre Strafzeit ohne Unterbrechung weiterzählen.
 Sie müssen ihre Strafzeit jedoch von vorne zählen, wenn sie nicht regelkonform abknien oder zu früh aufstehen.
 
@@ -346,7 +346,7 @@ Sie müssen ihre Strafzeit jedoch von vorne zählen, wenn sie nicht regelkonfor
 
 ])
 
-=== aufstehen <aufstehen>
+=== Aufstehen <aufstehen>
 #boxes.fluffbox([
   Um aktiv zu werden, stehen inaktive Feldspieler*innen auf.
 
@@ -366,7 +366,7 @@ In diesen Fällen erhalten sie eine Strafzeit von 5~Steinen und bleiben inaktiv.
 
 
 #boxes.fluffbox([
-  Knien Feldspieler*innen über ihre Strafzeit hinaus regelgerecht ab, bleiben sie inaktiv.
+  Knien Feldspieler*innen über ihre Strafzeit hinaus gültig ab, bleiben sie inaktiv.
 
   Stehen Feldspieler*innen auf, nachdem kein Pin mehr besteht (@pinnen) werden sie aktiv.
 
@@ -374,7 +374,7 @@ In diesen Fällen erhalten sie eine Strafzeit von 5~Steinen und bleiben inaktiv.
 
 ])
 
-== jugg platzieren <jugg_platz>
+== Jugg platzieren <jugg_platz>
 #boxes.fluffbox([
   Ein Jugg wird gültig im Mal platziert, um einen Punkt zu erzielen (@punkten).
 ])
