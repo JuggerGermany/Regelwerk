@@ -106,12 +106,12 @@ Das hintere Ende einer Kette darf den Boden verlassen.\
 Wenn ihre Pompfe von einer Kette umwickelt ist oder ihre Kette eine Pompfe umwickelt hat, sollten sie dabei behilflich sein, die Pompfen zu entwickeln oder müssen sie loslassen, um den*die andere*n Feldspieler*in beim Abwickeln nicht zu behindern.
 Haben sie ihre Pompfe verloren, ist es ihnen verboten, diese wiederzuholen.
 
-Inaktive Pompfer*innen werden aktiv, wenn sie den Jugg bewegen.
+
 
 #boxes.fluffbox(
   [
     Inaktive Pompfer*innen können andere Feldspieler*innen nicht gültig treffen (@treffer_aus) oder pinnen (@pinnen).
-
+    Sie stehen auf (@aufstehen), wenn sie den Jugg bewegen.
   ],
 )
 
@@ -139,9 +139,15 @@ Aktive Läufer*innen dürfen mit anderen aktiven Läufer*innen in den Läufer*in
 === Inaktive Läufer*innen
 
 Inaktive Läufer*innen müssen den Jugg augenblicklich loslassen.
-Sie werden aktiv, wenn sie den Jugg bewegen oder mit einer Hand berühren.
 Es ist ihnen verboten, den Jugg zu verstecken oder mit dem Köper zu verdecken.
 Der Jugg muss für andere Feldspieler*innen erreichbar sein.
+
+#boxes.fluffbox(
+  [
+    Inaktive Läufer*innen können den Jugg nicht platzieren (@jugg_platz).
+    Sie stehen auf (@aufstehen), wenn sie den Jugg bewegen oder mit einer Hand berühren.
+  ],
+)
 
 
 === Läufer*innenkampf
@@ -349,8 +355,8 @@ Sie müssen ihre Strafzeit jedoch von vorne zählen, wenn sie nicht regelkonfor
 Feldspieler*innen dürfen aufstehen, sobald sie ihre Strafzeit vollständig gezählt haben.
 
 Alle Feldspieler*innen stehen auf, indem sie die Hand vom Rücken nehmen oder das Knie vom Boden heben.
-Inaktive Pompfer*innen stehen auch auf, wenn sie den Jugg bewegen.
-Inaktive Läufer*innen stehen auch auf, wenn sie den Jugg bewegen oder den Jugg mit einer Hand berühren, es sei denn der Jugg wird von einem*r anderen Spieler*in an die Hand bewegt.
+Inaktive Feldspieler*innen stehen auch auf, wenn sie den Jugg bewegen.
+Inaktive Läufer*innen stehen auch auf, wenn den Jugg mit einer Hand berühren, es sei denn der Jugg wird von einem*r anderen Spieler*in an die Hand bewegt.
 
 Feldspieler*innen werden aktiv, wenn sie aufstehen, außer
 - sie stehen auf, bevor sie ihre Strafzeit gezählt haben, oder
