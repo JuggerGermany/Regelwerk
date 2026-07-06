@@ -15,7 +15,7 @@ Erlaubnisse ermöglichen explizit ein bestimmtes Verhalten, sofern die für die
 Alle spielrelevanten Handlungen, die vom Regelwerk nicht abgedeckt werden, gelten als nicht geregelte Handlungen und können von Spieler*innen, Schiedsrichter*innen oder Veranstalter*innen vorläufig geregelt werden.
 Die Einschätzung der vorläufigen Regelung erfolgt unter gegenseitiger Rücksichtnahme und Fairness.
 
-#heading(numbering: none, outlined: false)[Platzhalter Fluffbox-Erklärung]
+#heading(numbering: none, outlined: false)[Platzhalter Erklärungsbox]
 ToDo
 
 #heading(numbering: none, outlined: false)[Kinder- und Jugendjugger]

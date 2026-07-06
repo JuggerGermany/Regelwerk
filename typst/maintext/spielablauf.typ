@@ -67,7 +67,7 @@ Vor einem Spielzug stellen sich die Feldspieler*innen beider Teams außerhalb de
 === Bereitschaft signalisieren
 
 Sobald beide Teams signalisiert haben, dass sie bereit sind den nächsten Spielzug zu starten, sollte der Countdown zum nächsten Spielzug von der Spielleitung auf „Achtung-3-2-1-Jugger!“ gesetzt werden.
-Dieses Startsignal muss im Takt von fünf aufeinanderfolgenden Steinen gerufen werden und der Spielzug beginnt mit dem Stein auf den Ausruf „Jugger!“.
+Dieses Startsignal muss im Takt von fünf aufeinanderfolgenden Steinen gerufen werden und der Spielzug startet mit dem Stein auf den Ausruf „Jugger!“.
 
 #boxes.fluffbox([
   Teams können ihre Bereitschaft zum Beispiel dadurch signalisieren, dass ein*e Spieler*in, typischerweise die Läufer*in des nächsten Zuges, den Arm hebt.
@@ -75,7 +75,7 @@ Dieses Startsignal muss im Takt von fünf aufeinanderfolgenden Steinen gerufen 
 
 === Frühstart <fruehstart>
 
-Ein Team begeht einen Frühstart, wenn sich ein*e Spieler*in des Teams während des Startsignals, aber vor dem Ausruf "Jugger" bereits im Spielfeld befindet.
+Ein Team begeht einen Frühstart, wenn sich ein*e Spieler*in des Teams während des Startsignals, aber vor dem Start des Spielzugs, bereits im Spielfeld befindet.
 Für den ersten Frühstart sollte die Spielleitung das jeweilige Team verwarnen.
 Für jeden weiteren Frühstart im Spiel sollte das jeweilige Team durch Jugg-Besitz für die Gegenseite benachteiligt werden.
 Die Spielleitung darf im eigenen Ermessen von der Benachteiligung absehen, wenn der Frühstart nicht durch das zu früh gestartete Team zu verantworten ist.
@@ -97,13 +97,13 @@ Nach einem Fehlstart sollte der aktuelle Spielzug abgebrochen werden.
 == Beenden eines Spielzugs
 
 #boxes.fluffbox([
-  Solange der Jugg nicht gültig platziert und der Spielzug nicht abgebrochen wurde, läuft der Spielzug weiter.
+  Solange der Jugg nicht gültig platziert (@jugg_platz) und der Spielzug nicht abgebrochen wurde, läuft der Spielzug weiter.
 ])
 
 === Einen Punkt erzielen <punkten>
 
 Wurde der Jugg gültig in einem Mal platziert, wird der Punkt dem Team, das auf dieses Mal spielt, zugesprochen und der aktuelle Spielzug endet.
-Wurde der Jugg durch inaktive Läufer*innen ungültig platziert sollte er von den Spielhelfer*innen oder Spieler*innen aus dem Mal genommen und daneben gelegt werden.
+Wurde der Jugg durch inaktive Läufer*innen ungültig platziert, sollte er von den Spielhelfer*innen oder Spieler*innen aus dem Mal genommen und daneben gelegt werden.
 
 #boxes.fluffbox([
   Wird der Jugg durch eine*n aktive Läufer*in ungültig platziert, muss er nicht aus dem Mal genommen werden. Unter Umständen kann der Jugg durch das Loslassen einer*s inaktiven Läufer*in gültig platziert werden. Auch dann punktet das Team und der Spielzug endet (@jugg_platz).

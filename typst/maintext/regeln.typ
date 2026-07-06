@@ -103,7 +103,7 @@ Sie dürfen den Jugg nicht mit der Pompfe tragen.
 Inaktive Pompfer*innen sollten die Pompfen, die sie führen, flach auf den Boden legen.
 Schilde dürfen stattdessen mit einem beliebigen Teil am Boden gehalten werden.
 Das hintere Ende einer Kette darf den Boden verlassen.\
-Wenn ihre Pompfe von einer Kette umwickelt ist oder ihre Kette eine Pompfe umwickelt hat, sollten sie dabei behilflich sein, die Pompfen zu entwickeln oder müssen sie loslassen, um den*die andere*n Feldspieler*in beim Abwickeln nicht zu behindern.
+Wenn ihre Pompfe von einer Kette umwickelt ist oder ihre Kette eine Pompfe umwickelt hat, sollten inakitve Pompfer*innen dabei behilflich sein, die Pompfen zu entwickeln oder müssen sie loslassen, um den*die andere*n Feldspieler*in beim Abwickeln nicht zu behindern.
 Haben sie ihre Pompfe verloren, ist es ihnen verboten, diese wiederzuholen.
 
 
@@ -128,7 +128,7 @@ Sie müssen den kürzesten Weg vom Spielfeldrand zum Jugg nehmen und so schnell 
   [
     Wenn Läufer*innen den Jugg mit der Hand berühren, ist der Jugg Teil ihrer Trefferzone (@trefferzone).
 
-    Läufer*innen, die den Jugg zurück ins Spielfeld bewegen verstoßen nicht gegen das Aus (@aus).
+    Läufer*innen, die den Jugg zurück ins Spielfeld bewegen, verstoßen nicht gegen das Aus (@aus).
   ],
 )
 
@@ -292,7 +292,7 @@ Alle Ansagen müssen schnellstmöglich, laut und deutlich erfolgen.
 
 == Pinnen <pinnen>
 #boxes.fluffbox([
-  Gepinnte Feldspieler*innen können nicht aufstehen (@aufstehen), ohne eine neue Strafzeit (@strafzeit) zu erhalten.
+  Feldspieler*innen, für die ein Pin besteht, können nicht aufstehen (@aufstehen), ohne eine neue Strafzeit (@strafzeit) zu erhalten.
 ])
 
 Aktive Nahpompfer*innen können inaktive, gültig abkniende Feldspieler*innen pinnen.
@@ -331,7 +331,7 @@ Die Strafzeit ist abhängig vom Grund für den inaktiven Zustand. Sie beträgt:
 - Nach einem Verstoß gegen das Aus  5 gezählte Steine.
 - Nach einem gültigen Treffer durch eine Nahpompfe 5 gezählte Steine.
 - Nach einem gültigen Treffer durch eine Kette 8 gezählte Steine.
-- Nach einem Aufstehen während eines bestehenden Pins sind es 5 Steine.
+- Nach einem Aufstehen während eines bestehenden Pins 5 gezählte Steine.
 
 Inaktive Feldspieler*innen müssen ihre Strafzeit mit der auf dem Rücken liegenden Hand sichtbar von 1 beginnend zählen.
 Beträgt ihre Strafzeit mehr als 5 gezählte Steine, wird nach der vollen Hand erneut mit 1 begonnen.
@@ -370,7 +370,6 @@ In diesen Fällen erhalten sie eine Strafzeit von 5~Steinen und bleiben inaktiv.
 
   Stehen Feldspieler*innen auf, nachdem kein Pin mehr besteht (@pinnen) werden sie aktiv.
 
-  Werden inaktive Läufer*innen ohne ihr Zutun mit dem Jugg an einer Hand berührt, stehen sie nicht auf.
 
 ])
 
