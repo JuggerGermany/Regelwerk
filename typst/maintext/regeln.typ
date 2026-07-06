@@ -295,7 +295,7 @@ Alle Ansagen müssen schnellstmöglich, laut und deutlich erfolgen.
   Gepinnte Feldspieler*innen können nicht aufstehen (@aufstehen), ohne eine neue Strafzeit (@strafzeit) zu erhalten.
 ])
 
-Aktive Nahpompfer*innen können inaktive, regelkonform abkniende Feldspieler*innen pinnen.
+Aktive Nahpompfer*innen können inaktive, gültig abkniende Feldspieler*innen pinnen.
 Aktive Nahpompfer*innen dürfen höchstens eine*n Feldspieler*in pinnen.
 Sie pinnen, indem sie mit der Schlagfläche einer gültig geführten Pompfe die Trefferzone des*der inaktiven Feldspieler*in berühren.
 Sie pinnen, solange die Pompfe auf diese Weise den*die inaktive*n Feldspieler*in berührt.
@@ -315,11 +315,11 @@ Sobald ein*e Feldspieler*in nicht mehr gepinnt wird, besteht der Pin bis zum nä
   Feldspieler*innen zeigen durch Abknien an, dass sie inaktiv sind (@inaktiv_feldspielis). Sie knien an der Stelle ab, an der sie inaktiv geworden sind, und verharren dort, bis sie wieder aktiv sind.
 ])
 
-Inaktive Feldspieler*innen knien regelkonform ab, wenn
+Inaktive Feldspieler*innen knien gültig ab, wenn
 - sie mit keinem Teil ihres Körpers das Aus berühren und
 - sie mit einem Knie den Boden berühren und
 - eine ihrer Hände auf dem Rücken liegt.
-Solange sie regelkonform abknien, dürfen sie sich beliebig drehen.
+Solange sie gültig abknien, dürfen sie sich beliebig drehen.
 
 === Strafzeit <strafzeit>
 
@@ -338,7 +338,7 @@ Beträgt ihre Strafzeit mehr als 5 gezählte Steine, wird nach der vollen Hand e
 
 Mit dem ersten Stein, der ertönt, nachdem sie gültig abknien, dürfen inaktive Feldspieler*innen beginnen, ihre Strafzeit zu zählen.
 Wenn sie gepinnt werden, dürfen inaktive Feldspieler*innen ihre Strafzeit ohne Unterbrechung weiterzählen.
-Sie müssen ihre Strafzeit jedoch von vorne zählen, wenn sie nicht regelkonform abknien oder zu früh aufstehen.
+Sie müssen ihre Strafzeit jedoch von vorne zählen, wenn sie nicht gültig abknien oder zu früh aufstehen.
 
 #boxes.fluffbox([
   Nachdem sie ihre Strafzeit gezählt haben, dürfen inaktive Feldspieler*innen
