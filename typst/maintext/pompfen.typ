@@ -5,11 +5,11 @@
 #boxes.fluffbox([
 
   Pompfen sind die beim Jugger genutzten Sportgeräte.
-  Sie sind unterteilt in Schilde (@schild), Ketten (@kette) und die vier Nahpompfen: Kurzpompfe (@kp), Langpompfe (@lp), Q-Tip (@qt) und Stab (@stab).
+  Sie sind unterteilt in Schilde~(@schild), Ketten~(@kette) und die vier Nahpompfen: Kurzpompfe~(@kp), Langpompfe~(@lp), Q-Tip~(@qt) und Stab~(@stab).
 
-  Mit Ketten und Nahpompfen können Pompfer*innen andere Feldspieler*innen treffen (@treffer).
-  Mit Nahpompfen können außerdem andere Feldspieler*innen gepinnt werden (@pinnen).
-  Mit allen Pompfen darf der Jugg berührt und bewegt werden (@pompfis).
+  Mit Ketten und Nahpompfen können Pompfer*innen andere Feldspieler*innen treffen~(@treffer).
+  Mit Nahpompfen können außerdem andere Feldspieler*innen gepinnt werden~(@pinnen).
+  Mit allen Pompfen darf der Jugg berührt und bewegt werden~(@pompfis).
 
   Stilisierten Waffen sind keine zulässigen Pompfen.
 
@@ -22,7 +22,7 @@ Alle Pompfen müssen vor einem Spiel auf ihre Sicherheit und Übereinstimmung mi
 Pompfen dürfen keine scharfen Kanten haben.
 
 #boxes.fluffbox([
-  Wird eine Pompfe während des Spiels unsicher oder nicht regelkonform, muss sie sofort aus dem Spiel entfernt werden (@beschaedigt).
+  Wird eine Pompfe während des Spiels unsicher oder nicht regelkonform, muss sie sofort aus dem Spiel entfernt werden~(@beschaedigt).
 ])
 
 == Nahpompfen
@@ -38,7 +38,7 @@ Der Kernstab darf das Ende der Schlagfläche bei angemessener Krafteinwirkung ni
 
 
 #boxes.fluffbox([
-  Die Grifffläche ist der Bereich einer Nahpompfe, an welchem sie gültig geführt werden kann (@treffer_aus).
+  Die Grifffläche ist der Bereich einer Nahpompfe, an welchem sie gültig geführt werden kann~(@treffer_aus).
 ])
 
 Bei Kurzpompfen, Langpompfen und Stäben muss das abschließende Ende der Grifffläche, der Knauf, gepolstert werden.
@@ -48,7 +48,7 @@ Der Knauf muss stabil am übrigen Griff befestigt sein.
 == Schlagfläche
 
 #boxes.fluffbox([
-  Die Schlagfläche ist der rund gepolsterte Bereich einer Nahpompfe, welcher für das gültige Treffen (@treffer_platz) und Pinnen (@pinnen) genutzt werden kann. Jede Schlagfläche hat eine Stechspitze (@stechspitze). Die Stechspitze ist Teil der Schlagfläche.
+  Die Schlagfläche ist der rund gepolsterte Bereich einer Nahpompfe, welcher für das gültige Treffen~(@treffer_platz) und Pinnen~(@pinnen) genutzt werden kann. Jede Schlagfläche hat eine Stechspitze~(@stechspitze). Sie ist Teil der Schlagfläche.
 
   Wird mit reduzierten Maßen gespielt, bleibt der Mindestdurchmesser der Schlagflächen und Stechspitzen unverändert.
 
@@ -86,9 +86,9 @@ Die minimale Länge der Schlagfläche mit Spitze beträgt dann #strong[50_cm].
 
 #boxes.fluffbox([
 
-  Die Kurzpompfe wird in Kombination mit einem Schild oder einer zweiten Kurzpompfe geführt (@feldspielis).
+  Die Kurzpompfe wird in Kombination mit einem Schild oder einer zweiten Kurzpompfe geführt~(@feldspielis).
 
-  Die Kurzpompfe kann nur gültig geführt werden, wenn die Hand des*der Pompfer*in die Grifffläche berührt (@treffer_aus).
+  Die Kurzpompfe kann nur gültig geführt werden, wenn die Hand des*der Pompfer*in die Grifffläche berührt~(@treffer_aus).
   Mit der Kurzpompfe darf gestochen werden.
 
 ])
@@ -110,7 +110,7 @@ Wird mit reduzierten Maßen gespielt, beträgt die maximale Länge der Lang-?pom
 Die minimale Länge der Schlagfläche mit Spitze beträgt dann #strong[75_cm].
 
 #boxes.fluffbox([
-  Die Langpompfe kann nur gültig geführt werden, wenn die Hände des*der Pompfer*in die Grifffläche berühren (@treffer_aus).
+  Die Langpompfe kann nur gültig geführt werden, wenn die Hände des*der Pompfer*in die Grifffläche berühren~(@treffer_aus).
   Mit der Langpompfe darf gestochen werden.
 ])
 
@@ -130,7 +130,7 @@ Die maximale Reichweite beträgt dann #strong[105_cm] und die minimale Länge de
 Die maximale Länge der Grifffläche beträgt #strong[60_cm].
 
 #boxes.fluffbox([
-  Der Q-Tip kann nur gültig geführt werden, wenn die Hände des*der Pompfer*in die Grifffläche berühren (@treffer_aus).
+  Der Q-Tip kann nur gültig geführt werden, wenn die Hände des*der Pompfer*in die Grifffläche berühren~(@treffer_aus).
   Mit dem Q-Tip darf gestochen werden.
 ])
 
@@ -153,9 +153,9 @@ Die maximale Reichweite beträgt dann #strong[83_cm] und die minimale Länge der
 Die Manschette ist weiterhin #strong[1_cm] dicker als die vordere Grifffläche.
 
 #boxes.fluffbox([
-  Der Stab kann nur gültig geführt werden, wenn beide Hände des*der Pompfer*in die Griffflächen berühren und beide Griffflächen von den Händen des*der Pompfer*in berührt werden (@treffer_aus).
+  Der Stab kann nur gültig geführt werden, wenn beide Hände des*der Pompfer*in die Griffflächen berühren und beide Griffflächen von den Händen des*der Pompfer*in berührt werden~(@treffer_aus).
 
-  Wie alle Teile der Pompfe darf die Manschette des Stabes keine scharfen Kanten haben (@pompfen).
+  Wie alle Teile der Pompfe darf die Manschette des Stabes keine scharfen Kanten haben~(@pompfen).
 ])
 
 #figure(
@@ -174,8 +174,8 @@ Wird mit reduzierten Maßen gespielt, beträgt der maximale Durchmesser des Schi
 
 
 #boxes.fluffbox([
-  Der Schild wird in Kombination mit einer Kurzpompfe geführt (@feldspielis).
-  Mit dem Schild kann weder getroffen (@treffer_aus), noch gepinnt (@pinnen) werden, aber der Jugg darf mit dem Schild bewegt werden (@pompfis).
+  Der Schild wird in Kombination mit einer Kurzpompfe geführt~(@feldspielis).
+  Mit dem Schild kann weder getroffen~(@treffer_aus), noch gepinnt~(@pinnen) werden, aber der Jugg darf mit dem Schild bewegt werden~(@pompfis).
 ])
 
 #figure(image("/typst/images/schild.jpg"), caption: "Schildmaße")
@@ -198,9 +198,9 @@ Der Mindestdurchmesser des Balls und die Länge der Handschlaufe bleiben unverä
 
 #boxes.fluffbox(
   [
-    Eine Kette kann nur gültig geführt werden, wenn  die Handschlaufe die Hand oder den Arm des*der Kettenspieler*in berührt (@treffer_aus).
+    Eine Kette kann nur gültig geführt werden, wenn  die Handschlaufe die Hand oder den Arm des*der Kettenspieler*in berührt~(@treffer_aus).
 
-    Mit der Kette kann nicht gepinnt werden (@pinnen).
+    Mit der Kette kann nicht gepinnt werden~(@pinnen).
   ],
 )
 

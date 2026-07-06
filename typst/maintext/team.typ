@@ -30,7 +30,7 @@ Die übrigen Feldspieler*innen müssen Nahpompfer*innen sein.
 #boxes.fluffbox([
   Sowohl Läufer*innen als auch Pompfer*innen dürfen zwischen Spielzügen beliebig oft ein- und ausgewechselt werden.
 
-  Nur im Fall des Austauschs einer beschädigten oder nicht mehr regelkonformen Pompfe, können sich die Pompfen, die Feldspieler*innen führen, während eines Zugs ändern (@beschaedigt).
+  Nur im Fall des Austauschs einer beschädigten oder nicht mehr regelkonformen Pompfe, können sich die Pompfen, die Feldspieler*innen führen, während eines Zugs ändern~(@beschaedigt).
 ])
 
 == Kleidung <kleidung>

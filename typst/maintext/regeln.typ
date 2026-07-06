@@ -49,7 +49,7 @@ Sie werden inaktiv, wenn sie gültig getroffen werden oder  gegen das Aus verst
 
 Feldspieler*innen ist es verboten
 - mit unnötiger Härte zu agieren.
-- ungebremst in andere Feldspieler*innen zu laufen oder zu springen, d. h. sie müssen vor einer möglichen Kollision abstoppen.
+- ungebremst in andere Feldspieler*innen zu laufen oder zu springen, d.~h. sie müssen vor einer möglichen Kollision abstoppen.
 - ruckartig an einer Kette zu reißen oder zu zerren, die eine Pompfe oder ein Körperteil umwickelt und gespannt ist.
 - den Jugg so ins Aus zu bewegen, dass er für andere Feldspieler*innen nicht erreichbar ist.
 - den Jugg mit den Füßen zu bewegen.
@@ -65,7 +65,7 @@ Sie dürfen sich auf dem Spielfeld bewegen.
 === Inaktive Feldspieler*innen <inaktiv_feldspielis>
 
 #boxes.fluffbox([
-  Im inaktiven Zustand können Feldspieler*innen weder Treffer gültig ausführen (@treffer_aus) oder pinnen (@pinnen), noch kann an ihnen ein Treffer gültig platziert werden (@treffer_platz).
+  Im inaktiven Zustand können Feldspieler*innen weder Treffer gültig ausführen~(@treffer_aus) oder pinnen~(@pinnen), noch kann an ihnen ein Treffer gültig platziert werden~(@treffer_platz).
 
 ])
 
@@ -84,17 +84,17 @@ Pompfer*innen dürfen mit dem Jugg interagieren, indem sie ihn mit der Pompfe be
 Sie dürfen den Jugg nicht mit der Pompfe tragen.
 
 #boxes.fluffbox([
-  Die Hand von Nahpompfer*innen ist nur Teil der Trefferzone (@trefferzone), wenn sie keine Pompfe berührt, die der*die Nahpompfer*in führt.
+  Die Hand von Nahpompfer*innen ist nur Teil der Trefferzone~(@trefferzone), wenn sie keine Pompfe berührt, die der*die Nahpompfer*in führt.
 
-  Während Pompfer*innen eine beschädigte Pompfe aus dem Spiel entfernt und sich eine neue holen (@beschaedigt), dürfen sie nicht mit dem Jugg interagieren. Sie können Treffer weder gültig ausführen noch pinnen.
+  Während Pompfer*innen eine beschädigte Pompfe aus dem Spiel entfernt und sich eine neue holen~(@beschaedigt), dürfen sie nicht mit dem Jugg interagieren. Sie können Treffer weder gültig ausführen noch pinnen.
 ])
 
 === Aktive Pompfer*innen
 
 #boxes.fluffbox(
   [
-    Aktive Pompfer*innen können am Spielgeschehen teilnehmen. Zum Beispiel indem sie mit Nahpompfen oder Ketten andere Feldspieler*innen treffen (@treffer).
-    Aktive Nahpompfer*innen können eine*n inaktive*n Feldspieler*in pinnen (@pinnen).
+    Aktive Pompfer*innen können am Spielgeschehen teilnehmen. Zum Beispiel indem sie mit Nahpompfen oder Ketten andere Feldspieler*innen treffen~(@treffer).
+    Aktive Nahpompfer*innen können eine*n inaktive*n Feldspieler*in pinnen~(@pinnen).
   ],
 )
 
@@ -110,8 +110,8 @@ Haben sie ihre Pompfe verloren, ist es ihnen verboten, diese wiederzuholen.
 
 #boxes.fluffbox(
   [
-    Inaktive Pompfer*innen können andere Feldspieler*innen nicht gültig treffen (@treffer_aus) oder pinnen (@pinnen).
-    Sie stehen auf (@aufstehen), wenn sie den Jugg bewegen.
+    Inaktive Pompfer*innen können andere Feldspieler*innen nicht gültig treffen~(@treffer_aus) oder pinnen~(@pinnen).
+    Sie stehen auf~(@aufstehen), wenn sie den Jugg bewegen.
   ],
 )
 
@@ -126,9 +126,9 @@ Sie müssen den kürzesten Weg vom Spielfeldrand zum Jugg nehmen und so schnell 
 
 #boxes.fluffbox(
   [
-    Wenn Läufer*innen den Jugg mit der Hand berühren, ist der Jugg Teil ihrer Trefferzone (@trefferzone).
+    Wenn Läufer*innen den Jugg mit der Hand berühren, ist der Jugg Teil ihrer Trefferzone~(@trefferzone).
 
-    Läufer*innen, die den Jugg zurück ins Spielfeld bewegen, verstoßen nicht gegen das Aus (@aus).
+    Läufer*innen, die den Jugg zurück ins Spielfeld bewegen, verstoßen nicht gegen das Aus~(@aus).
   ],
 )
 
@@ -144,8 +144,8 @@ Der Jugg muss für andere Feldspieler*innen erreichbar sein.
 
 #boxes.fluffbox(
   [
-    Inaktive Läufer*innen können den Jugg nicht platzieren (@jugg_platz).
-    Sie stehen auf (@aufstehen), wenn sie den Jugg bewegen oder mit einer Hand berühren.
+    Inaktive Läufer*innen können den Jugg nicht platzieren~(@jugg_platz).
+    Sie stehen auf~(@aufstehen), wenn sie den Jugg bewegen oder mit einer Hand berühren.
   ],
 )
 
@@ -161,7 +161,7 @@ Läufer*innen ist es im Läufer*innenkampf verboten
 - den*die Gegner*in zu schlagen oder zu treten oder ihn*sie außerhalb der Angriffsfläche anzugreifen.
 - so zu werfen, dass der*die angegriffene Läufer*in mit beiden Beinen den Boden verlässt oder so zu Boden gebracht wird, dass er*sie mit dem Kopf oder mit dem Oberkörper zuerst aufkommt.
 - Hebel einzusetzen, indem Extremitäten an oder über den Anschlagspunkt der Gelenke hinaus bewegt werden.
-- an Extremitäten ruckartig zu reißen oder zu zerren (z. B. durch Stoppen des*der laufenden Gegners*in am Unterarm).
+- an Extremitäten ruckartig zu reißen oder zu zerren (z.~B. durch Stoppen des*der laufenden Gegners*in am Unterarm).
 - den*die Gegner*in im Lauf zu stoßen.
 - in den*die Gegner*in hinein zu rennen oder zu springen.
 - den*die Gegner*in an der Kleidung zu ziehen.
@@ -179,7 +179,7 @@ Durch den Verstoß gegen das Aus werden Feldspieler*innen inaktiv.
 
 #boxes.fluffbox(
   [
-    Die Strafzeit für den Verstoß gegen das Aus beträgt 5 Steine (@strafzeit), wenn nicht bereits eine andere Strafzeit besteht.
+    Die Strafzeit für den Verstoß gegen das Aus beträgt 5~Steine~(@strafzeit), wenn nicht bereits eine andere Strafzeit besteht.
   ],
 )
 
@@ -213,10 +213,11 @@ Zum gültigen Führen
 - der Kette muss die Handschlaufe eine Hand oder einen Arm des*der Kettenspieler*in berühren. Die Kette muss geschwungen werden.
 
 #boxes.fluffbox([
-  Ungültig ausgeführte Treffer müssen angesagt werden (@ansagen).
+  Ungültig ausgeführte Treffer müssen angesagt werden~(@ansagen).
+
   Um einen Teil einer Pompfe zu berühren, genügt die Berührung mit einem beliebigen Teil des entsprechenden Körperteils.
 
-  Eine Stichbewegung mit dem Stab führt nicht nur zu einem ungültig ausgeführten Treffer, sondern ist auch verboten (@stab).
+  Eine Stichbewegung mit dem Stab führt nicht nur zu einem ungültig ausgeführten Treffer, sondern ist auch verboten~(@stab).
 ])
 
 === Gültig platzierte Treffer <treffer_platz>
@@ -243,7 +244,7 @@ getroffen wird, ist der Treffer gültig platziert.
 
 === Trefferzone <trefferzone>
 #boxes.fluffbox([
-  Die Trefferzone ist der Bereich am Körper der Feldspieler*innen, an dem Treffer gültig platziert werden können (@treffer_platz).
+  Die Trefferzone ist der Bereich am Körper der Feldspieler*innen, an dem Treffer gültig platziert werden können~(@treffer_platz).
 ])
 
 
@@ -255,7 +256,7 @@ Die Hand einer*s Nahpompfer*in ist nur Trefferzone, wenn sie keine Pompfe berüh
 Die Handgelenke sind Teil der Trefferzone.
 
 #boxes.fluffbox([
-  Treffer am Kopf oder an den Händen müssen angesagt werden (@ansagen).
+  Treffer am Kopf oder an den Händen müssen angesagt werden~(@ansagen).
 ])
 
 
@@ -267,18 +268,18 @@ Werden Spieler*innen gültig getroffen, während sie gleichzeitig andere Feldsp
 Ist es diesen Spieler*innen nicht möglich zu unterscheiden, welche Spieler*in zuerst gültig getroffen wurde, gelten die Treffer als gleichzeitig. Alle solche Treffer sind gültig.
 
 #boxes.fluffbox([
-  Doppeltreffer müssen angesagt werden (@ansagen).
+  Doppeltreffer müssen angesagt werden~(@ansagen).
 
   Die Entscheidung auf Doppeltreffer liegt im Ermessen der beteiligten Spieler*innen. In Streitfällen haben die Spielhelfer*innen das letzte Wort.
 ])
 
 === Ansagen <ansagen>
 
-Feldspieler*innen müssen Doppeltreffer mit “Doppel!” ansagen.
+Feldspieler*innen müssen Doppeltreffer mit „Doppel!“ ansagen.
 Gegebenenfalls werden sie dabei von Spielhelfer*innen unterstützt.
 
 Wenn ein Treffer außerhalb der Trefferzone platziert wird, müssen die getroffenen Feldspieler*innen dies ansagen.
-Treffer an der Kopfzone müssen mit “Kopf!” und Treffer an einer Hand, die eine Pompfe berührt, mit “Hand!” angesagt werden.
+Treffer an der Kopfzone müssen mit „Kopf!“ und Treffer an einer Hand, die eine Pompfe berührt, mit „Hand!“ angesagt werden.
 
 Führen Spieler*innen Treffer ungültig aus, müssen sie dies den getroffenen Spieler*innen mitteilen.
 
@@ -287,12 +288,12 @@ Alle Ansagen müssen schnellstmöglich, laut und deutlich erfolgen.
 #boxes.fluffbox([
   Ansagen helfen Spieler*innen und Spielhelfer*innen Trefferverhältnisse zu beschreiben und den Spielfluss aufrecht zu halten.
 
-  Um auszudrücken, dass kein Treffer platziert wurde, können Feldspieler*innen “Nichts” ansagen.
+  Um auszudrücken, dass kein Treffer platziert wurde, können Feldspieler*innen „Nichts!“ ansagen.
 ])
 
 == Pinnen <pinnen>
 #boxes.fluffbox([
-  Feldspieler*innen, für die ein Pin besteht, können nicht aufstehen (@aufstehen), ohne eine neue Strafzeit (@strafzeit) zu erhalten.
+  Feldspieler*innen, für die ein Pin besteht, können nicht aufstehen~(@aufstehen), ohne eine neue Strafzeit~(@strafzeit) zu erhalten.
 ])
 
 Aktive Nahpompfer*innen können inaktive, gültig abkniende Feldspieler*innen pinnen.
@@ -306,13 +307,13 @@ Für Feldspieler*innen, die ihre Strafzeit ausgezählt haben, besteht ein Pin, w
 Sobald ein*e Feldspieler*in nicht mehr gepinnt wird, besteht der Pin bis zum nächsten Stein, der erklingt.
 
 #boxes.fluffbox([
-  Nahpompfer*innen können zu einem beliebigen Zeitpunkt aufhören zu pinnen, z. B. um aktive Feldspieler*innen zu treffen oder andere Feldspieler*innen zu pinnen, und danach weiter pinnen.
+  Nahpompfer*innen können zu einem beliebigen Zeitpunkt aufhören zu pinnen, z.~B. um aktive Feldspieler*innen zu treffen oder andere Feldspieler*innen zu pinnen, und danach weiter pinnen.
 ])
 
 == Abknien <abknien>
 
 #boxes.fluffbox([
-  Feldspieler*innen zeigen durch Abknien an, dass sie inaktiv sind (@inaktiv_feldspielis). Sie knien an der Stelle ab, an der sie inaktiv geworden sind, und verharren dort, bis sie wieder aktiv sind.
+  Feldspieler*innen zeigen durch Abknien an, dass sie inaktiv sind~(@inaktiv_feldspielis). Sie knien an der Stelle ab, an der sie inaktiv geworden sind, und verharren dort, bis sie wieder aktiv sind.
 ])
 
 Inaktive Feldspieler*innen knien gültig ab, wenn
@@ -328,21 +329,21 @@ Solange sie gültig abknien, dürfen sie sich beliebig drehen.
 ])
 
 Die Strafzeit ist abhängig vom Grund für den inaktiven Zustand. Sie beträgt:
-- Nach einem Verstoß gegen das Aus  5 gezählte Steine.
-- Nach einem gültigen Treffer durch eine Nahpompfe 5 gezählte Steine.
-- Nach einem gültigen Treffer durch eine Kette 8 gezählte Steine.
-- Nach einem Aufstehen während eines bestehenden Pins 5 gezählte Steine.
+- Nach einem Verstoß gegen das Aus 5~gezählte Steine.
+- Nach einem gültigen Treffer durch eine Nahpompfe 5~gezählte Steine.
+- Nach einem gültigen Treffer durch eine Kette 8~gezählte Steine.
+- Nach einem Aufstehen während eines bestehenden Pins 5~gezählte Steine.
 
 Inaktive Feldspieler*innen müssen ihre Strafzeit mit der auf dem Rücken liegenden Hand sichtbar von 1 beginnend zählen.
-Beträgt ihre Strafzeit mehr als 5 gezählte Steine, wird nach der vollen Hand erneut mit 1 begonnen.
+Beträgt ihre Strafzeit mehr als 5~gezählte Steine, wird nach der vollen Hand erneut mit 1 begonnen.
 
 Mit dem ersten Stein, der ertönt, nachdem sie gültig abknien, dürfen inaktive Feldspieler*innen beginnen, ihre Strafzeit zu zählen.
 Wenn sie gepinnt werden, dürfen inaktive Feldspieler*innen ihre Strafzeit ohne Unterbrechung weiterzählen.
-Sie müssen ihre Strafzeit jedoch von vorne zählen, wenn sie nicht gültig abknien oder zu früh aufstehen.
 
 #boxes.fluffbox([
   Nachdem sie ihre Strafzeit gezählt haben, dürfen inaktive Feldspieler*innen
-  aufstehen.
+  aufstehen. Stehen sie davor auf, müssen sie die Strafzeit von vorne zählen~(@aufstehen). \  
+  Strafzeiten die von inaktive Feldspieler*innen gezählt werden, bevor sie abknien zählen nicht.
 
 ])
 
@@ -358,24 +359,24 @@ Alle Feldspieler*innen stehen auf, indem sie die Hand vom Rücken nehmen oder d
 Inaktive Feldspieler*innen stehen auch auf, wenn sie den Jugg bewegen.
 Inaktive Läufer*innen stehen auch auf, wenn den Jugg mit einer Hand berühren, es sei denn der Jugg wird von einem*r anderen Spieler*in an die Hand bewegt.
 
-Feldspieler*innen werden aktiv, wenn sie aufstehen, außer
-- sie stehen auf, bevor sie ihre Strafzeit gezählt haben, oder
-- sie stehen auf, obwohl für sie ein Pin besteht.
+Feldspieler*innen werden aktiv, wenn sie aufstehen, außer sie stehen auf,
+- bevor sie ihre Strafzeit gezählt haben, oder
+- obwohl für sie ein Pin besteht.
 
-In diesen Fällen erhalten sie eine Strafzeit von 5~Steinen und bleiben inaktiv.
+Stehen sie auf, bevor sie ihre Strafzeit gezählt haben, müssen sie ihre Strafzeit von vorne zählen. Stehen sie auf, obwohl für sie ein Pin besteht erhalten sie eine neue Strafzeit von 5~Steinen.
 
 
 #boxes.fluffbox([
   Knien Feldspieler*innen über ihre Strafzeit hinaus gültig ab, bleiben sie inaktiv.
 
-  Stehen Feldspieler*innen auf, nachdem kein Pin mehr besteht (@pinnen) werden sie aktiv.
+  Stehen Feldspieler*innen auf, nachdem kein Pin mehr besteht~(@pinnen) werden sie aktiv.
 
 
 ])
 
 == Jugg platzieren <jugg_platz>
 #boxes.fluffbox([
-  Ein Jugg wird gültig im Mal platziert, um einen Punkt zu erzielen (@punkten).
+  Ein Jugg wird gültig im Mal platziert, um einen Punkt zu erzielen~(@punkten).
 ])
 
 Ein*e aktive*r Läufer*in kann den Jugg platzieren, indem er*sie ihn in die Malöffnung bewegt.

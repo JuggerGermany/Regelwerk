@@ -10,7 +10,7 @@ Das Intervall zwischen zwei aufeinander folgenden Steinen beträgt #strong[1,5 S
 
 
 #boxes.fluffbox([
-  Ein Spielzug wird mit einem Startsignal eröffnet (@einleiten)  und endet mit dem Erzielen eines Punktes oder einem Zugabbruch (@abbruch).
+  Ein Spielzug wird mit einem Startsignal eröffnet~(@einleiten)  und endet mit dem Erzielen eines Punktes oder einem Zugabbruch~(@abbruch).
 
   Jugger kann nach Steinen oder nach Sätzen gespielt werden. Ein Spiel nach Sätzen kann über eine festgelegte maximale Dauer zeitlich begrenzt werden.
 ])
@@ -20,11 +20,11 @@ Das Intervall zwischen zwei aufeinander folgenden Steinen beträgt #strong[1,5 S
 
 
     Ziel bei einem Spiel nach Steinen ist es, mit dem eigenen Team innerhalb einer festgelegten Spieldauer mehr Punkte zu erzielen als das Team der Gegenseite.
-    Im Allgemeinen setzt sich ein Spiel nach Steinen aus *2~Halbzeiten* zusammen, welche jeweils aus *100~Steinen* bestehen.
+   \ Im Allgemeinen setzt sich ein Spiel nach Steinen aus *2~Halbzeiten* zusammen, welche jeweils aus *100~Steinen* bestehen.
     Zwischen den Halbzeiten gibt es eine Pause, in der die Teams die Seiten wechseln.
     Für die Dauer der Spielzüge werden die Steine mitgezählt.
     Nach einem Spielzug wird das Zählen der Steine unterbrochen und erst zu Beginn eines neuen Spielzugs fortgesetzt.
-    Sind die Steine einer Halbzeit abgelaufen, wird der Spielzug beendet.
+    Sind die Steine einer Halbzeit abgelaufen, wird der Spielzug beendet.\
     Das Team, das am Ende der Spielzeit die meisten Punkte erzielt hat, gewinnt das Spiel.
     Haben beide Teams gleich viele Punkte am Ende der Spielzeit, gilt die Regel des Golden Jugg.
     Bei einem Golden Jugg wird ein neuer Spielzug eingeleitet.
@@ -35,9 +35,9 @@ Das Intervall zwischen zwei aufeinander folgenden Steinen beträgt #strong[1,5 S
 
 #boxes.fluffbox(
   [
-    Ziel bei einem Spiel nach Sätzen ist es, mit dem eigenen Team eine festgelegte Anzahl an Sätzen mit einer festgelegten Anzahl an Punkten zu gewinnen.
+    Ziel bei einem Spiel nach Sätzen ist es, mit dem eigenen Team eine festgelegte Anzahl an Sätzen mit einer festgelegten Anzahl an Punkten zu gewinnen.\
     Ein Spiel nach Sätzen kann sich zum Beispiel aus *2~Gewinnsätzen* mit je *5~Gewinnpunkten* zusammensetzen.
-    Zwischen den Sätzen gibt es eine Pause, in der die Teams die Seiten wechseln.
+    Zwischen den Sätzen gibt es eine Pause, in der die Teams die Seiten wechseln.\
     Das Team, das zuerst die festgelegte Anzahl an Sätzen gewonnen hat, gewinnt das Spiel.
   ],
   title: "Spiel nach Sätzen",
@@ -57,7 +57,7 @@ Sobald ein Spielzug startet, dürfen die Feldspieler*innen das Spielfeld betret
 Vor einem Spielzug stellen sich die Feldspieler*innen beider Teams außerhalb des Spielfeldes an der Grundlinie auf, die dem Mal, auf das sie spielen, gegenüberliegt.
 
 #boxes.fluffbox([
-  Es kann vorkommen, dass ein Team den Spielzug mit Juggbesitz startet (bspw. durch einen Frühstart @fruehstart). Daher liegt der Jugg in diesen Fällen nicht auf dem Mittelpunkt des Spielfeldes.
+  Es kann vorkommen, dass ein Team durch einen Frühstart~(@fruehstart) den Spielzug mit Juggbesitz startet. In diesen Fällen liegt der Jugg zu Zugbeginn nicht auf dem Mittelpunkt des Spielfeldes.
 
 
   Während der Aufstellung haben die Teams Zeit zur Erholung, für Taktikbesprechungen und für Ein- und Auswechslungen.
@@ -91,13 +91,13 @@ des Teams im Spielfeld befindet.
 Nach einem Fehlstart sollte der aktuelle Spielzug abgebrochen werden.
 
 #boxes.fluffbox([
-  Die Spielleitung (@spielleitung) kann davon absehen, einen Fehlstart zu ahnden, wenn er nicht zugrelevant ist.
+  Die Spielleitung~(@spielleitung) kann davon absehen, einen Fehlstart zu ahnden, wenn er nicht zugrelevant ist.
 ])
 
 == Beenden eines Spielzugs
 
 #boxes.fluffbox([
-  Solange der Jugg nicht gültig platziert (@jugg_platz) und der Spielzug nicht abgebrochen wurde, läuft der Spielzug weiter.
+  Solange der Jugg nicht gültig platziert~(@jugg_platz) und der Spielzug nicht abgebrochen wurde, läuft der Spielzug weiter.
 ])
 
 === Einen Punkt erzielen <punkten>
@@ -106,13 +106,13 @@ Wurde der Jugg gültig in einem Mal platziert, wird der Punkt dem Team, das auf
 Wurde der Jugg durch inaktive Läufer*innen ungültig platziert, sollte er von den Spielhelfer*innen oder Spieler*innen aus dem Mal genommen und daneben gelegt werden.
 
 #boxes.fluffbox([
-  Wird der Jugg durch eine*n aktive Läufer*in ungültig platziert, muss er nicht aus dem Mal genommen werden. Unter Umständen kann der Jugg durch das Loslassen einer*s inaktiven Läufer*in gültig platziert werden. Auch dann punktet das Team und der Spielzug endet (@jugg_platz).
+  Wird der Jugg durch eine*n aktive Läufer*in ungültig platziert, muss er nicht aus dem Mal genommen werden. Unter Umständen kann der Jugg durch das Loslassen einer*s inaktiven Läufer*in gültig platziert werden. Auch dann punktet das Team und der Spielzug endet~(@jugg_platz).
 ])
 
 === Abbruch <abbruch>
 
 
-Spielzüge sollten abgebrochen werden, sobald die Sicherheit oder das Fairplay der Spieler*innen nicht mehr gewährleistet ist, z. B. durch
+Spielzüge sollten abgebrochen werden, sobald die Sicherheit oder das Fairplay der Spieler*innen nicht mehr gewährleistet ist, z.~B. durch
 - eine Verletzung,
 - unsportliches Verhalten oder
 - zu viele Spieler*innen, Fremdpersonen, Tiere oder spielfremde, gefährdende Gegenstände auf dem Spielfeld.

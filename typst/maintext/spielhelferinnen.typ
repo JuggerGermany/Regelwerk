@@ -31,7 +31,7 @@ Ein*e Spielhelfer*in muss
   In einem Spiel nach Steinen müssen die Steine gezählt werden. Dafür wird ein*e weitere*r Spielhelfer*in benötigt, der*die sich auch merkt, wie viele Steine zu Beginn eines Spielzuges noch übrig sind, um die Steine im Falle einer Wiederholung zurücksetzen zu können.
   Diese*r Spielhelfer*in muss
   - nach jedem Zug die Reststeine bekannt geben,
-  - die letzten 10 Steine jeder Halbzeit laut ansagen und
+  - die letzten 10~Steine jeder Halbzeit laut ansagen und
   - das Ende einer Halbzeit ansagen.
 
 ])
@@ -95,7 +95,7 @@ Auf der Seite des ihnen zugewiesenen Mals signalisieren Malrichter*innen außerd
 #boxes.fluffbox([
 
   Die Malrichter*innen starten den Spielzug an gegenüberliegenden Ecken des Spielfeldes und verbleiben auf dieser Seite, um Platzierungsversuche zu beurteilen und das Startverhalten der Teams zu beobachten.
-  Sie entscheiden selbstständig, ob ein Früh- (@fruehstart) oder Fehlstart (@fehlstart) vorliegt.
+  Sie entscheiden selbstständig, ob ein Früh-~(@fruehstart) oder Fehlstart~(@fehlstart) vorliegt.
 ])
 
 == Spielleitung <spielleitung>
@@ -106,7 +106,7 @@ Die Spielleitung hat die Aufgabe,
 - Malrichter*innen zu bestätigen, wenn ein Punkt anerkannt wurde.
 
 #boxes.fluffbox([
-  Falls es Halbzeiten gibt, achtet die Spielleitung darauf, dass die Halbzeitpause nicht länger als 5 Minuten dauert.
+  Falls es Halbzeiten gibt, achtet die Spielleitung darauf, dass die Halbzeitpause nicht länger als 5~Minuten dauert.
   Im Spiel nach Steinen hat die Spielleitung außerdem die Aufgabe,
   - nach jedem Spielzug zu verkünden, wie viele Steine verbleiben und
   - gegebenfalls den Golden Jugg anzukündigen.
