@@ -34,7 +34,7 @@ Nahpompfen bestehen aus einem Kernstab und angemessenen Polsterungen.
 Um Verletzungen vorzubeugen, müssen Kernstäbe, die leicht splittern, mit einem nichtsplitternden, durchstechsicheren, flexiblen Material umhüllt werden.
 Der Kernstab darf das Ende der Schlagfläche bei angemessener Krafteinwirkung nicht durchstechen.
 
-== Grifffläche
+=== Grifffläche
 
 
 #boxes.fluffbox([
@@ -45,7 +45,7 @@ Bei Kurzpompfen, Langpompfen und Stäben muss das abschließende Ende der Grifff
 Bei moderatem Daumendruck, sowohl auf das abschließende Ende als auch auf die Seiten des Knaufs, dürfen keine harten Kanten spürbar sein.
 Der Knauf muss stabil am übrigen Griff befestigt sein.
 
-== Schlagfläche
+=== Schlagfläche
 
 #boxes.fluffbox([
   Die Schlagfläche ist der rund gepolsterte Bereich einer Nahpompfe, welcher für das gültige Treffen~(@treffer_platz) und Pinnen~(@pinnen) genutzt werden kann. Jede Schlagfläche hat eine Stechspitze~(@stechspitze). Sie ist Teil der Schlagfläche.
@@ -62,7 +62,7 @@ Der Kernstab darf durch die Polsterung der Schlagfläche bei moderatem Daumendru
 Das hintere Ende der Schlagfläche befindet sich auf der der Grifffläche zugewandten Seite.
 Am vorderen Ende der Schlagfläche muss sich eine Stechspitze befinden.
 
-== Stechspitze <stechspitze>
+=== Stechspitze <stechspitze>
 
 Alle Schlagflächen müssen mit Stechspitzen ausgestattet sein.
 Die Stechspitze befindet sich am vorderen Ende einer Schlagfläche.
