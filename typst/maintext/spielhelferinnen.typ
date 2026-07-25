@@ -101,6 +101,7 @@ Auf der Seite des ihnen zugewiesenen Mals signalisieren Malrichter*innen außerd
 == Spielleitung <spielleitung>
 
 Die Spielleitung hat die Aufgabe,
+- vor jedem Spielzug festzulegen, welches Team auf welches Mal spielt,
 - den Spielzug einzuleiten,
 - Verwarnungen und Juggbesitz in Folge von Frühstarts zu erteilen und
 - Malrichter*innen zu bestätigen, wenn ein Punkt anerkannt wurde.

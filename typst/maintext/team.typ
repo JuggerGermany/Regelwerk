@@ -33,6 +33,9 @@ Die übrigen Feldspieler*innen müssen Nahpompfer*innen sein.
   Nur im Fall des Austauschs einer beschädigten oder nicht mehr regelkonformen Pompfe, können sich die Pompfen, die Feldspieler*innen führen, während eines Zugs ändern~(@beschaedigt).
 ])
 
+== zugehörige Grundlinie <grundlinie>
+In einem Spielzug ist die Grundlinie die dem Mal, auf das das Team spielt, gegenüberliegt, die dem Team zugehörige Grundlinie.
+
 == Kleidung <kleidung>
 
 Alle Spieler*innen und Spielhelfer*innen müssen den Torso mit einem oder mehreren Kleidungsstücken bedecken und Beinkleider tragen.

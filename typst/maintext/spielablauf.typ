@@ -20,8 +20,8 @@ Das Intervall zwischen zwei aufeinander folgenden Steinen beträgt #strong[1,5 S
 
 
     Ziel bei einem Spiel nach Steinen ist es, mit dem eigenen Team innerhalb einer festgelegten Spieldauer mehr Punkte zu erzielen als das Team der Gegenseite.
-   \ Im Allgemeinen setzt sich ein Spiel nach Steinen aus *2~Halbzeiten* zusammen, welche jeweils aus *100~Steinen* bestehen.
-    Zwischen den Halbzeiten gibt es eine Pause, in der die Teams die Seiten wechseln.
+    \ Im Allgemeinen setzt sich ein Spiel nach Steinen aus *2~Halbzeiten* zusammen, welche jeweils aus *100~Steinen* bestehen.
+    Zwischen den Halbzeiten gibt es eine Pause, in der die Teams das Mal auf das sie spielen wechseln.\
     Für die Dauer der Spielzüge werden die Steine mitgezählt.
     Nach einem Spielzug wird das Zählen der Steine unterbrochen und erst zu Beginn eines neuen Spielzugs fortgesetzt.
     Sind die Steine einer Halbzeit abgelaufen, wird der Spielzug beendet.\
@@ -37,7 +37,7 @@ Das Intervall zwischen zwei aufeinander folgenden Steinen beträgt #strong[1,5 S
   [
     Ziel bei einem Spiel nach Sätzen ist es, mit dem eigenen Team eine festgelegte Anzahl an Sätzen mit einer festgelegten Anzahl an Punkten zu gewinnen.\
     Ein Spiel nach Sätzen kann sich zum Beispiel aus *2~Gewinnsätzen* mit je *5~Gewinnpunkten* zusammensetzen.
-    Zwischen den Sätzen gibt es eine Pause, in der die Teams die Seiten wechseln.\
+    Zwischen den Sätzen gibt es eine Pause, in der die Teams das Mal auf das sie spielen wechseln.\
     Das Team, das zuerst die festgelegte Anzahl an Sätzen gewonnen hat, gewinnt das Spiel.
   ],
   title: "Spiel nach Sätzen",
@@ -52,11 +52,16 @@ Um eine zeitliche Begrenzung zwischen Spielzügen zu schaffen, darf die Spiellei
 Die verbleibenden Steine bis zum nächsten Spielzugbeginn sollten dabei laut angesagt werden.
 Mindestens der 10.,~5. und die letzten drei Steine müssen angesagt werden.
 Ein Spielzug startet mit dem darauffolgenden Stein und wird mit „Jugger!“ angesagt.
-Sobald ein Spielzug startet, dürfen die Feldspieler*innen das Spielfeld betreten.
+
+Sobald ein Spielzug startet dürfen Spieler*innen das Spielfeld betreten.
+Sie dürfen das Spielfeld nur an der zugehörgen Grundlinie betreten.
 
 Vor einem Spielzug stellen sich die Feldspieler*innen beider Teams außerhalb des Spielfeldes an der Grundlinie auf, die dem Mal, auf das sie spielen, gegenüberliegt.
 
 #boxes.fluffbox([
+
+  Vor einem Spielzug muss festgelegt werden, welches Team auf welches Mal spielt (@spielleitung).
+
   Es kann vorkommen, dass ein Team durch einen Frühstart~(@fruehstart) den Spielzug mit Juggbesitz startet. In diesen Fällen liegt der Jugg zu Zugbeginn nicht auf dem Mittelpunkt des Spielfeldes.
 
 
