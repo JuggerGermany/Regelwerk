@@ -68,41 +68,33 @@ Eine kurze Einführung zu Github gibt es [hier](https://docs.github.com/de/get-s
 
 ## Beispiel
 
-1. Wenn ihr eine fork des Repos habt und bspw einen Typo in der Datei `pompfen/kette.typ` fixen möchtet, müsst ihr zunächst das repo forken und clonen, um es lokal auf dem Rechner zu haben (wenn ihr diesen Schritt schonmal gemacht habt, könnt ihr direkt zu Schritt 3 springen, wenn ihr in dem Regelwerk-Ordner auf eurem Rechner seid).
-
-In der Benutzeroberfläche von Github gibt es die Option das Repo zu forken. in eurer Fork müsst ihr dann auf den `Code`-Button clicken um den Link zum Clonen zu finden. Clont dann eure fork. Das erzeugt automatisch den remote link `origin`
-
-`git clone <eure fork>`
-
+1. Wenn ihr eine fork des Repos habt und bspw einen Typo in der Datei `pompfen/kette.typ` fixen möchtet, müsst ihr zunächst das repo forken und clonen, um es lokal auf dem Rechner zu haben (wenn ihr diesen Schritt schonmal gemacht habt, könnt ihr direkt zu Schritt 3 springen, wenn ihr in dem Regelwerk-Ordner auf eurem Rechner seid).\
+In der Benutzeroberfläche von Github gibt es die Option das Repo zu forken. in eurer Fork müsst ihr dann auf den `Code`-Button clicken um den Link zum Clonen zu finden. Clont dann eure fork. Das erzeugt automatisch den remote link `origin`\
+`git clone <eure fork>`\
 `cd Regelwerk`
 
-
-2. Setzt das Hauptrepo als upstream (das erspart das manuelle syncen im Browser)
-`git remote add upstream https://github.com/JuggerGermany/Regelwerk.git`
-
-um einmal zu checken, ob das funktioniert hat, könnt ihr einmal checken, ob sowohl eure fork, alsauch das Hauptrepo angezeigt werden:
+1. Setzt das Hauptrepo als upstream (das erspart das manuelle syncen im Browser)\
+`git remote add upstream https://github.com/JuggerGermany/Regelwerk.git`\
+um einmal zu checken, ob das funktioniert hat, könnt ihr einmal checken, ob sowohl eure fork, alsauch das Hauptrepo angezeigt werden:\
 `git remote -v`
 
-4. aktualisiert das lokale repo mit der aktuellen offiziellen Version auf Github
-
-`git switch main`
+1. aktualisiert das lokale repo mit der aktuellen offiziellen Version auf Github\
+`git switch main`\
 `git pull upstream main`
 
-5. erzeugt einen neuen branch für euren typo fix
-
+1. erzeugt einen neuen branch für euren typo fix\
 `git switch -c typo_fix_kette`
 
-6. Ändert eure `typst/pompfen/kette.typ`
-7. Fügt die Änderungen, die ihr gemacht habt, zu eurem lokalen Repository hinzu. und beschreibt sie mit einer sprechenden Commit-message.
+1. Ändert eure `typst/pompfen/kette.typ`
 
-`git add pompon/kette.typ`
-
+1. Fügt die Änderungen, die ihr gemacht habt, zu eurem lokalen Repository hinzu. und beschreibt sie mit einer sprechenden Commit-message.\
+`git add pompon/kette.typ`\
 `git commit -m "typo fix in kette.typ"`
 
-8. push der Änderungen in eure fork bei GitHub (bis hier ist sie nur auf eurem Computer!)
-
+1. push der Änderungen in eure fork bei GitHub (bis hier ist sie nur auf eurem Computer!)\
 `git push origin typo_fix_kette`
-9. In GitHub könnt ihr jetzt einen Pull Request von eurem branch `typo_fix_kette` auf das Hauptrepository erstellen 
+
+1. In GitHub könnt ihr jetzt einen Pull Request von eurem branch `typo_fix_kette` auf das Hauptrepository erstellen 
 
 Natürlich müsst ihr oben den Link zu eurer persönlichen Fork ersetzen und könnt den Branch auch anders nennen oder die Commit message ändern. 
 
