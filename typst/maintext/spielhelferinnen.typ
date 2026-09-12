@@ -3,112 +3,169 @@
 
 #boxes.fluffbox(
 	[
+		Juggerspiele können durch Spielhelfer*innen begleitet werden. Sie schaffen die Rahmenbedingungen für den Spielablauf.
 		Ergänzend zu diesem Regelwerk gibt es auf #weblink(url: "https://www.jugger.org/files/public/public/leitfaden-fuer-schiedsrichter.pdf", display: "jugger.org") einen Leitfaden für Schiedsrichter*innen, der genauer auf mögliche Spielsituationen und Handlungsmöglichkeiten eingeht.
 		Es wird empfohlen, diesen Leitfaden zu kennen, auch wenn er nicht Teil des offiziellen Regelwerks ist.
 	],
 )
 
-Ein Juggerspiel wird von mindestens einem*einer Spielhelfer*in begleitet.
-Schiedsrichter*innen sind Teil der Spielhelfer*innen und Spielhelfer*innen können generell Aufgaben der Schiedsrichter*innen übernehmen. Ein offizielles Juggerspiel wird von mindestens vier Schiedsrichter*innen begleitet. Diese unterteilen sich in
-- eine*n Hauptschiedsrichter*in,
-- eine*n Nebenschiedsrichter*in und
-- zwei Malrichter*innen.
+Spielhelfer*innen übernehmen die Spielleitung. Schiedsrichter*innen sind ebenfalls Spielhelfer*innen.
 
-Alle Spielhelfer*innen haben die Aufgabe,
-- einen reibungslosen Spielablauf zu gewährleisten und
-- den Jugg falls nötig ins Spielfeld zurückzubewegen.
+Spielhelfer*innen haben die folgenden Aufgaben:
 
-Ein*e Spielhelfer*in muss
-- die Punkte zählen und
-- darauf achten, dass die Steine gut hörbar sind.
+- Einen durch eine*n inaktive*n Läufer*in ungültig platzierten Jugg aus dem Mal zu nehmen,
+- Den Jugg ins Feld zurückzubewegen wenn er ins Aus bewegt wurde und
+- Den Punktestand festzuhalten.
+
 
 #boxes.fluffbox(
 	[
-		Die Spielhelfer*innen, die Punkte zählen oder auf die Hörbarkeit der Steine achten, können auch weitere Aufgaben, wie zum Beispiel eine Schiedsrichter*innen Rolle, übernehmen.
-
-		Gegebenenfalls kann die*die Hauptschiedsrichter*in weitere Schiedsrichter*innen hinzuziehen. Diese übernehmen keine der oben beschriebenen Rollen, können aber zum Beispiel andere Schiedsrichter*innen bei ihren Entscheidungen unterstützen.
-
-		In einem Spiel nach Steinen müssen die Steine gezählt werden. Dafür wird ein*e weitere*r Spielhelfer*in benötigt, der*die sich auch merkt, wie viele Steine zu Beginn eines Spielzuges noch übrig sind, um die Steine im Falle einer Wiederholung zurücksetzen zu können.
-		Diese*r Spielhelfer*in muss
-		- nach jedem Zug die Reststeine bekannt geben,
-		- die letzten 10~Steine jeder Halbzeit laut ansagen und
-		- das Ende einer Halbzeit ansagen.
-	],
-)
-
-== Schiedsrichter*innen
-#boxes.fluffbox([
-	Die Schiedsrichter*innen verschaffen den Spielregeln Geltung. Sie versuchen die Sicherheit der Spieler*innen zu gewährleisten.
-])
-
-Alle Schiedsrichter*innen dürfen das Feld betreten, wenn sie die Laufwege von Feldspieler*innen nicht behindern.
-
-Alle Schiedsrichter*innen haben die Aufgabe
-- das Spielgeschehen zu beobachten,
-- einen Spielzug zu beenden durch das Zusprechen eines Punktes oder einen Abbruch,
-- einen Spielzug gegebenenfalls zu wiederholen,
-- Hinweise auf unnötige Härte und Verletzung entgegenzunehmen,
-- auf wiederholtes unsportliches Verhalten aufmerksam zu machen,
-- einen von einem*r inaktiven Läufer*in ungültig platzierten Jugg gegebenenfalls aus dem Mal zu entfernen und
-- gegebenenfalls Strafen zu verhängen.
-
-Nach einem gültig platzierten Jugg signalisieren die Schiedsrichter*innen das Ende des Spielzuges.
-Sie lassen den Spielzug nach einem ungültig platzierten Jugg weiterlaufen.
-
-#boxes.fluffbox([
-	Das initiale Signal, ob ein Jugg gültig oder ungültig platziert ist, geben im Allgemeinen die Malrichter*innen.
-
-	Wurde der Jugg gültig
-	platziert, wird dies mit dem Ruf „Jugg“ und dem Heben beider Arme über den Kopf angezeigt.
-	Wurde der Jugg nicht gültig platziert, wird das mit dem Ruf „Weiter, kein Jugg!“ und dem Schwenken beider Arme vor dem Körper angezeigt.
-])
-
-=== Hauptschiedsrichter*in
-Kommen die Schiedsrichter*innen zu keiner Einigung, trifft der*die Hauptschiedsrichter*in die Entscheidung. Er*Sie übernimmt die Spielleitung.
-
-Während eines Spielzuges sollte sich der*die Hauptschiedsrichter*in an der Seitenlinie befinden.
-Er*Sie sollte vor allem das Spielgeschehen auf seiner*ihrer Seite des Spielfeldes und in der Feldmitte beobachten.
-
-#boxes.fluffbox([
-	Der*Die Hauptschiedsrichter*in startet den Spielzug in der Mitte des Spielfeldes.
-])
-
-=== Nebenschiedsrichter*in
-Während eines Spielzuges sollte sich der*die Nebenschiedsrichter*in an der Seitenlinie gegenüber dem*der Hauptschiedsrichter*in befinden und den Jugg verfolgen. Er*Sie sollte vor allem das Spielgeschehen auf seiner*ihrer Seite des Spielfeldes und in der Feldmitte beobachten.
-
-Er*Sie unterstützt den*die Hauptschiedsrichter*in bei der Spielleitung.
-
-#boxes.fluffbox([
-	Nebenschiedsrichter*innen übernehmen im Allgemeinen die Aufgabe des Punktezählens.
-])
-
-=== Malrichter*innen
-Jedem*r Malrichter*in wird ein Mal zugewiesen.
-
-Während eines Spielzuges sollte sich der*die Malrichter*in an der Auslinie der Hälfte des ihm*ihr zugewiesenen Mals befinden.
-
-Malrichter*innen signalisieren für das ihnen zugewiesene Mal ob ein Jugg gültig oder ungültig platziert ist.
-
-Auf der Seite des ihnen zugewiesenen Mals signalisieren Malrichter*innen außerdem Früh- und Fehlstarts und brechen den Spielzug gegebenenfalls ab.
-
-#boxes.fluffbox(
-	[
-		Die Malrichter*innen starten den Spielzug an gegenüberliegenden Ecken des Spielfeldes und verbleiben auf dieser Seite, um Platzierungsversuche zu beurteilen und das Startverhalten der Teams zu beobachten.
-		Sie entscheiden selbstständig, ob ein Früh-~(@fruehstart) oder Fehlstart~(@fehlstart) vorliegt.
+		Alle Spielhelfer*innen müssen den Torso mit einem oder mehreren Kleidungstücken bedecken und Beinkleider tragen. (@kleidung)
 	],
 )
 
 == Spielleitung <spielleitung>
+#boxes.fluffbox([
+	Die Spielleitung sorgt für den formalen Ablauf eines Spiels und der Spielzüge.
+])
 
-Die Spielleitung hat die Aufgabe,
-- festzulegen, welches Team auf welches Mal spielt,
-- den Spielzug einzuleiten,
-- Verwarnungen und Juggbesitz in Folge von Frühstarts zu erteilen und
-- Malrichter*innen zu bestätigen, wenn ein Punkt anerkannt wurde.
+Die Spielleitung hat die folgenden Aufgabe:
+
+- Starten und Beenden des Spiels,
+- Befolgen des Spielmodus,
+- Festlegen, welches Team auf welches Mal spielt,
+- Einleiten von Spielzügen,
+- Beenden von Zügen, wenn ein Punkt anerkannt wurde und
+- Abbrechen von Zügen.
 
 #boxes.fluffbox([
-	Falls es Halbzeiten gibt, achtet die Spielleitung darauf, dass die Halbzeitpause nicht länger als 5~Minuten dauert.
-	Im Spiel nach Steinen hat die Spielleitung außerdem die Aufgabe,
-	- nach jedem Spielzug zu verkünden, wie viele Steine verbleiben und
-	- gegebenfalls den Golden Jugg anzukündigen.
+	Züge können aufgrund von Störungen, Verletzungen, einer direkten, korrektiven Maßnahme, bei Erreichen der maximalen Spielzeit oder im Fall eines Patts abgebrochen werden.
 ])
+
+=== Schiedsrichter*innen <schiedsys>
+
+#boxes.fluffbox([
+	Die Schiedsricher*innen begleiten ein Juggerspiel und achten darauf, dass die Spieler*innen die Spielregeln befolgen. Sie können Maßnahmen ergreifen, um das Spiel fair und sicher zu gestalten. 
+])
+
+Alle Schiedsrichter*innen sind unparteiisch. Sie haben die Aufgaben das Spielgeschehen zu beobachten. Darunter fallen unter anderem:
+
+- Interaktionen mit dem Jugg,
+- Treffer,
+- Strafzeiten,
+- Pins und
+- Der respektvolle und faire Umgang der Teams miteinander.
+
+Zu dem beobachteten Spielgeschehen treffen sie basierend auf diesem Regelwerk Entscheidungen und Beschlüsse, die zu Maßnahmen führen.
+
+Die Schiedsrichter*innen werden vor Spielbeginn von den Teams informiert, ob die Teams sich auf abweichende Läufer*innenkampfregeln festgelegt haben. Die Schiedsrichter*innen dürfen beschließen die Einigungen abzulehnen.
+
+Schiedsrichter*innen müssen 
+
+- Früh- und Fehlstarts,
+- Gültig platzierte Juggs,
+- Ungültig platzierte Juggs und
+- Das Beenden und Abbrechen von Spielzügen
+
+signalisieren.
+
+Während eines Spielzuges sollten sich Schiedsrichter*innen so bewegen, dass sie ihre Aufgaben erfüllen können. Sie dürfen zum Erfüllen ihrer Aufgaben das Spielfeld betreten. Sie sollten dabei nur so viel wie nötig in das Spielgeschehen eingreifen.
+
+Ergreifen Schiedsrichter*innen im Spielgeschehen vorgeschriebene oder korrektive Maßnahmen, müssen sie diese deutlich und verständlich kommunizieren, so dass insbesondere die Betroffen sie befolgen können.
+
+Spieler*innen sollten die direkte, korrektiven Maßnahmen der Schiedsrichter*innen befolgen, es sei denn die betroffenen Spieler*innen beider Teams haben sich über den Sachverhalt geeinigt. Übergreifende, korrektive Maßnahmen in Folge von Beschlüssen müssen in allen Fällen befolgt werden.
+
+Außerdem dürfen Schiedsrichter*innen die Regelkonformität von Pompfen und verwendeter Schutzkleidung überprüfen und regelunkonforme Pompfen und Schutzkleidung vom Spiel ausschließen.
+
+=== Entscheidungen <entscheidungen>
+#boxes.fluffbox(
+	[Schiedsrichter*innen treffen Entscheidungen im Verlauf eines Spielzugs. ]
+)
+
+Entscheidungen umfassen alle Beurteilungen des Spielgeschehens eines*r Schiedsrichter*in, unabhängig davon, ob sie kommuniziert werden oder nicht.
+
+Darunter fallen unter anderem
+
+- Beurteilen von Interaktionen mit dem Jugg inklusive Platziervorgängen,
+- Beurteilen von gültigen und ungültigen Treffern,
+- Beurteilen von inaktiven Spieler*innen, inkl. Aufstehvorgängen und Pins,
+- Beurteilen von Läufer*innenkämpfen,
+- Beurteilen von Verstößen gegen das Aus,
+- Urteilen über Früh- und Fehlstarts und
+- Urteilen über Vorteilssituationen.
+
+Als Folge einer Entscheidung muss
+
+- eine vorgeschriebene Maßnahme ergriffen werden,
+- nach Fehlverhalten eine oder mehrere direkte, korrektive Maßnahmen ergriffen werden,
+- nach dem Zug ein Beschluss gefasst werden oder
+- nichts passieren.
+
+Die Folge einer Entscheidung kann auch nach dem Zug durch einen Beschluss festgelegt oder angepasst werden.
+
+#boxes.fluffbox([
+	Insbesondere die Folgen einer Fehlentscheidung können in einem Beschluss angepasst werden.
+	Sollten Schiedsrichter*innen entscheiden Treffer für gültig oder ungültig zu erklären, sollten sie gegebenfalls Dritte über die Folgen der Maßnahme informieren, indem sie Strafzeiten vergeben oder aufheben.
+])
+
+=== Vorgeschriebene Maßnahmen <vor_massnahmen>
+#boxes.fluffbox(
+	[
+		Vorgeschriebene Maßnahmen sind die Folgen einer Regelung. Haben Schiedsrichter*innen entsprechende Entscheidungen getroffen, müssen sie diese Maßnahmen ergreifen.
+	],
+)
+
+Es gibt folgende vorgeschriebene Maßnahmen:
+
+- Abbrechen des Spielzuges nach Fehl- und Frühstarts und gebenenfalls Vergabe von Juggbesitz für Frühstarts und
+- Platziervorgänge für gültig oder ungültig erklären.
+
+
+=== Direkte, korrektive Maßnahmen <dir_massnahmen>
+#boxes.fluffbox([
+	Direkte, korrektive Maßnahmen sind die Folgen einer Entscheidung über Fehlverhalten. Sie liegen im Ermessen der Schiedsrichter*innen.
+])
+Folgende direkte, korrektive Maßnahmen dürfen ergriffen werden:
+
+- Ab- oder Unterbrechen eines Spielzugs (z. B. Verletzung, Gefährdung oder Patt),
+- Zusprechen eines Punktes (z. B. beim Blockieren oder Verschieben des Mals)
+- Erklären eines Platziervorgangs für gültig oder ungültig,
+- Bewegen des Juggs (z. B. nach zu spätem Werfen oder Loslassen),
+- Unterbinden von unzulässigem Verhalten im Läufer*innenkampf (z. B. Berührungen außerhalb der Angriffsfläche),
+- Erklären von Treffern für gültig oder ungültg und
+- Vergeben oder Aufheben von Strafzeiten.
+
+=== Beschlüsse <beschluesse>
+#boxes.fluffbox([
+	Schiedsrichter*innen können nach einem Spielzug Beschlüsse treffen. 
+])
+Gegenläufige Entscheidungen von Schiedsrichter*innen und unsportliches Verhalten müssen zu einem Beschluss führen. Entscheidungen und Missachtung einer Maßnahme dürfen zu einem Beschluss führen.
+
+Die Schiedsrichter*innen müssen Beschlüsse gemeinsam treffen. Wenn Uneinigkeit zwischen den Schiedsrichter*innen besteht, entscheidet die Spielleitung. Um einen Beschluss zu treffen, sollten die Perspektiven der betroffenen Spieler*innen einbezogen werden.
+
+Als Folge eines Beschlusses muss entweder
+
+- eine oder mehrere übergreifende, korrektive Maßnahmen ergriffen werden, die angemessen für den Sachverhalt sind oder
+- keine Maßnahme ergriffen werden.
+
+Die Folgen von Beschlüssen müssen den Teams kommuniziert werden.
+
+#boxes.fluffbox([
+	Wenn Missachtungen Maßnahmen weder unsportlich, noch spielrelevant sind, müssen sie nicht zu einem Beschluss führen.
+])
+
+=== Übergreifende, korrektive Maßnahmen  <ueb_massnahmen>
+#boxes.fluffbox([
+	Übergreifende, korrektive Maßnahmen sind die Folgen von Beschlüssen. Sie liegen im Ermessen der Schiedsrichter*innen.
+])
+
+Folgende übergreifende, korrektive Maßnahmen dürfen in Folge eines Beschlusses ergriffen werden:
+
+- Ablehnen einer Einigung der Teams zu abweichenden Läufer*innenkampfregeln,
+- Verwarnung für Fehlverhalten,
+- Temporäre oder vollständige Spielsperren,
+- Abzug oder Zuspruch eines Punktes,
+- Wiederholung eines Zuges,
+- Vergabe von Juggbesitz für den nächsten Zug,
+- Überprüfen der Regelkonformität einer Pompfe oder
+- Pausieren des Spiels.
