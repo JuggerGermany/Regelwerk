@@ -61,7 +61,7 @@ Vor einem Spielzug stellen sich die Feldspieler*innen beider Teams außerhalb de
 
 #boxes.fluffbox(
 	[
-		Vor einem Spielzug muss festgelegt werden, welches Team auf welches Mal spielt (@spielleitung).
+		Vor einem Spielzug muss festgelegt sein, welches Team auf welches Mal spielt (@spielleitung).
 
 		Es kann vorkommen, dass ein Team durch einen Frühstart~(@fruehstart) den Spielzug mit Juggbesitz startet. In diesen Fällen liegt der Jugg zu Zugbeginn nicht auf dem Mittelpunkt des Spielfeldes.
 
