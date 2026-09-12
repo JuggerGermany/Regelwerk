@@ -72,7 +72,7 @@ Vor einem Spielzug stellen sich die Feldspieler*innen beider Teams außerhalb de
 
 === Bereitschaft signalisieren
 
-Sobald beide Teams signalisiert haben, dass sie bereit sind den nächsten Spielzug zu starten, sollte der Countdown zum nächsten Spielzug von der Spielleitung auf die letzten drei Steine vor dem Startsignalverkürzt werden.
+Sobald beide Teams signalisiert haben, dass sie bereit sind den nächsten Spielzug zu starten, sollte der Countdown zum nächsten Spielzug von der Spielleitung auf die letzten drei Steine vor dem Startsignal verkürzt werden.
 
 #boxes.fluffbox(
 	[
