@@ -82,7 +82,7 @@ Sobald beide Teams signalisiert haben, dass sie bereit sind den nächsten Spielz
 
 === Frühstart <fruehstart>
 
-Ein Team begeht einen Frühstart, wenn sich ein*e Spieler*in des Teams während der letzten drei Steine des Countdowns, aber vor dem Startsignal des Spielzugs, bereits im Spielfeld befindet.
+Ein Team begeht einen Frühstart, wenn sich ein*e Spieler*in des Teams während des letzten Intervalls vor dem Startsignal im Spielfeld befindet.
 Für den ersten Frühstart sollte die Spielleitung das jeweilige Team verwarnen.
 Für jeden weiteren Frühstart im Spiel sollte das jeweilige Team durch Jugg-Besitz für die Gegenseite benachteiligt werden.
 Die Spielleitung darf im eigenen Ermessen von der Benachteiligung absehen, wenn der Frühstart nicht durch das zu früh gestartete Team zu verantworten ist.
