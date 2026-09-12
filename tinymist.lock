@@ -18,8 +18,20 @@ main = "file:typst/regelwerk.typ"
 root = "file:."
 system-fonts = true
 
+[[document]]
+font-paths = ["file:typst/fonts"]
+id = "file:typst/team/spielerinnen.typ"
+inputs = []
+main = "file:typst/team/spielerinnen.typ"
+root = "file:."
+system-fonts = true
+
 [[route]]
 id = "file:typst/edit_utils.typ"
+priority = 256
+
+[[route]]
+id = "file:typst/team/spielerinnen.typ"
 priority = 256
 
 [[route]]
