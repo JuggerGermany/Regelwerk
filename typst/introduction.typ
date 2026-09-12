@@ -1,3 +1,5 @@
+#import "designs/boxes.typ" as boxes
+
 #heading(numbering: none, outlined: false)[Kurzerklärung: Was ist Jugger?]
 Jugger ist ein Sport für zwei Teams.
 Ziel ist es, einen Ball (Jugg) möglichst oft im Tor (Mal) der Gegenseite zu platzieren.
@@ -7,6 +9,11 @@ Die anderen vier Feldspieler*innen, die Pompfer*innen, sind mit gepolsterten Spo
 Getroffene Spieler*innen dürfen für eine festgelegte Dauer nicht mehr am Spiel teilnehmen.
 So können die vier Pompfer*innen den*die eigene*n Läufer*in beim Punkten unterstützen.
 
+#heading(numbering: none, outlined: false)[Kinder- und Jugendjugger]
+Im Jugger wird in drei Altersklassen unterteilt:
+Kinder (bis 13~Jahre), Jugend (14~bis 17~Jahre) und Erwachsene (ab 18~Jahre).
+Es gibt reduzierte Maße für Spielmaterialien, die im Kinderbereich Anwendung finden.
+
 #heading(numbering: none, outlined: false)[Aufbau der Spielregeln]
 Die Spielregeln steuern das Verhalten der Spieler*innen durch Gebote, Verbote und Erlaubnisse.
 Gebote fordern ein bestimmtes Verhalten.
@@ -15,14 +22,16 @@ Erlaubnisse ermöglichen explizit ein bestimmtes Verhalten, sofern die für die
 Alle spielrelevanten Handlungen, die vom Regelwerk nicht abgedeckt werden, gelten als nicht geregelte Handlungen und können von Spieler*innen, Schiedsrichter*innen oder Veranstalter*innen vorläufig geregelt werden.
 Die Einschätzung der vorläufigen Regelung erfolgt unter gegenseitiger Rücksichtnahme und Fairness.
 
-#heading(numbering: none, outlined: false)[Platzhalter Erklärungsbox]
-ToDo
+#boxes.fluffbox(
+  [
+    Neben den Spielregeln enthält das Regelwerk Erklärungsboxen wie diese.
+		Erklärungsboxen enthalten keinen Regeltext und sind nicht Teil der Spielregeln.
+		Sie liefern relevanten Kontext aus anderen Teilen des Regelwerks, erklären Spielregeln in etwas mehr Detail oder geben Beispiele zu den Spielregeln.
+  ],
+  title: "Erklärungsboxen",
+)
 
-#heading(numbering: none, outlined: false)[Kinder- und Jugendjugger]
-Im Jugger wird in drei Altersklassen unterteilt:
-Kinder (bis 13~Jahre), Jugend (14~bis 17~Jahre) und Erwachsene (ab 18~Jahre).
-Es gibt reduzierte Maße für Spielmaterialien, die im Kinderbereich Anwendung finden.
-
+#pagebreak()
 
 #heading(numbering: none, outlined: false)[Umgang mit ungeregelten Situationen]
 Jugger lebt durch den fairen Umgang der Spieler*innen miteinander.
