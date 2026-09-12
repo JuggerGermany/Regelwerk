@@ -127,3 +127,9 @@ Spielzüge sollten abgebrochen werden, sobald die Sicherheit oder das Fairplay d
 Spielzüge dürfen außerdem abgebrochen werden, wenn eine Pompfe beschädigt ist.
 Bei einem Spiel nach Sätzen dürfen Spielzüge außerdem abgebrochen werden, wenn eine Pattsituation entsteht.
 Über den Abbruch eines Spielzugs entscheidet im Allgemeinen die Spielleitung.
+
+#boxes.fluffbox(
+	[
+		Teams können sich darauf einigen, einen Spielzug abzubrechen. 
+	]
+)
