@@ -55,7 +55,7 @@ Mindestens der 10.,~5. und die letzten drei Steine müssen angesagt werden.
 Der darauffolgende Stein ist das Startsignal.
 Ein Spielzug startet mit dem Startsignal.
 
-Sobald ein Spielzug startet dürfen Spieler*innen das Spielfeld betreten.
+Sobald ein Spielzug startet dürfen Spieler*innen das Spielfeld betreten, wenn sie die zugehörige Anlaufzone das gesamte Intervall vor dem Startsignal berühren.
 Sie dürfen das Spielfeld nur an der zugehörgen Grundlinie betreten.
 
 Vor einem Spielzug stellen sich die Feldspieler*innen beider Teams außerhalb des Spielfeldes an der Grundlinie auf, die dem Mal, auf das sie spielen, gegenüberliegt.
