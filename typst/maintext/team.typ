@@ -34,7 +34,7 @@ Die übrigen Feldspieler*innen müssen Nahpompfer*innen sein.
 	],
 )
 
-== zugehörige Grundlinie <grundlinie>
+== Zugehörige Grundlinie <grundlinie>
 In einem Spielzug ist die Grundlinie die dem Mal, auf das das Team spielt, gegenüberliegt, die dem Team zugehörige Grundlinie.
 
 == Kleidung <kleidung>
