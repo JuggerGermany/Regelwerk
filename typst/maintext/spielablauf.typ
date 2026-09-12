@@ -52,7 +52,8 @@ Vor Beginn eines Spielzugs sollte der Jugg auf dem Mittelpunkt des Spielfeldes l
 Um eine zeitliche Begrenzung zwischen Spielzügen zu schaffen, darf die Spielleitung einen Countdown herunterzählen.
 Die verbleibenden Steine bis zum nächsten Spielzugbeginn sollten dabei laut angesagt werden.
 Mindestens der 10.,~5. und die letzten drei Steine müssen angesagt werden.
-Ein Spielzug startet mit dem darauffolgenden Stein und wird mit „Jugger!“ angesagt.
+Der darauffolgende Stein ist das Startsignal.
+Ein Spielzug startet mit dem Startsignal.
 
 Sobald ein Spielzug startet dürfen Spieler*innen das Spielfeld betreten.
 Sie dürfen das Spielfeld nur an der zugehörgen Grundlinie betreten.
@@ -71,8 +72,7 @@ Vor einem Spielzug stellen sich die Feldspieler*innen beider Teams außerhalb de
 
 === Bereitschaft signalisieren
 
-Sobald beide Teams signalisiert haben, dass sie bereit sind den nächsten Spielzug zu starten, sollte der Countdown zum nächsten Spielzug von der Spielleitung auf „Achtung-3-2-1-Jugger!“ gesetzt werden.
-Dieses Startsignal muss im Takt von fünf aufeinanderfolgenden Steinen gerufen werden und der Spielzug startet mit dem Stein auf den Ausruf „Jugger!“.
+Sobald beide Teams signalisiert haben, dass sie bereit sind den nächsten Spielzug zu starten, sollte der Countdown zum nächsten Spielzug von der Spielleitung auf die letzten drei Steine vor dem Startsignalverkürzt werden.
 
 #boxes.fluffbox(
 	[
@@ -82,7 +82,7 @@ Dieses Startsignal muss im Takt von fünf aufeinanderfolgenden Steinen gerufen 
 
 === Frühstart <fruehstart>
 
-Ein Team begeht einen Frühstart, wenn sich ein*e Spieler*in des Teams während des Startsignals, aber vor dem Start des Spielzugs, bereits im Spielfeld befindet.
+Ein Team begeht einen Frühstart, wenn sich ein*e Spieler*in des Teams während der letzten drei Steine des Countdowns, aber vor dem Startsignal des Spielzugs, bereits im Spielfeld befindet.
 Für den ersten Frühstart sollte die Spielleitung das jeweilige Team verwarnen.
 Für jeden weiteren Frühstart im Spiel sollte das jeweilige Team durch Jugg-Besitz für die Gegenseite benachteiligt werden.
 Die Spielleitung darf im eigenen Ermessen von der Benachteiligung absehen, wenn der Frühstart nicht durch das zu früh gestartete Team zu verantworten ist.
