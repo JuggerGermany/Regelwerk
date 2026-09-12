@@ -43,8 +43,6 @@ Das Intervall zwischen zwei aufeinander folgenden Steinen beträgt #strong[1,5 S
 
 #boxes.fluffbox([
 	Ein Spielzug wird mit einem Startsignal eröffnet~(@einleiten) und endet mit dem Erzielen eines Punktes oder einem Zugabbruch~(@abbruch).
-
-	Jugger kann nach Steinen oder nach Sätzen gespielt werden. Ein Spiel nach Sätzen kann über eine festgelegte maximale Dauer zeitlich begrenzt werden.
 ])
 
 == Spielzug einleiten <einleiten>

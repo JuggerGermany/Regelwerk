@@ -245,7 +245,7 @@ Ist es diesen Spieler*innen nicht möglich zu unterscheiden, welche Spieler*in z
 #boxes.fluffbox([
 	Doppeltreffer müssen angesagt werden~(@ansagen).
 
-	Die Entscheidung auf Doppeltreffer liegt im Ermessen der beteiligten Spieler*innen. In Streitfällen haben die Spielhelfer*innen das letzte Wort.
+	Die Entscheidung auf Doppeltreffer liegt im Ermessen der beteiligten Spieler*innen. In Streitfällen können Schiedsrichter*innen auf Doppeltreffer entschieden.
 ])
 
 === Ansagen <ansagen>
