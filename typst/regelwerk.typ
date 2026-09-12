@@ -11,7 +11,7 @@
 }
 #let watermark = {
 	// 'rotate(...)' is returned by this block
-	rotate(45deg, text(140pt, fill: rgb("#717070").transparentize(80%))[*Entwurf* 09.07.26])
+	rotate(45deg, text(140pt, fill: rgb("#717070").transparentize(80%))[*Entwurf* 12.09.26])
 }
 
 #set page(
