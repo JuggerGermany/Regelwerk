@@ -1,5 +1,3 @@
-
-
 #import "/typst/designs/colors.typ" as colors
 #import "/typst/designs/boxes.typ" as boxes
 #set par(justify: true)
@@ -15,8 +13,6 @@
   // 'rotate(...)' is returned by this block
   rotate(45deg, text(140pt, fill: rgb("#717070").transparentize(80%))[*Entwurf* 09.07.26])
 }
-
-
 
 #set page(
   margin: (inside: 3cm, outside: 2cm, top: top_margin),
@@ -92,9 +88,6 @@
   ]
 }
 
-
-
-
 #set text(lang: "de", size: 13pt, font: "vollkorn", fill: colors.textcolor)
 
 #show "_": sym.space.nobreak.narrow
@@ -115,14 +108,8 @@
 // introductory explanations
 #import "/typst/introduction.typ" as introduction_text
 
-
-
-
-
 #import "/typst/anhang/masstabelle.typ" as masstabelle_text: title as masstabelle_title
 #import "/typst/anhang/schluesselbegriffe.typ" as schluessel_text: title as schluessel_title
-
-// Branch: Test RW 2026 23.12.2025, zuletzt bearbeitet von Helene
 
 #{
   set page(margin: 0cm)
@@ -148,34 +135,26 @@
 #introduction_text
 
 
-
 = Spielfeld
 #include "/typst/maintext/spielfeld.typ"
 
 = Pompfen <pompfen>
-
 #include "/typst/maintext/pompfen.typ"
 
 #align(left)[
   #set par(justify: false)
   = Teams und Ausrüstung
 ]
-
 #include "/typst/maintext/team.typ"
 
 = Spielablauf
-
 #include "/typst/maintext/spielablauf.typ"
 
-
 = Spielregeln
-
 #include "/typst/maintext/regeln.typ"
 
 = Spielhelfer\*innen
-
 #include "/typst/maintext/spielhelferinnen.typ"
-
 
 #[]<end_of_content>
 
