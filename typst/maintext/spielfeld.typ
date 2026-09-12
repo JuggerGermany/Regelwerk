@@ -1,13 +1,13 @@
 #import "../designs/boxes.typ" as boxes
 
+#boxes.fluffbox(
+	[
+		Der Jugg~(@jugg) ist der Spielball im Jugger.
+		Das äußere Erscheinungsbild des Juggs ist nicht entscheidend, solange er den Maßangaben entspricht. Das Mal~(@mal) ist das Tor im Jugger. Im Jugger werden Punkte erzielt~(@punkten), indem der Jugg im Mal platziert wird~(@jugg_platz).
 
-#boxes.fluffbox([
-  Der Jugg~(@jugg) ist der Spielball im Jugger.
-  Das äußere Erscheinungsbild des Juggs ist nicht entscheidend, solange er den Maßangaben entspricht. Das Mal~(@mal) ist das Tor im Jugger. Im Jugger werden Punkte erzielt~(@punkten), indem der Jugg im Mal platziert wird~(@jugg_platz).
-
-  Wird mit reduzierten Maßen gespielt, bleiben die Maße für den Jugg und das Mal unverändert. Die Maße des Spielfeldes werden hingegen angepasst~(@feld).
-
-])
+		Wird mit reduzierten Maßen gespielt, bleiben die Maße für den Jugg und das Mal unverändert. Die Maße des Spielfeldes werden hingegen angepasst~(@feld).
+	],
+)
 
 == Jugg <jugg>
 
@@ -18,16 +18,12 @@ Der Jugg besteht aus polsterndem Material und weist keine harten Kanten auf.
 
 == Mal <mal>
 
-
 Das Mal hat die Form eines Kegelstumpfes mit einer Öffnung, in die der Jugg platziert werden kann.
 Der Durchmesser der Kegelbasis beträgt mindestens #strong[30_cm].
 Der Durchmesser der Öffnung beträgt ca. #strong[12_cm] und ihre Tiefe ca. #strong[20_cm].
 Das Mal ist vollständig gepolstert und hat keine scharfen oder harten Kanten.
 
-
-
 #figure(image("/typst/images/mal.jpg"), caption: "Beispielhaftes Mal")
-
 
 == Aufbau des Spielfeldes <feld>
 

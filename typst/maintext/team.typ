@@ -1,4 +1,3 @@
-
 #import "../designs/boxes.typ" as boxes
 
 == Teamzusammensetzung
@@ -27,11 +26,13 @@ Genau eine*r der Feldspieler*innen eines Teams muss ein*e Läufer*in sein.
 Es darf maximal eine*r der Feldspieler*innen ein*e Kettenspieler*in sein.
 Die übrigen Feldspieler*innen müssen Nahpompfer*innen sein.
 
-#boxes.fluffbox([
-  Sowohl Läufer*innen als auch Pompfer*innen dürfen zwischen Spielzügen beliebig oft ein- und ausgewechselt werden.
+#boxes.fluffbox(
+	[
+		Sowohl Läufer*innen als auch Pompfer*innen dürfen zwischen Spielzügen beliebig oft ein- und ausgewechselt werden.
 
-  Nur im Fall des Austauschs einer beschädigten oder nicht mehr regelkonformen Pompfe, können sich die Pompfen, die Feldspieler*innen führen, während eines Zugs ändern~(@beschaedigt).
-])
+		Nur im Fall des Austauschs einer beschädigten oder nicht mehr regelkonformen Pompfe, können sich die Pompfen, die Feldspieler*innen führen, während eines Zugs ändern~(@beschaedigt).
+	],
+)
 
 == zugehörige Grundlinie <grundlinie>
 In einem Spielzug ist die Grundlinie die dem Mal, auf das das Team spielt, gegenüberliegt, die dem Team zugehörige Grundlinie.
