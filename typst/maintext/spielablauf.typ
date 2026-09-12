@@ -107,6 +107,7 @@ Erhält ein Team Juggvorteil, wird der Jugg vor Beginn des Spielzuges an die dem
 
 #boxes.fluffbox([
 	Juggvorteil wird bei wiederholten Fehlstarts dem gegnerischen Team zugeteilt (@fruehstart).
+	Juggvorteil kann als Maßnahme durch die Schiedsrichter*innen erteilt werden (@ueb_massnahmen).
 ])
 
 == Beenden eines Spielzugs
