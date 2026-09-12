@@ -43,3 +43,5 @@ Wird mit reduzierten Maßen gespielt, beträgt die Gesamtlänge des Spielfeldes 
 Der Abstand der Male zu der jeweiligen Grundlinie beträgt #strong[1,5_m].
 
 #figure(image("/typst/images/feld.jpg"), caption: "Maße des Spielfeldes ohne reduzierte Maße")
+
+
