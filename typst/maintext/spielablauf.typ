@@ -91,11 +91,13 @@ Die Spielleitung darf im eigenen Ermessen von der Benachteiligung absehen, wenn 
 
 Ein Team begeht einen Fehlstart, wenn sich zum Start eines Spielzugs
 - mehr als ein*e Läufer*in,
-- mehr als vier Pompfer*innen oder
+- mehr als vier Pompfer*innen,
 - mehr als ein*e Kettenspieler*in
-des Teams im Spielfeld befindet.
+des Teams im Spielfeld befindet oder wenn
+- ein*e Spieler*in des Teams das Spielfeld betritt, ohne die zugehörge Anlaufzone während des gesamten Intervalls vor dem Startsignal berührt zu haben.
 
 Nach einem Fehlstart sollte der aktuelle Spielzug abgebrochen werden.
+
 
 #boxes.fluffbox([
 	Die Spielleitung~(@spielleitung) kann davon absehen, einen Fehlstart zu ahnden, wenn er nicht zugrelevant ist.
