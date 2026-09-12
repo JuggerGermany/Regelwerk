@@ -87,13 +87,12 @@ Sie dürfen den Jugg nicht mit der Pompfe tragen.
 	],
 )
 
-=== Aktive Pompfer*innen
-
 #boxes.fluffbox(
 	[
 		Aktive Pompfer*innen können am Spielgeschehen teilnehmen. Zum Beispiel indem sie mit Nahpompfen oder Ketten andere Feldspieler*innen treffen~(@treffer).
 		Aktive Nahpompfer*innen können eine*n inaktive*n Feldspieler*in pinnen~(@pinnen).
 	],
+	title: "Aktive Pompfer*innen"
 )
 
 === Inaktive Pompfer*innen
