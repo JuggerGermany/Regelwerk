@@ -1,17 +1,22 @@
 #import "../designs/boxes.typ" as boxes
 
-== Spielzug und Steine
+== Spielmodus
 
-Ein Juggerspiel unterteilt sich in Spielzüge.
-
-Jeder Spielzug wird von Taktschlägen, den Steinen, begleitet.
-Das Intervall zwischen zwei aufeinander folgenden Steinen beträgt #strong[1,5 Sekunden].
+Der Spielmodus wird vor dem Spielbeginn festgelegt und Teams und Spielhelfer*innen kommuniziert. Der Spielmodus legt mindestens die End- und Siegbedingungen für ein Spiel fest.
 
 #boxes.fluffbox([
-	Ein Spielzug wird mit einem Startsignal eröffnet~(@einleiten) und endet mit dem Erzielen eines Punktes oder einem Zugabbruch~(@abbruch).
-
-	Jugger kann nach Steinen oder nach Sätzen gespielt werden. Ein Spiel nach Sätzen kann über eine festgelegte maximale Dauer zeitlich begrenzt werden.
+	Der Spielmodus kann weitere Rahmenbedingungen wie zum Beispiel, wann ein Seitenwechsel durchgeführt werden soll, enthalten. Der Spielmodus für ein Juggerspiel ist im Allgemeinen ein Spiel nach Steinen oder nach Sätzen.
 ])
+
+#boxes.fluffbox(
+	[
+		Ziel bei einem Spiel nach Sätzen ist es, mit dem eigenen Team eine festgelegte Anzahl an Sätzen mit einer festgelegten Anzahl an Punkten zu gewinnen.\
+		Ein Spiel nach Sätzen kann sich zum Beispiel aus *2~Gewinnsätzen* mit je *5~Gewinnpunkten* zusammensetzen.
+		Zwischen den Sätzen gibt es eine Pause, in der die Teams das Mal auf das sie spielen wechseln.\
+		Das Team, das zuerst die festgelegte Anzahl an Sätzen gewonnen hat, gewinnt das Spiel.
+	],
+	title: "Spiel nach Sätzen",
+)
 
 #boxes.fluffbox(
 	[
@@ -29,15 +34,18 @@ Das Intervall zwischen zwei aufeinander folgenden Steinen beträgt #strong[1,5 S
 	title: "Spiel nach Steinen",
 )
 
-#boxes.fluffbox(
-	[
-		Ziel bei einem Spiel nach Sätzen ist es, mit dem eigenen Team eine festgelegte Anzahl an Sätzen mit einer festgelegten Anzahl an Punkten zu gewinnen.\
-		Ein Spiel nach Sätzen kann sich zum Beispiel aus *2~Gewinnsätzen* mit je *5~Gewinnpunkten* zusammensetzen.
-		Zwischen den Sätzen gibt es eine Pause, in der die Teams das Mal auf das sie spielen wechseln.\
-		Das Team, das zuerst die festgelegte Anzahl an Sätzen gewonnen hat, gewinnt das Spiel.
-	],
-	title: "Spiel nach Sätzen",
-)
+== Spielzug und Steine
+
+Ein Juggerspiel unterteilt sich in Spielzüge.
+
+Jeder Spielzug wird von Taktschlägen, den Steinen, begleitet.
+Das Intervall zwischen zwei aufeinander folgenden Steinen beträgt #strong[1,5 Sekunden].
+
+#boxes.fluffbox([
+	Ein Spielzug wird mit einem Startsignal eröffnet~(@einleiten) und endet mit dem Erzielen eines Punktes oder einem Zugabbruch~(@abbruch).
+
+	Jugger kann nach Steinen oder nach Sätzen gespielt werden. Ein Spiel nach Sätzen kann über eine festgelegte maximale Dauer zeitlich begrenzt werden.
+])
 
 == Spielzug einleiten <einleiten>
 
