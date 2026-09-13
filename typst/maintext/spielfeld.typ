@@ -30,8 +30,8 @@ Das Mal ist vollständig gepolstert und hat keine scharfen oder harten Kanten.
 Die Form des Spielfeldes ist ein längliches Achteck.
 Die Gesamtlänge beträgt #strong[40_m].
 Die Gesamtbreite beträgt #strong[20_m].
-Das Spielfeld wird mit Linien abgegrenzt.
 Das Spielfeld sollte ebenerdig und gleichmäßig beschaffen sein.
+Das Spielfeld wird mit Linien abgegrenzt.
 Die kurzen, sich gegenüberliegenden #strong[10_m] langen Linien sind die Grundlinien.
 Alle anderen Linien sind Seitenlinien.
 Der Bereich außerhalb des Spielfeldes ist das Aus.
