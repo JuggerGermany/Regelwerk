@@ -117,7 +117,7 @@ Die Folge einer Entscheidung kann auch nach dem Zug durch einen Beschluss festge
 
 Es gibt folgende vorgeschriebene Maßnahmen:
 
-- Abbrechen des Spielzuges nach Fehl- und Frühstarts und gebenenfalls Vergabe von Juggbesitz für Frühstarts und
+- Abbrechen des Spielzuges nach Fehl- und Frühstarts und gebenenfalls Vergabe von Juggvorteil für Frühstarts und
 - Platziervorgänge für gültig oder ungültig erklären.
 
 
@@ -166,6 +166,6 @@ Folgende übergreifende, korrektive Maßnahmen dürfen in Folge eines Beschlusse
 - Temporäre oder vollständige Spielsperren,
 - Abzug oder Zuspruch eines Punktes,
 - Wiederholung eines Zuges,
-- Vergabe von Juggbesitz für den nächsten Zug,
+- Vergabe von Juggvorteil für den nächsten Zug,
 - Überprüfen der Regelkonformität einer Pompfe oder
 - Pausieren des Spiels.
