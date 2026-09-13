@@ -154,7 +154,10 @@ Läufer*innen ist es im Läufer*innenkampf verboten
 - in den*die Gegner*in hinein zu rennen oder zu springen.
 - den*die Gegner*in an der Kleidung zu ziehen.
 Wenn sich beide Teams vor Spielbeginn darauf einigen, können für das Spiel abweichende Läufer*innenkampfregeln festgelegt werden.
-Die Spielhelfer*innen können solche Einigungen ablehnen.
+
+#boxes.fluffbox([
+	Die Schiedsricher*innen können abweichende Läufer*innenkampfregeln ablehnen (@schiedsys).
+])
 
 == Verstoß gegen das Aus <aus>
 
@@ -322,7 +325,7 @@ Wenn sie gepinnt werden, dürfen inaktive Feldspieler*innen ihre Strafzeit ohne 
 	Nachdem sie ihre Strafzeit gezählt haben, dürfen inaktive Feldspieler*innen
 	aufstehen. Stehen sie davor auf, müssen sie die Strafzeit von vorne zählen~(@aufstehen). \
 	Strafzeiten die von inaktive Feldspieler*innen gezählt werden, bevor sie abknien zählen nicht.
-
+	Schiedsrichter*innen können als Maßnahme Strafzeiten aufheben und vergeben. (@dir_massnahmen)
 ])
 
 === Aufstehen <aufstehen>
