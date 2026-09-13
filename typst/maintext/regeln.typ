@@ -38,6 +38,10 @@ Er*Sie kann getroffen und gepinnt werden und muss Strafzeiten sofort zählen.
 
 == Feldspieler*innen
 
+#boxes.fluffbox([
+	Spieler*innen werden durch Betreten des Spielfeldes zu Feldspieler*innen (@team_zusammensetzung).
+])
+
 Der Zustand eines*einer Feldspieler*in kann entweder aktiv oder inaktiv sein.
 Zu Beginn eines Spielzugs sind alle Feldspieler*innen aktiv.
 Sie werden inaktiv, wenn sie gültig getroffen werden oder gegen das Aus verstoßen.
