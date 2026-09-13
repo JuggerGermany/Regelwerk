@@ -55,7 +55,7 @@ Mindestens der 10.,~5. und die letzten drei Steine müssen angesagt werden.
 Der darauffolgende Stein ist das Startsignal.
 Ein Spielzug startet mit dem Startsignal.
 
-Sobald ein Spielzug startet dürfen Spieler*innen das Spielfeld betreten.
+Sobald ein Spielzug startet dürfen Spieler*innen das Spielfeld betreten, wenn sie die zugehörige Grundlinie das gesamte Intervall zwischen dem letzten Stein des Countdowns und dem Startsignal berühren.
 Sie dürfen das Spielfeld nur an der zugehörgen Grundlinie betreten.
 
 #boxes.fluffbox(
@@ -89,9 +89,10 @@ Die Spielleitung darf im eigenen Ermessen von der Benachteiligung absehen, wenn 
 
 Ein Team begeht einen Fehlstart, wenn sich zum Start eines Spielzugs
 - mehr als ein*e Läufer*in,
-- mehr als vier Pompfer*innen oder
+- mehr als vier Pompfer*innen,
 - mehr als ein*e Kettenspieler*in
-des Teams im Spielfeld befindet.
+des Teams im Spielfeld befindet oder wenn
+- ein*e Spieler*in des Teams das Spielfeld betritt, ohne die zugehörge Grundlinie während des gesamten Intervalls zwischen dem letzten Stein des Countdowns und  dem Startsignal berührt zu haben.
 
 Nach einem Fehlstart sollte der aktuelle Spielzug abgebrochen werden.
 
