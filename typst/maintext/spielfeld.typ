@@ -33,8 +33,10 @@ Die Gesamtbreite beträgt #strong[20_m].
 Das Spielfeld wird mit Linien abgegrenzt.
 Die kurzen, sich gegenüberliegenden #strong[10_m] langen Linien sind die Grundlinien.
 Alle anderen Linien sind Seitenlinien.
+An die Grundlinien schließen sich die Anlaufzonen an.
 Der Bereich außerhalb des Spielfeldes ist das Aus.
 Alle Linien, sowohl die Grund- als auch die Seitenlinien, sind Teil des Aus.
+
 Der Mittelpunkt des Spielfeldes ist markiert.
 Der Abstand der Male zu der jeweiligen Grundlinie beträgt #strong[2_m] in Richtung Mittelpunkt.
 Die Male befinden sich mittig zwischen den Seitenlinien.
@@ -46,10 +48,13 @@ Der Abstand der Male zu der jeweiligen Grundlinie beträgt #strong[1,5_m].
 
 == Anlaufzonen <anlaufzonen>
 
-Die Anlaufzonen schließen sich an den Grundlinien an das Spielfeld an.
+An jeder Grundlinie befindet sich eine Anlaufzone.
 Die Anlaufzonen sind Rechtecke, deren eine Seite die jeweilige Grundlinie ist.
-Die Grundlinie gehört zur Anlaufzone.
-Die dazu orthogonale Seite der Anlaufzonen ist maximal #strong[4_m] lang.
-Die Anlaufzonen der beiden Seiten haben dieselben Maße.
-
-
+Die Grundlinie ist Teil der Anlaufzone.
+Die Länge der zur Grundlinie orthogonalen Seite beträgt
+- #strong[X_m]
+- mindestens #strong[X_m]
+- maximal #strong[X_m]
+- zwischen #strong[X_m] und #strong[Y_m]
+Beide Anlaufzonen haben dieselben Maße.
+Die Anlaufzonen sind Teil des Aus.
