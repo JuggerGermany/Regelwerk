@@ -54,6 +54,7 @@ Die verbleibenden Steine bis zum nächsten Spielzugbeginn sollten dabei laut ang
 Mindestens der 10.,~5. und die letzten drei Steine müssen angesagt werden.
 Der darauffolgende Stein ist das Startsignal.
 Ein Spielzug startet mit dem Startsignal.
+Zum Startsignal wird "Jugger" angesagt.
 
 Sobald ein Spielzug startet dürfen Spieler*innen das Spielfeld betreten.
 
