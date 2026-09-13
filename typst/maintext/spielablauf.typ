@@ -62,7 +62,7 @@ Vor einem Spielzug stellen sich die Feldspieler*innen beider Teams außerhalb de
 	[
 		Vor einem Spielzug muss festgelegt sein, welches Team auf welches Mal spielt (@spielleitung).
 
-		Es kann vorkommen, dass ein Team durch einen Frühstart~(@fruehstart) den Spielzug mit Juggbesitz startet. In diesen Fällen liegt der Jugg zu Zugbeginn nicht auf dem Mittelpunkt des Spielfeldes.
+		Es kann vorkommen, dass ein Team durch einen Frühstart~(@fruehstart) den Spielzug mit Juggvorteil startet. In diesen Fällen liegt der Jugg zu Zugbeginn nicht auf dem Mittelpunkt des Spielfeldes.
 
 		Während der Aufstellung haben die Teams Zeit zur Erholung, für Taktikbesprechungen und für Ein- und Auswechslungen.
 	],
@@ -83,7 +83,7 @@ Dieses Startsignal muss im Takt von fünf aufeinanderfolgenden Steinen gerufen 
 
 Ein Team begeht einen Frühstart, wenn sich ein*e Spieler*in des Teams während des Startsignals, aber vor dem Start des Spielzugs, bereits im Spielfeld befindet.
 Für den ersten Frühstart sollte die Spielleitung das jeweilige Team verwarnen.
-Für jeden weiteren Frühstart im Spiel sollte das jeweilige Team durch Jugg-Besitz für die Gegenseite benachteiligt werden.
+Für jeden weiteren Frühstart im Spiel sollte das jeweilige Team durch Juggvorteil für die Gegenseite benachteiligt werden.
 Die Spielleitung darf im eigenen Ermessen von der Benachteiligung absehen, wenn der Frühstart nicht durch das zu früh gestartete Team zu verantworten ist.
 
 === Fehlstart <fehlstart>

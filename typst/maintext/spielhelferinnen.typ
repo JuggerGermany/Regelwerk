@@ -103,7 +103,7 @@ Auf der Seite des ihnen zugewiesenen Mals signalisieren Malrichter*innen außerd
 Die Spielleitung hat die Aufgabe,
 - festzulegen, welches Team auf welches Mal spielt,
 - den Spielzug einzuleiten,
-- Verwarnungen und Juggbesitz in Folge von Frühstarts zu erteilen und
+- Verwarnungen und Juggvorteil in Folge von Frühstarts zu erteilen und
 - Malrichter*innen zu bestätigen, wenn ein Punkt anerkannt wurde.
 
 #boxes.fluffbox([
