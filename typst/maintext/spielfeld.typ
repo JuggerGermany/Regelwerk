@@ -43,3 +43,13 @@ Wird mit reduzierten Maßen gespielt, beträgt die Gesamtlänge des Spielfeldes 
 Der Abstand der Male zu der jeweiligen Grundlinie beträgt #strong[1,5_m].
 
 #figure(image("/typst/images/feld.jpg"), caption: "Maße des Spielfeldes ohne reduzierte Maße")
+
+== Anlaufzonen <anlaufzonen>
+
+Die Anlaufzonen schließen sich an den Grundlinien an das Spielfeld an.
+Die Anlaufzonen sind Rechtecke, deren eine Seite die jeweilige Grundlinie ist.
+Die Grundlinie gehört zur Anlaufzone.
+Die dazu orthogonale Seite der Anlaufzonen ist maximal #strong[4_m] lang.
+Die Anlaufzonen der beiden Seiten haben dieselben Maße.
+
+
