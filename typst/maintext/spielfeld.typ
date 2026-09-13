@@ -1,4 +1,5 @@
 #import "../designs/boxes.typ" as boxes
+#import "../utils.typ" as utils
 
 #boxes.fluffbox(
 	[
@@ -51,6 +52,7 @@ Der Abstand der Male zu der jeweiligen Grundlinie beträgt #strong[1,5_m].
 An jeder Grundlinie befindet sich eine Anlaufzone.
 Die Anlaufzonen sind Rechtecke, deren eine Seite die jeweilige Grundlinie ist.
 Die Grundlinie ist Teil der Anlaufzone.
+#utils.todo([Gewählte Variante einpflegen])
 Die Länge der zur Grundlinie orthogonalen Seite beträgt
 - #strong[X_m]
 - mindestens #strong[X_m]

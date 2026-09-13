@@ -1,4 +1,5 @@
 #import "../designs/boxes.typ" as boxes
+#import "../utils.typ" as utils
 
 == Spielmodus
 
@@ -55,7 +56,12 @@ Mindestens der 10.,~5. und die letzten drei Steine müssen angesagt werden.
 Der darauffolgende Stein ist das Startsignal.
 Ein Spielzug startet mit dem Startsignal.
 
-Sobald ein Spielzug startet dürfen Spieler*innen das Spielfeld betreten, wenn sie die zugehörige Anlaufzone das gesamte Intervall zwischen dem letzten Stein des Countdowns und dem Startsignal berühren.
+#utils.todo([Gewählte Variante einpflegen])
+Sobald ein Spielzug startet, dürfen Spieler*innen das Spielfeld betreten,
+- wenn sie beim letzten Stein des Countdowns die Anlaufzone berühren.
+- wenn sie während des gesamten Intervalls zwischen dem letzten Stein des Countdowns und dem Startsignal die Anlaufzone berühren.
+- wenn sie während des Intervalls zwischen dem letzten Stein des Countdowns und dem Startsignal bei jedem Bodenkontakt auch die Anlaufzone berühren.
+
 Sie dürfen das Spielfeld nur an der zugehörgen Grundlinie betreten.
 
 #boxes.fluffbox(
