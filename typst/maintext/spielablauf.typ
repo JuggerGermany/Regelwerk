@@ -58,8 +58,6 @@ Ein Spielzug startet mit dem Startsignal.
 Sobald ein Spielzug startet dürfen Spieler*innen das Spielfeld betreten.
 Sie dürfen das Spielfeld nur an der zugehörgen Grundlinie betreten.
 
-Vor einem Spielzug stellen sich die Feldspieler*innen beider Teams außerhalb des Spielfeldes an der Grundlinie auf, die dem Mal, auf das sie spielen, gegenüberliegt.
-
 #boxes.fluffbox(
 	[
 		Vor einem Spielzug muss festgelegt sein, welches Team auf welches Mal spielt (@spielleitung).
