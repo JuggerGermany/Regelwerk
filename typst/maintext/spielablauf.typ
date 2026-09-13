@@ -100,6 +100,15 @@ Nach einem Fehlstart sollte der aktuelle Spielzug abgebrochen werden.
 	Die Spielleitung~(@spielleitung) kann davon absehen, einen Fehlstart zu ahnden, wenn er nicht zugrelevant ist.
 ])
 
+=== Juggvorteil
+
+Ein Team kann zu Beginn eines Spielzuges Juggvorteil bekommen.\
+Erhält ein Team Juggvorteil, wird der Jugg vor Beginn des Spielzuges an die dem Team zugehörige Grundlinie gelegt.
+
+#boxes.fluffbox([
+	Juggvorteil wird bei wiederholten Fehlstarts dem gegnerischen Team zugeteilt (@fruehstart).
+])
+
 == Beenden eines Spielzugs
 
 #boxes.fluffbox([
