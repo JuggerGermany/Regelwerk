@@ -209,6 +209,7 @@ Ein Treffer ist gültig platziert, wenn keine der folgenden Bedingungen erfüllt
 
 - Der*die getroffene Feldspieler*in ist inaktiv.
 - Der Treffer erfolgt nur außerhalb der Trefferzone.
+- Der Treffer erfolgt nur an einer Hand eines*einer Nahpompfer*in, die eine seiner*ihrer geführten Pompfe berührt, und wird von ihm*ihr mit „Hand" angesagt.
 - Ein*e Feldspieler*in wird in einer einzigen Bewegung der Pompfe erst an der Kopfzone und dann an der Trefferzone getroffen.
 
 Wenn eine Spieler*in in einer einzigen Bewegung erst an der Trefferzone und dann an der Kopfzone
@@ -227,12 +228,12 @@ getroffen wird, ist der Treffer gültig platziert.
 Die Kopfzone setzt sich aus Kopf und Hals zusammen.
 
 Bei allen Feldspieler*innen ist der ganze Körper, inklusive Kleidung, aber ohne die Kopfzone, die Trefferzone.
-Bei Läufer*innen gehört zusätzlich auch der Jugg zur Trefferzone, falls sie den Jugg mit den Händen berühren.
-Die Hand einer*s Nahpompfer*in ist nur Trefferzone, wenn sie keine Pompfe berührt, die der*die Nahpompfer*in führt.
-Die Handgelenke sind Teil der Trefferzone.
+Bei Läufer*innen gehört zusätzlich  auch der Jugg zur Trefferzone, falls sie den Jugg mit den Händen berühren.
 
 #boxes.fluffbox([
-	Treffer am Kopf oder an den Händen müssen angesagt werden~(@ansagen).
+	Auch wenn die Hände zu der Trefferzone zählen, können Treffer an Händen von Nahpompfer*innen, die damit eine der Pompfen, die sie führen, berühren ungültig sein (@treffer_platz), vorausgesetzt sie werden entsprechend angesagt (@ansagen).
+
+	Treffer am Kopf müssen angesagt werden (@ansagen).
 ])
 
 #figure(image("/typst/images/trefferzonen.jpg"), caption: "Illustration der Trefferzonen (grau schraffierte Bereiche gehören nicht zur Trefferzone)")
@@ -252,8 +253,8 @@ Ist es diesen Spieler*innen nicht möglich zu unterscheiden, welche Spieler*in z
 Feldspieler*innen müssen Doppeltreffer mit „Doppel!“ ansagen.
 Gegebenenfalls werden sie dabei von Spielhelfer*innen unterstützt.
 
-Wenn ein Treffer außerhalb der Trefferzone platziert wird, müssen die getroffenen Feldspieler*innen dies ansagen.
-Treffer an der Kopfzone müssen mit „Kopf!“ und Treffer an einer Hand, die eine Pompfe berührt, mit „Hand!“ angesagt werden.
+Wenn ein Treffer an der Kopfzone platziert wird, müssen die getroffenen Feldspieler*innen dies mit “Kopf!” ansagen.
+Ein Treffer an einer Hand, die eine Pompfe berührt, darf mit „Hand!” angesagt werden.
 
 Führen Spieler*innen Treffer ungültig aus, müssen sie dies den getroffenen Spieler*innen mitteilen.
 
