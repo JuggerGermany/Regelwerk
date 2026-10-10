@@ -248,6 +248,7 @@ Ist es diesen Spieler*innen nicht möglich zu unterscheiden, welche Spieler*in z
 ])
 
 === Ansagen <ansagen>
+Wenn an Feldspieler*innen ein Treffer gültig platziert wird, müssen sie ihn ansagen.
 
 Feldspieler*innen müssen Doppeltreffer mit „Doppel!“ ansagen.
 Gegebenenfalls werden sie dabei von Spielhelfer*innen unterstützt.
