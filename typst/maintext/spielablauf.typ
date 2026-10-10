@@ -62,7 +62,7 @@ Vor einem Spielzug stellen sich die Feldspieler*innen beider Teams außerhalb de
 	[
 		Vor einem Spielzug muss festgelegt sein, welches Team auf welches Mal spielt (@spielleitung).
 
-		Es kann vorkommen, dass ein Team durch einen Frühstart~(@fruehstart) den Spielzug mit Juggvorteil startet. In diesen Fällen liegt der Jugg zu Zugbeginn nicht auf dem Mittelpunkt des Spielfeldes.
+		Es kann vorkommen, dass ein Team durch einen Frühstart~(@fruehstart) den Spielzug mit Juggvorteil startet. In diesen Fällen liegt der Jugg zu Beginn des Spielzugs nicht auf dem Mittelpunkt des Spielfeldes.
 
 		Während der Aufstellung haben die Teams Zeit zur Erholung, für Taktikbesprechungen und für Ein- und Auswechslungen.
 	],
@@ -70,18 +70,18 @@ Vor einem Spielzug stellen sich die Feldspieler*innen beider Teams außerhalb de
 
 === Bereitschaft signalisieren
 
-Sobald beide Teams signalisiert haben, dass sie bereit sind den nächsten Spielzug zu starten, sollte der Countdown zum nächsten Spielzug von der Spielleitung auf „Achtung-3-2-1-Jugger!“ gesetzt werden.
+Sobald beide Teams signalisiert haben, dass sie bereit sind, den nächsten Spielzug zu starten, sollte der Countdown zum nächsten Spielzug von der Spielleitung auf „Achtung-3-2-1-Jugger!“ gesetzt werden.
 Dieses Startsignal muss im Takt von fünf aufeinanderfolgenden Steinen gerufen werden und der Spielzug startet mit dem Stein auf den Ausruf „Jugger!“.
 
 #boxes.fluffbox(
 	[
-		Teams können ihre Bereitschaft zum Beispiel dadurch signalisieren, dass ein*e Spieler*in, typischerweise die Läufer*in des nächsten Zuges, den Arm hebt.
+		Teams können ihre Bereitschaft zum Beispiel dadurch signalisieren, dass ein*e Spieler*in, typischerweise der*die Läufer*in des nächsten Zuges, den Arm hebt.
 	],
 )
 
 === Frühstart <fruehstart>
 
-Ein Team begeht einen Frühstart, wenn sich ein*e Spieler*in des Teams während des Startsignals, aber vor dem Start des Spielzugs, bereits im Spielfeld befindet.
+Ein Team begeht einen Frühstart, wenn sich ein*e Spieler*in des Teams während des Startsignals, aber vor dem Startsignal, bereits im Spielfeld befindet.
 Für den ersten Frühstart sollte die Spielleitung das jeweilige Team verwarnen.
 Für jeden weiteren Frühstart im Spiel sollte das jeweilige Team durch Juggvorteil für die Gegenseite benachteiligt werden.
 Die Spielleitung darf im eigenen Ermessen von der Benachteiligung absehen, wenn der Frühstart nicht durch das zu früh gestartete Team zu verantworten ist.

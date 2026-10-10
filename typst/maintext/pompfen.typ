@@ -10,7 +10,7 @@
 	Mit Nahpompfen können außerdem andere Feldspieler*innen gepinnt werden~(@pinnen).
 	Mit allen Pompfen darf der Jugg berührt und bewegt werden~(@pompfis).
 
-	Stilisierten Waffen sind keine zulässigen Pompfen.
+	Stilisierte Waffen sind keine zulässigen Pompfen.
 
 	Wird mit reduzierten Maßen gespielt, werden die Längenmaße der Pompfen angepasst.
 ])

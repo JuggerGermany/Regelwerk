@@ -336,7 +336,7 @@ Feldspieler*innen dürfen aufstehen, sobald sie ihre Strafzeit vollständig gez�
 
 Alle Feldspieler*innen stehen auf, indem sie die Hand vom Rücken nehmen oder das Knie vom Boden heben.
 Inaktive Feldspieler*innen stehen auch auf, wenn sie den Jugg bewegen.
-Inaktive Läufer*innen stehen auch auf, wenn den Jugg mit einer Hand berühren, es sei denn der Jugg wird von einem*r anderen Spieler*in an die Hand bewegt.
+Inaktive Läufer*innen stehen auch auf, wenn sie den Jugg mit einer Hand berühren, es sei denn, der Jugg wird von einem*r anderen Spieler*in an die Hand bewegt.
 
 Feldspieler*innen werden aktiv, wenn sie aufstehen, außer sie stehen auf,
 - bevor sie ihre Strafzeit gezählt haben, oder
