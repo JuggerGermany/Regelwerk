@@ -126,7 +126,7 @@
 = Spielregeln
 #include "/typst/maintext/regeln.typ"
 
-= Spielhelfer\*innen
+= Spielhelfer\*innen <spielhelferinnen>
 #include "/typst/maintext/spielhelferinnen.typ"
 
 #[]<end_of_content>

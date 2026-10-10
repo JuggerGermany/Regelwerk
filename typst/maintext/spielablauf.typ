@@ -1,6 +1,6 @@
 #import "../designs/boxes.typ" as boxes
 
-== Spielmodus
+== Spielmodus <spielmodus>
 
 Der Spielmodus wird vor dem Spielbeginn festgelegt und Teams und Spielhelfer*innen kommuniziert. Der Spielmodus legt mindestens die End- und Siegbedingungen für ein Spiel fest.
 
@@ -115,7 +115,7 @@ Wurde der Jugg durch inaktive Läufer*innen ungültig platziert, sollte er aus 
 	[
 		Wird der Jugg durch eine*n aktive Läufer*in ungültig platziert, muss er nicht aus dem Mal genommen werden. Unter Umständen kann der Jugg durch das Loslassen einer*s inaktiven Läufer*in gültig platziert werden. Auch dann punktet das Team und der Spielzug endet~(@jugg_platz).
 
-		Spielhelfer*innen haben die Aufgabe, durch inaktive Läufer*innenungültig platzierte Juggs aus dem Mal zu entfernen (). Spieler*innen dürfen in diesen Fällen ebenfalls den Jugg entfernen.
+		Spielhelfer*innen haben die Aufgabe, durch inaktive Läufer*innen ungültig platzierte Juggs aus dem Mal zu entfernen (@spielhelferinnen). Spieler*innen dürfen in diesen Fällen ebenfalls den Jugg entfernen.
 	],
 )
 
