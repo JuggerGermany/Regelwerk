@@ -183,7 +183,7 @@ Ein Treffer ist gültig ausgeführt, wenn keine der folgenden Bedingungen erfül
 
 - Der*die treffende Pompfer*in ist inaktiv.
 - Die treffende Pompfe wird nicht gültig geführt.
-- Die Pompfe ist von einer Kette umwickelt und trifft eine*n andere*n Feldspieler*in als den*die Kettenspieler*in.
+- Eine der von der treffenden Nahpompfer*in geführten Pompfen ist von einer Kette umwickelt und er*sie trifft eine*n andere*n Feldspieler*in als den*die Kettenspieler*in.
 - Der*die treffende Kettenspieler*in wirft den Kettenball oder zieht die Kette auf dem Boden hinter sich her.
 - Die treffende Kette hat eine andere Pompfe umwickelt.
 - Er erfolgt durch eine Stichbewegung mit einem Stab.
@@ -276,7 +276,7 @@ Aktive Nahpompfer*innen dürfen höchstens eine*n Feldspieler*in pinnen.
 Sie pinnen, indem sie mit der Schlagfläche einer gültig geführten Pompfe die Trefferzone des*der inaktiven Feldspieler*in berühren.
 Sie pinnen, solange die Pompfe auf diese Weise den*die inaktive*n Feldspieler*in berührt.
 
-Eine Nahpompfer*in, dessen*deren Pompfe von einer Kette umwickelt ist, kann nicht pinnen.
+Wenn eine Pompfe, die ein*e Nahpompfer*in führt, von einer Kette umwickelt ist, kann diese*r Nahpompfer*in nicht pinnen.
 
 Für Feldspieler*innen, die ihre Strafzeit ausgezählt haben, besteht ein Pin, wenn sie gepinnt werden.
 Sobald ein*e Feldspieler*in nicht mehr gepinnt wird, besteht der Pin bis zum nächsten Stein, der erklingt.
