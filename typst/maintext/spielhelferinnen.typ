@@ -153,7 +153,7 @@ Als Folge eines Beschlusses muss entweder
 Die Folgen von Beschlüssen müssen den Teams kommuniziert werden.
 
 #boxes.fluffbox([
-	Wenn Missachtungen Maßnahmen weder unsportlich, noch spielrelevant sind, müssen sie nicht zu einem Beschluss führen.
+	Wenn Missachtungen von Maßnahmen weder unsportlich, noch spielrelevant sind, müssen sie nicht zu einem Beschluss führen.
 ])
 
 === Übergreifende, korrektive Maßnahmen  <ueb_massnahmen>
