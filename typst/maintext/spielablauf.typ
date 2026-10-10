@@ -55,8 +55,7 @@ Mindestens der 10.,~5. und die letzten drei Steine müssen angesagt werden.
 Ein Spielzug startet mit dem darauffolgenden Stein und wird mit „Jugger!“ angesagt.
 
 Sobald ein Spielzug startet dürfen Spieler*innen das Spielfeld betreten.
-
-Vor einem Spielzug stellen sich die Feldspieler*innen beider Teams außerhalb des Spielfeldes an der Grundlinie auf, die dem Mal, auf das sie spielen, gegenüberliegt.
+Sie dürfen das Spielfeld nur an der zugehörigen Grundlinie betreten.
 
 #boxes.fluffbox(
 	[
