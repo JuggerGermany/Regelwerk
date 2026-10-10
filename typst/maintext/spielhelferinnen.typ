@@ -21,6 +21,8 @@ Spielhelfer*innen haben die folgenden Aufgaben:
 #boxes.fluffbox(
 	[
 		Alle Spielhelfer*innen müssen den Torso mit einem oder mehreren Kleidungstücken bedecken und Beinkleider tragen. (@kleidung)
+
+		In einem Spiel nach Steinen müssen die Spielhelfer*innen die Steine zählen. Im Falle einer Wiederholung müssen die Steine auf den Wert zu Beginn des Spielzuges zurückgesetzt werden. Die Reststeine sollten nach jedem Spielzug bekannt gegeben werden. (@spielmodus)
 	],
 )
 
@@ -42,7 +44,7 @@ Die Spielleitung hat die folgenden Aufgabe:
 	Züge können aufgrund von Störungen, Verletzungen, einer direkten, korrektiven Maßnahme, bei Erreichen der maximalen Spielzeit oder im Fall eines Patts abgebrochen werden.
 ])
 
-=== Schiedsrichter*innen <schiedsys>
+== Schiedsrichter*innen <schiedsys>
 
 #boxes.fluffbox([
 	Die Schiedsricher*innen begleiten ein Juggerspiel und achten darauf, dass die Spieler*innen die Spielregeln befolgen. Sie können Maßnahmen ergreifen, um das Spiel fair und sicher zu gestalten. 
@@ -151,7 +153,7 @@ Als Folge eines Beschlusses muss entweder
 Die Folgen von Beschlüssen müssen den Teams kommuniziert werden.
 
 #boxes.fluffbox([
-	Wenn Missachtungen Maßnahmen weder unsportlich, noch spielrelevant sind, müssen sie nicht zu einem Beschluss führen.
+	Wenn Missachtungen von Maßnahmen weder unsportlich, noch spielrelevant sind, müssen sie nicht zu einem Beschluss führen.
 ])
 
 === Übergreifende, korrektive Maßnahmen  <ueb_massnahmen>
