@@ -51,6 +51,13 @@ Feldspieler*innen ist es verboten
 - das Mal von seinem vorgegebenen Ort zu verschieben.
 - die Öffnung des Mals zu blockieren, sei es mit dem eigenen Körper oder mit einer Pompfe.
 
+#boxes.fluffbox(
+	[
+		Spieler*innen werden durch Betreten des Spielfeldes zu Feldspieler*innen für einen Spielzug (@teamzusammensetzung).
+	]
+)
+
+
 === Aktive Feldspieler*innen
 
 Nur aktive Feldspieler*innen dürfen am Spielgeschehen teilnehmen.
