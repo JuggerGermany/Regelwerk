@@ -209,6 +209,7 @@ Ein Treffer ist gültig platziert, wenn keine der folgenden Bedingungen erfüllt
 
 - Der*die getroffene Feldspieler*in ist inaktiv.
 - Der Treffer erfolgt nur außerhalb der Trefferzone.
+- Der Treffer erfolgt an einer Hand eines*einer Nahpompfer*in, die eine seiner*ihrer geführten Pompfen berührt, und sonst nur außerhalb der Trefferzone und wird von ihm*ihr mit „Hand" angesagt.
 - Ein*e Feldspieler*in wird in einer einzigen Bewegung der Pompfe erst an der Kopfzone und dann an der Trefferzone getroffen.
 
 Wenn eine Spieler*in in einer einzigen Bewegung erst an der Trefferzone und dann an der Kopfzone
@@ -228,13 +229,11 @@ Die Kopfzone setzt sich aus Kopf und Hals zusammen.
 
 Bei allen Feldspieler*innen ist der ganze Körper, inklusive Kleidung, aber ohne die Kopfzone, die Trefferzone.
 Bei Läufer*innen gehört zusätzlich auch der Jugg zur Trefferzone, falls sie den Jugg mit den Händen berühren.
-Die Hand einer*s Nahpompfer*in ist nur Trefferzone, wenn sie keine Pompfe berührt, die der*die Nahpompfer*in führt.
-Die Handgelenke sind Teil der Trefferzone.
 
 #boxes.fluffbox([
 	Auch wenn die Hände zu der Trefferzone zählen, können Treffer an Händen von Nahpompfer*innen ungültig sein. Voraussetzung ist, dass sie mit der Hand eine der Pompfen berühren, die sie führen (@treffer_platz) und dass die Treffer entsprechend angesagt werden (@ansagen).
 
-	Treffer an der Kopfzone müssen angesagt werden. Treffer an den Händen dürfen angesagt werden (@ansagen).
+	Treffer an der Kopfzone müssen angesagt werden (@ansagen).
 ])
 
 #figure(image("/typst/images/trefferzonen.jpg"), caption: "Illustration der Trefferzonen (grau schraffierte Bereiche gehören nicht zur Trefferzone)")
