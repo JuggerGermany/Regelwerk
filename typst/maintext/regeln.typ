@@ -232,7 +232,7 @@ Die Hand einer*s Nahpompfer*in ist nur Trefferzone, wenn sie keine Pompfe berüh
 Die Handgelenke sind Teil der Trefferzone.
 
 #boxes.fluffbox([
-	Treffer am Kopf oder an den Händen müssen angesagt werden~(@ansagen).
+	Aktive Feldspieler*innen müssen ansagen, wenn sie am Kopf oder den Händen getroffen werden~(@ansagen).
 ])
 
 #figure(image("/typst/images/trefferzonen.jpg"), caption: "Illustration der Trefferzonen (grau schraffierte Bereiche gehören nicht zur Trefferzone)")
