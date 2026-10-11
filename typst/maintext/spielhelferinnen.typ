@@ -187,3 +187,9 @@ Folgende übergreifende, korrektive Maßnahmen dürfen in Folge eines Beschlusse
 - Vergabe von Juggvorteil für den nächsten Zug,
 - Überprüfen der Regelkonformität einer Pompfe oder
 - Pausieren des Spiels.
+
+#boxes.fluffbox(
+	[
+		Teams dürfen den Schiedsrichter*innen übergreifende, korrektive Maßnahmen, die zu ihren eigenen Nachteil sind, vorschlagen.
+	]
+)
