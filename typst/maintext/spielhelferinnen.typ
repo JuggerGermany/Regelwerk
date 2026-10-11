@@ -22,7 +22,9 @@ Spielhelfer*innen haben die folgenden Aufgaben:
 	[
 		Alle Spielhelfer*innen müssen den Torso mit einem oder mehreren Kleidungstücken bedecken und Beinkleider tragen. (@kleidung)
 
-		In einem Spiel nach Steinen müssen die Spielhelfer*innen die Steine zählen. Im Falle einer Wiederholung müssen die Steine auf den Wert zu Beginn des Spielzuges zurückgesetzt werden. Die Reststeine sollten nach jedem Spielzug bekannt gegeben werden. (@spielmodus)
+		In einem Spiel nach Steinen müssen die Spielhelfer*innen die Steine zählen. 
+		Im Falle einer Wiederholung müssen die Steine auf den Wert zu Beginn des Spielzuges zurückgesetzt werden. 
+		Die Reststeine sollten nach jedem Spielzug bekannt gegeben werden. (@spielmodus)
 	],
 )
 
@@ -47,10 +49,13 @@ Die Spielleitung hat die folgenden Aufgabe:
 == Schiedsrichter*innen <schiedsys>
 
 #boxes.fluffbox([
-	Die Schiedsricher*innen begleiten ein Juggerspiel und achten darauf, dass die Spieler*innen die Spielregeln befolgen. Sie können Maßnahmen ergreifen, um das Spiel fair und sicher zu gestalten. 
+	Die Schiedsricher*innen begleiten ein Juggerspiel und achten darauf, dass die Spieler*innen die Spielregeln befolgen. 
+	Sie können Maßnahmen ergreifen, um das Spiel fair und sicher zu gestalten. 
 ])
 
-Alle Schiedsrichter*innen sind unparteiisch. Sie haben die Aufgaben das Spielgeschehen zu beobachten. Darunter fallen unter anderem:
+Alle Schiedsrichter*innen sind unparteiisch. 
+Sie haben die Aufgaben das Spielgeschehen zu beobachten. 
+Darunter fallen unter anderem:
 
 - Interaktionen mit dem Jugg,
 - Treffer,
@@ -60,7 +65,8 @@ Alle Schiedsrichter*innen sind unparteiisch. Sie haben die Aufgaben das Spielges
 
 Zu dem beobachteten Spielgeschehen treffen sie basierend auf diesem Regelwerk Entscheidungen und Beschlüsse, die zu Maßnahmen führen.
 
-Die Schiedsrichter*innen werden vor Spielbeginn von den Teams informiert, ob die Teams sich auf abweichende Läufer*innenkampfregeln festgelegt haben. Die Schiedsrichter*innen dürfen beschließen die Einigungen abzulehnen.
+Die Schiedsrichter*innen werden vor Spielbeginn von den Teams informiert, ob die Teams sich auf abweichende Läufer*innenkampfregeln festgelegt haben.
+ Die Schiedsrichter*innen dürfen beschließen die Einigungen abzulehnen.
 
 Schiedsrichter*innen müssen 
 
@@ -71,7 +77,9 @@ Schiedsrichter*innen müssen
 
 signalisieren.
 
-Während eines Spielzuges sollten sich Schiedsrichter*innen so bewegen, dass sie ihre Aufgaben erfüllen können. Sie dürfen zum Erfüllen ihrer Aufgaben das Spielfeld betreten. Sie sollten dabei nur so viel wie nötig in das Spielgeschehen eingreifen.
+Während eines Spielzuges sollten sich Schiedsrichter*innen so bewegen, dass sie ihre Aufgaben erfüllen können. 
+Sie dürfen zum Erfüllen ihrer Aufgaben das Spielfeld betreten. 
+Sie sollten dabei nur so viel wie nötig in das Spielgeschehen eingreifen.
 
 Ergreifen Schiedsrichter*innen im Spielgeschehen vorgeschriebene oder korrektive Maßnahmen, müssen sie diese deutlich und verständlich kommunizieren, so dass insbesondere die Betroffen sie befolgen können.
 
@@ -113,7 +121,8 @@ Die Folge einer Entscheidung kann auch nach dem Zug durch einen Beschluss festge
 === Vorgeschriebene Maßnahmen <vor_massnahmen>
 #boxes.fluffbox(
 	[
-		Vorgeschriebene Maßnahmen sind die Folgen einer Regelung. Haben Schiedsrichter*innen entsprechende Entscheidungen getroffen, müssen sie diese Maßnahmen ergreifen.
+		Vorgeschriebene Maßnahmen sind die Folgen einer Regelung. 
+		Haben Schiedsrichter*innen entsprechende Entscheidungen getroffen, müssen sie diese Maßnahmen ergreifen.
 	],
 )
 
@@ -125,7 +134,8 @@ Es gibt folgende vorgeschriebene Maßnahmen:
 
 === Direkte, korrektive Maßnahmen <dir_massnahmen>
 #boxes.fluffbox([
-	Direkte, korrektive Maßnahmen sind die Folgen einer Entscheidung über Fehlverhalten. Sie liegen im Ermessen der Schiedsrichter*innen.
+	Direkte, korrektive Maßnahmen sind die Folgen einer Entscheidung über Fehlverhalten. 
+	Sie liegen im Ermessen der Schiedsrichter*innen.
 ])
 Folgende direkte, korrektive Maßnahmen dürfen ergriffen werden:
 
@@ -141,9 +151,12 @@ Folgende direkte, korrektive Maßnahmen dürfen ergriffen werden:
 #boxes.fluffbox([
 	Schiedsrichter*innen können nach einem Spielzug Beschlüsse treffen. 
 ])
-Gegenläufige Entscheidungen von Schiedsrichter*innen und unsportliches Verhalten müssen zu einem Beschluss führen. Entscheidungen und Missachtung einer Maßnahme dürfen zu einem Beschluss führen.
+Gegenläufige Entscheidungen von Schiedsrichter*innen und unsportliches Verhalten müssen zu einem Beschluss führen. 
+Entscheidungen und Missachtung einer Maßnahme dürfen zu einem Beschluss führen.
 
-Die Schiedsrichter*innen müssen Beschlüsse gemeinsam treffen. Wenn Uneinigkeit zwischen den Schiedsrichter*innen besteht, entscheidet die Spielleitung. Um einen Beschluss zu treffen, sollten die Perspektiven der betroffenen Spieler*innen einbezogen werden.
+Die Schiedsrichter*innen müssen Beschlüsse gemeinsam treffen. 
+Wenn Uneinigkeit zwischen den Schiedsrichter*innen besteht, entscheidet die Spielleitung. 
+Um einen Beschluss zu treffen, sollten die Perspektiven der betroffenen Spieler*innen einbezogen werden.
 
 Als Folge eines Beschlusses muss entweder
 
@@ -158,7 +171,8 @@ Die Folgen von Beschlüssen müssen den Teams kommuniziert werden.
 
 === Übergreifende, korrektive Maßnahmen  <ueb_massnahmen>
 #boxes.fluffbox([
-	Übergreifende, korrektive Maßnahmen sind die Folgen von Beschlüssen. Sie liegen im Ermessen der Schiedsrichter*innen.
+	Übergreifende, korrektive Maßnahmen sind die Folgen von Beschlüssen. 
+	Sie liegen im Ermessen der Schiedsrichter*innen.
 ])
 
 Folgende übergreifende, korrektive Maßnahmen dürfen in Folge eines Beschlusses ergriffen werden:
