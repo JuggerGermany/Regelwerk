@@ -83,7 +83,9 @@ Sie sollten dabei nur so viel wie nötig in das Spielgeschehen eingreifen.
 
 Ergreifen Schiedsrichter*innen im Spielgeschehen vorgeschriebene oder korrektive Maßnahmen, müssen sie diese deutlich und verständlich kommunizieren, so dass insbesondere die Betroffen sie befolgen können.
 
-Spieler*innen sollten die direkte, korrektiven Maßnahmen der Schiedsrichter*innen befolgen, es sei denn die betroffenen Spieler*innen beider Teams haben sich über den Sachverhalt geeinigt. Übergreifende, korrektive Maßnahmen in Folge von Beschlüssen müssen in allen Fällen befolgt werden.
+Spieler*innen sollten die direkten, korrektiven Maßnahmen der Schiedsrichter*innen befolgen.
+Wenn die betroffenen Spieler*innen beider Teams sich über den Sachverhalt geeinigt haben, muss diese Maßnahme nicht befolgt werden, egal ob die Maßnahme vor oder nach der Einigung ergriffen wurde.
+Übergreifende, korrektive Maßnahmen in Folge von Beschlüssen müssen in allen Fällen befolgt werden.
 
 Außerdem dürfen Schiedsrichter*innen die Regelkonformität von Pompfen und verwendeter Schutzkleidung überprüfen und regelunkonforme Pompfen und Schutzkleidung vom Spiel ausschließen.
 
