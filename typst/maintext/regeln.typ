@@ -231,9 +231,9 @@ Bei allen Feldspieler*innen ist der ganze Körper, inklusive Kleidung, aber ohne
 Bei Läufer*innen gehört zusätzlich auch der Jugg zur Trefferzone, falls sie den Jugg mit den Händen berühren.
 
 #boxes.fluffbox([
-	Auch wenn die Hände zu der Trefferzone zählen, können Treffer an Händen von Nahpompfer*innen, die damit eine der Pompfen, die sie führen, berühren ungültig sein (@treffer_platz), vorausgesetzt sie werden entsprechend angesagt (@ansagen).
+	Auch wenn die Hände zu der Trefferzone zählen, können Treffer an Händen von Nahpompfer*innen ungültig sein. Voraussetzung ist, dass sie mit der Hand eine der Pompfen berühren, die sie führen (@treffer_platz) und dass die Treffer entsprechend angesagt werden (@ansagen).
 
-	Treffer an der Kopfzone müssen angesagt werden (@ansagen).
+	Treffer an der Kopfzone müssen angesagt werden. Treffer an den Händen dürfen angesagt werden (@ansagen).
 ])
 
 #figure(image("/typst/images/trefferzonen.jpg"), caption: "Illustration der Trefferzonen (grau schraffierte Bereiche gehören nicht zur Trefferzone)")
