@@ -233,7 +233,8 @@ Bei Läufer*innen gehört zusätzlich auch der Jugg zur Trefferzone, falls sie d
 #boxes.fluffbox([
 	Auch wenn die Hände zu der Trefferzone zählen, können Treffer an Händen von Nahpompfer*innen ungültig sein. Voraussetzung ist, dass sie mit der Hand eine der Pompfen berühren, die sie führen (@treffer_platz) und dass die Treffer entsprechend angesagt werden (@ansagen).
 
-	Treffer an der Kopfzone müssen angesagt werden (@ansagen).
+	
+	Gültig platzierte Treffer und Treffer an der Kopfzone oder an den Händen müssen angesagt werden~(@ansagen).
 ])
 
 #figure(image("/typst/images/trefferzonen.jpg"), caption: "Illustration der Trefferzonen (grau schraffierte Bereiche gehören nicht zur Trefferzone)")
@@ -265,6 +266,7 @@ Alle Ansagen müssen schnellstmöglich, laut und deutlich erfolgen.
 	Ansagen helfen Spieler*innen und Spielhelfer*innen Trefferverhältnisse zu beschreiben und den Spielfluss aufrecht zu halten.
 
 	Um auszudrücken, dass kein Treffer platziert wurde, können Feldspieler*innen „Nichts!“ ansagen.
+	Treffer an inaktiven Feldspieler*innen sind immer ungültig platziert und müssen nicht angesagt werden.
 ])
 
 == Pinnen <pinnen>
