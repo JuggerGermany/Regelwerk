@@ -232,7 +232,7 @@ Die Hand einer*s Nahpompfer*in ist nur Trefferzone, wenn sie keine Pompfe berüh
 Die Handgelenke sind Teil der Trefferzone.
 
 #boxes.fluffbox([
-	Treffer am Kopf oder an den Händen müssen angesagt werden~(@ansagen).
+	Gültig platzierte Treffer und Treffer am Kopf oder an den Händen müssen angesagt werden~(@ansagen).
 ])
 
 #figure(image("/typst/images/trefferzonen.jpg"), caption: "Illustration der Trefferzonen (grau schraffierte Bereiche gehören nicht zur Trefferzone)")
@@ -265,6 +265,7 @@ Alle Ansagen müssen schnellstmöglich, laut und deutlich erfolgen.
 	Ansagen helfen Spieler*innen und Spielhelfer*innen Trefferverhältnisse zu beschreiben und den Spielfluss aufrecht zu halten.
 
 	Um auszudrücken, dass kein Treffer platziert wurde, können Feldspieler*innen „Nichts!“ ansagen.
+	Treffer an inaktiven Feldspieler*innen sind immer ungültig platziert und müssen nicht angesagt werden.
 ])
 
 == Pinnen <pinnen>
