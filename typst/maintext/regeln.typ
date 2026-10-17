@@ -255,7 +255,8 @@ Gegebenenfalls werden sie dabei von Spielhelfer*innen unterstützt.
 Wenn ein Treffer außerhalb der Trefferzone platziert wird, sollten die getroffenen Feldspieler*innen dies ansagen.
 Feldspieler*innen dürfen Treffer an der Trefferzone ansagen.
 Tun sie dies, müssen sie keine Ansagen zu Treffern außerhalb ihrer Trefferzone machen, bis der Treffer für ungültig erklärt wird oder sie gültig abknien.
-Treffer an der Kopfzone müssen mit “Kopf!” und Treffer an einer Hand, die eine Pompfe berührt, mit “Hand!” angesagt werden.
+Treffer an der Kopfzone müssen mit „Kopf!“ angesagt werden.
+Wenn ein Treffer an der Hand eines*r Nahpompfers*in erfolgt, die keine Trefferzone ist, muss der Treffer mit „Hand” angesagt werden.
 
 Führen Spieler*innen Treffer ungültig aus, müssen sie dies den getroffenen Spieler*innen mitteilen.
 
